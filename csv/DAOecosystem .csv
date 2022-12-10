@@ -1,0 +1,15 @@
+,data,apiAccountMetaData
+totalTreasury,9478679846.328543,
+governanceTokenHolders,5025583.0,
+activeMembers,1542233.0,
+organizationsOver1MUsd,123.0,
+organizationsOver10MUsd,62.0,
+organizationsOver100MUsd,14.0,
+organizationsOver100GovTokenHolders,189.0,
+organizationsOver1kGovTokenHolders,129.0,
+organizationsOver10kGovTokenHolders,61.0,
+totalProposals,89802.0,
+totalVotes,8064889.0,
+endpoint,,https://api.deepdao.io/v0.1/ecosystem
+origin,,DeepDAO
+date,,2022-12-04T11:54:23.584Z
