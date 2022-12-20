@@ -1,0 +1,361 @@
+,organizationId,platform,title,description,proposer,proposalCreatedAt,proposalNativeId,endedAt,status,totalVotes,choicesMappedToScores,proposalUrl,proposerProfilePageUrl
+0,dc75701f-177f-411d-be4c-87e2b670b274,SNAPSHOT,daaa,aaaa,0x66eacd67e94d9db0dcd65aa0286312471c93088b,2022-11-30T17:48:52.000Z,0xea8d652f684abdeec7f19e8b3d647d4bea752b7a48a210420a80c585cf463f19,2022-12-03T17:48:50.000Z,ACTIVE,2,"{""aaa"":""["",""aaaa"":""1""}",https://deepdao.io/feed-proposal/0xea8d652f684abdeec7f19e8b3d647d4bea752b7a48a210420a80c585cf463f19,https://deepdao.io/user/0x66eacd67e94d9db0dcd65aa0286312471c93088b/verified_dao_experience
+1,1dad529d-8e13-4700-b609-7503e60d3091,SNAPSHOT,Zec to da Moon,@157 H.O.D.L till end of times,0x3af9fe35d280ada5a5edb1bef3ed872a3231d73c,2022-03-17T05:19:12.000Z,0x503736de0841888a78ce755f78cb3c926d2bfed5a7c5c00b615572756c837fc5,2024-06-30T03:20:00.000Z,ACTIVE,2,"{""skrr"":""["",""brrr"":""1""}",https://deepdao.io/feed-proposal/0x503736de0841888a78ce755f78cb3c926d2bfed5a7c5c00b615572756c837fc5,https://deepdao.io/user/0x3af9fe35d280ada5a5edb1bef3ed872a3231d73c/verified_dao_experience
+2,dc75701f-177f-411d-be4c-87e2b670b274,SNAPSHOT,nfgnfgnfg,fgnfgnfgnfg,0x66eacd67e94d9db0dcd65aa0286312471c93088b,2022-11-30T18:14:23.000Z,0x277ee9a6a3b707f4b823260380f46de952cd3b5dfaa971850b6e3d4b5241bfcd,2022-12-03T18:14:20.000Z,ACTIVE,2,"{""hjkyjkhjj"":""["",""jfjfgjfgj"":""2""}",https://deepdao.io/feed-proposal/0x277ee9a6a3b707f4b823260380f46de952cd3b5dfaa971850b6e3d4b5241bfcd,https://deepdao.io/user/0x66eacd67e94d9db0dcd65aa0286312471c93088b/verified_dao_experience
+3,ad814279-3f12-428d-820a-be25abb51273,SNAPSHOT,Snapshot Investment Vote 39,"Invest $100k in VMEX Finance.
+
+https://hideout.metacartel.xyz/t/vmex-investment-memo/293",0x6df304782b0866d2538c8fd2e46904a7f2ae321c,2022-11-28T19:02:03.000Z,0xe7d45dc713c0862128dc507f890488f2eb33fe4c39dee2c3854a9e57a70a02bd,2022-12-05T19:01:55.000Z,ACTIVE,2,"{""yes"":""["",""no"":""1""}",https://deepdao.io/feed-proposal/0xe7d45dc713c0862128dc507f890488f2eb33fe4c39dee2c3854a9e57a70a02bd,https://deepdao.io/user/0x6df304782b0866d2538c8fd2e46904a7f2ae321c/verified_dao_experience
+4,c84cd1ca-1b59-4ac7-ba68-0f3763e60998,,"Approve a proposal. At a later time, the proposal will be allocated to the beneficiary
+and the original deposit will be returned.
+
+May only be called from `T::ApproveOrigin`.
+
+# <weight>
+- Complexity: O(1).
+- DbReads: `Proposals`, `Approvals`
+- DbWrite: `Approvals`
+# </weight>",,1hCMdtRsaRA4ZTEKpPKPvEjK9rZpGhyFnRHSDhqFMCEayRL,2022-10-17T17:04:42.010Z,polkadot_636f756e-00000280,,ACTIVE,2,,https://deepdao.io/feed-proposal/polkadot_636f756e-00000280,https://deepdao.io/user/1hCMdtRsaRA4ZTEKpPKPvEjK9rZpGhyFnRHSDhqFMCEayRL/verified_dao_experience
+5,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,工作照,屏蔽,0xf3a1d0793aca114855bff895f30385995f2d2b69,2021-11-12T07:26:10.000Z,0xa0ca858e4e034c1e2c47e20dd8bcfe7c288c1743633a9d71c8f871b07f11c76f,2023-02-28T04:00:00.000Z,ACTIVE,2,"{""安全落地"":""["",""坐飞机"":""0""}",https://deepdao.io/feed-proposal/0xa0ca858e4e034c1e2c47e20dd8bcfe7c288c1743633a9d71c8f871b07f11c76f,https://deepdao.io/user/0xf3a1d0793aca114855bff895f30385995f2d2b69/verified_dao_experience
+6,c59bd47c-f69f-4f2c-aafa-2454ee021fdb,SNAPSHOT,When will Arb airdrop to early users?,When will Arb airdrop to early users?,0xd95cc726c309ff9f8a59099337601fd568370505,2022-07-02T07:57:13.000Z,0xe67e852b4fdbaaf2839f2afb543eb3f7b82a9419e31d05238fe10c82f4a6c81b,2027-01-25T04:00:00.000Z,ACTIVE,2,"{""soon"":""["",""on 2025"":""2""}",https://deepdao.io/feed-proposal/0xe67e852b4fdbaaf2839f2afb543eb3f7b82a9419e31d05238fe10c82f4a6c81b,https://deepdao.io/user/0xd95cc726c309ff9f8a59099337601fd568370505/verified_dao_experience
+7,e10d5152-4098-419b-a9ec-e9a26c0a975e,SNAPSHOT,Migrating the Spool DAO Treasury Smart Vault [SIP - 1.19],"## Summary 📑
+
+Transfer the 10 million DAI from the current treasury Smart Vault to a new one with increased yield.
+
+## Proposal 📫
+
+For the past X months the majority of treasury funds has been generating yield in its designated vault leveraging Aave, Compound, Convex (3pool), Curve (3pool), Harvest, Idle, and Yearn strategies. As the Curve strategy has decreased its yields and the exposure is equal due to Convex Finance, we propose to set up a new Treasury Smart Vault that has the Curve strategy removed and subsequently transfer the 10 million DAI into the newly created Smart Vault.
+
+# Motivation 🔥
+
+The not yet needed DAO treasury funds shall continue farming yield within the Spool protocol but with a potentially higher APY. With this vote Spool DAO should decide to set up a new, unincentivized, low-risk Spool, to raise the yield from currently ~$178,000 annually to ~$223,000. The additional $45,000 will benefit future development and enable further improvement of the Spool protocol and brand.
+
+## Vote 🗳
+
+With “Yes” you vote to set up a new Spool Treasury Smart Vault and transfer the balance of the current Treasury to it, with “No” you vote against this strategy.",0x1692b7c8ca1d384c22336e482a5d5ff46e1d86cd,2022-11-29T18:15:52.000Z,0xe60fb35e24e9932f8ecc7f3972aaaf2341ab3772f81514513ba54d12afe04342,2022-12-05T13:00:00.000Z,ACTIVE,2,"{""Yes"":""["",""No"":""2""}",https://deepdao.io/feed-proposal/0xe60fb35e24e9932f8ecc7f3972aaaf2341ab3772f81514513ba54d12afe04342,https://deepdao.io/user/0x1692b7c8ca1d384c22336e482a5d5ff46e1d86cd/verified_dao_experience
+8,32970b68-b149-4824-a2ab-a6621d169b8b,SNAPSHOT,Feature to allow community to contribute to insider monitor - /addinsider,"Add /addinsider command to the analysis bot, that enables the community to contribute to the Sniper & Insider Monitor Channel
+
+/addinsider Messi 0xWalletAddress
+
+That will add 0xWalletAddress to the Sniper & Insider Monitor with the nickname Messi.",0xd53759e1e52258d6eef65ace9709ed0854291709,2022-11-29T08:40:18.000Z,0x9e666a5f68379d417f72dbac9020aff3970fa5b63fcdfd4619f6ad05caafb1fa,2023-02-27T08:40:16.000Z,ACTIVE,2,"{""For"":""["",""Against"":""2"",""Abstain"":"",""}",https://deepdao.io/feed-proposal/0x9e666a5f68379d417f72dbac9020aff3970fa5b63fcdfd4619f6ad05caafb1fa,https://deepdao.io/user/0xd53759e1e52258d6eef65ace9709ed0854291709/verified_dao_experience
+9,787cc9f1-83ab-4219-be72-88ab6aa555ae,SNAPSHOT,真的是多链共存吗？,,0x477d1cbf830511b1123207911780376f1ad14a3d,2022-10-11T08:19:57.000Z,0xe295e70ecc1a4ef933f0abcc173024bbbe6be9709174ee6382dea774aed726c6,2023-01-20T04:00:00.000Z,ACTIVE,2,"{""不是的，多链是伪说"":""["",""多链有合理性"":""0""}",https://deepdao.io/feed-proposal/0xe295e70ecc1a4ef933f0abcc173024bbbe6be9709174ee6382dea774aed726c6,https://deepdao.io/user/0x477d1cbf830511b1123207911780376f1ad14a3d/verified_dao_experience
+10,787cc9f1-83ab-4219-be72-88ab6aa555ae,SNAPSHOT,现在各种币是不是太多啦？,,0x477d1cbf830511b1123207911780376f1ad14a3d,2022-10-11T08:21:51.000Z,0x4bfc4d102ff2af74e77c1af238f14cc66ccad949ee82f9ef3f4fd8500053aed4,2023-01-31T05:14:00.000Z,ACTIVE,2,"{""是的，都是割韭菜的多"":""["",""还还好吧"":""1""}",https://deepdao.io/feed-proposal/0x4bfc4d102ff2af74e77c1af238f14cc66ccad949ee82f9ef3f4fd8500053aed4,https://deepdao.io/user/0x477d1cbf830511b1123207911780376f1ad14a3d/verified_dao_experience
+11,7445bf5c-f4ef-43bf-8161-bec731aeffcc,SNAPSHOT,现在社会很浮躁吗,,0x29ebd3329167eb7a0f471ec764afee8e8c69a7e1,2022-10-10T08:57:53.000Z,0xe25d6efa7992106e9b2944055cf1464a08f684e65fa5766378281c2a3a9191cc,2023-02-16T15:00:00.000Z,ACTIVE,2,"{""是的"":""["",""没有"":""2""}",https://deepdao.io/feed-proposal/0xe25d6efa7992106e9b2944055cf1464a08f684e65fa5766378281c2a3a9191cc,https://deepdao.io/user/0x29ebd3329167eb7a0f471ec764afee8e8c69a7e1/verified_dao_experience
+12,7445bf5c-f4ef-43bf-8161-bec731aeffcc,SNAPSHOT,现在的币圈投机大于投资？,,0x29ebd3329167eb7a0f471ec764afee8e8c69a7e1,2022-10-10T08:46:01.000Z,0x4ad590a880ce51cbd0fca45834d3a660698ec5bf508c332185f3377ff312b5d9,2023-01-31T14:00:00.000Z,ACTIVE,2,"{""是的"":""["",""不是"":""1""}",https://deepdao.io/feed-proposal/0x4ad590a880ce51cbd0fca45834d3a660698ec5bf508c332185f3377ff312b5d9,https://deepdao.io/user/0x29ebd3329167eb7a0f471ec764afee8e8c69a7e1/verified_dao_experience
+13,09cc34ff-7d76-4135-a7d9-5d8c2ec7ca4d,SNAPSHOT,will  btc go to $70K by the end of 2022?,will  btc go to $70K by the end of 2022?,0xbb870eafdf456e56744ce629c9c358675d3d54e2,2022-06-24T05:07:42.000Z,0xdfedffc51685b88ea77184dccec0a0b9b439278467805306e6c9825db2938944,2024-12-31T04:00:00.000Z,ACTIVE,2,"{""yes"":""["",""no "":""1""}",https://deepdao.io/feed-proposal/0xdfedffc51685b88ea77184dccec0a0b9b439278467805306e6c9825db2938944,https://deepdao.io/user/0xbb870eafdf456e56744ce629c9c358675d3d54e2/verified_dao_experience
+14,48eafb4d-487f-4b2d-a153-d96e5951c373,SNAPSHOT,will ETH to zero this year?,will ETH to zero this year?,0x59f046da47f81af56c5348d77f830b008654b485,2022-06-24T05:24:30.000Z,0x97ed43e8c56f69122d520cc7a0df5bed9ec401a8f51f5fbad6c7f5a649883493,2027-01-27T04:00:00.000Z,ACTIVE,2,"{""yes "":""["",""no "":""1""}",https://deepdao.io/feed-proposal/0x97ed43e8c56f69122d520cc7a0df5bed9ec401a8f51f5fbad6c7f5a649883493,https://deepdao.io/user/0x59f046da47f81af56c5348d77f830b008654b485/verified_dao_experience
+15,a4109e4e-b769-4a85-98c9-c5f375a8a3e8,SNAPSHOT,喜欢什么类型？,,0xd6a413670ee16dc759c99939989995e11449f171,2022-09-12T04:14:26.000Z,0xdca71fca0a1468eb213317f70cf33fc889e877a5564693ada06ab8ed24db628f,2023-01-28T04:00:00.000Z,ACTIVE,2,"{""萝莉"":""["",""清纯"":""0"",""成熟"":"","",""活泼"":""1"",""野性"":"".""}",https://deepdao.io/feed-proposal/0xdca71fca0a1468eb213317f70cf33fc889e877a5564693ada06ab8ed24db628f,https://deepdao.io/user/0xd6a413670ee16dc759c99939989995e11449f171/verified_dao_experience
+16,fcda1220-1211-49e2-a018-4cf9a1764b32,SNAPSHOT,The metaverse is the future,,0x43d6703d429013691b59cdc0196627ba10594b4d,2022-02-17T14:29:11.000Z,0xde224bee7c79446ce3d804c1db3ae16283ff16877145e88d5d41175c8a8644e5,2024-02-07T14:28:56.000Z,ACTIVE,2,"{""支持"":""["",""反对"":""0"",""弃权"":"".""}",https://deepdao.io/feed-proposal/0xde224bee7c79446ce3d804c1db3ae16283ff16877145e88d5d41175c8a8644e5,https://deepdao.io/user/0x43d6703d429013691b59cdc0196627ba10594b4d/verified_dao_experience
+17,5f272b2c-98c0-4a48-90ef-cf15393a6150,SNAPSHOT,how long had you entered crypto investment?,how long had you entered crypto investment?,0x18edcc431920a9b757cbd3aa46107bbdd76eedc7,2022-06-26T02:59:50.000Z,0xde57ff444cc504da4d894412398979de17023a2c45a8aea2e4568ca3a493de11,2026-05-25T04:00:00.000Z,ACTIVE,2,"{""5years"":""["",""1years"":""3"",""2years"":"".""}",https://deepdao.io/feed-proposal/0xde57ff444cc504da4d894412398979de17023a2c45a8aea2e4568ca3a493de11,https://deepdao.io/user/0x18edcc431920a9b757cbd3aa46107bbdd76eedc7/verified_dao_experience
+18,2ac001e0-0181-4438-9fd8-6c3f4f5a8b6b,SNAPSHOT,eth    >    4000    2023,,0xd7d8cf2415a894769fba9487fa6a36b627e6feec,2022-09-18T15:34:23.000Z,0x2591dd80851d5832594096acb9304ef2c167cb04bd4d27389523e8207d1c4567,2023-12-31T04:00:00.000Z,ACTIVE,2,"{""YES"":""["",""NO"":""1""}",https://deepdao.io/feed-proposal/0x2591dd80851d5832594096acb9304ef2c167cb04bd4d27389523e8207d1c4567,https://deepdao.io/user/0xd7d8cf2415a894769fba9487fa6a36b627e6feec/verified_dao_experience
+19,434e3b36-dc17-48b7-8452-277179449c15,SNAPSHOT,How much can Torum's token XTM go up to?,,0x412ff87c2821ed525a294d044c63739cd12b9024,2021-12-17T13:10:47.000Z,0x95b561446a099a4437ba3da5abc32acbb6d03bf8a9a939475dbec3c9482c1308,2022-12-31T04:00:00.000Z,ACTIVE,2,"{""$0.1~$1"":""["",""$1-$2"":""0"",""$2-$3"":"","",""$3 or more"":""0""}",https://deepdao.io/feed-proposal/0x95b561446a099a4437ba3da5abc32acbb6d03bf8a9a939475dbec3c9482c1308,https://deepdao.io/user/0x412ff87c2821ed525a294d044c63739cd12b9024/verified_dao_experience
+20,be66d800-ba37-4336-95b5-e4fc2bf84148,SNAPSHOT,When will $BLT hit $1?,,0x412ff87c2821ed525a294d044c63739cd12b9024,2022-06-04T06:59:31.000Z,0xdb528137b6d1640c10e6aed523740d12fffc230992b7153ad16236fe93cbe855,2022-12-31T04:00:00.000Z,ACTIVE,2,"{""2022~2023"":""["",""2023~2025"":""0"",""2025~2030"":"",""}",https://deepdao.io/feed-proposal/0xdb528137b6d1640c10e6aed523740d12fffc230992b7153ad16236fe93cbe855,https://deepdao.io/user/0x412ff87c2821ed525a294d044c63739cd12b9024/verified_dao_experience
+21,08a8f504-79ae-4b12-99c7-2e0271b0be8a,SNAPSHOT,will chr go to 1$ this year?,will chr go to 1$ this year?,0x145595508c5b759856da9b5e32246660db81fcda,2022-08-22T05:43:25.000Z,0x256aee09f58f745f59ff5e38de213a2230de89ad31724389678daff1d2d72648,2028-05-31T04:00:00.000Z,ACTIVE,2,"{""yes"":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x256aee09f58f745f59ff5e38de213a2230de89ad31724389678daff1d2d72648,https://deepdao.io/user/0x145595508c5b759856da9b5e32246660db81fcda/verified_dao_experience
+22,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,ok吗,什么状态,0x7dfe60ef05abd269115c10c6a0ce31977afd2491,2021-11-12T08:19:36.000Z,0x48a7d1f56cf8bb084b7ea97e0231cbad603b5f11bd9ef32eec3ff6997238d331,2023-01-26T04:00:00.000Z,ACTIVE,2,"{""小胖子"":""["",""矮大紧"":""0""}",https://deepdao.io/feed-proposal/0x48a7d1f56cf8bb084b7ea97e0231cbad603b5f11bd9ef32eec3ff6997238d331,https://deepdao.io/user/0x7dfe60ef05abd269115c10c6a0ce31977afd2491/verified_dao_experience
+23,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,人间很惆怅,,0x726a43e4facf2928a4425d0d73b85e3a5bfa94aa,2021-11-12T10:21:18.000Z,0xdb1aa377743c0e1255cb4472bb715c3b5165663f965f5cde8c1be95877e98920,2023-03-30T04:00:00.000Z,ACTIVE,2,"{""电音1"":""["",""大眼睛"":""0""}",https://deepdao.io/feed-proposal/0xdb1aa377743c0e1255cb4472bb715c3b5165663f965f5cde8c1be95877e98920,https://deepdao.io/user/0x726a43e4facf2928a4425d0d73b85e3a5bfa94aa/verified_dao_experience
+24,9d98b813-b8f6-430c-9c91-e5bd7c8e89a9,SNAPSHOT,snapshot的意义,积极参与,0xfe1fec8eed6465295b2638139b2f00145c19af8e,2022-09-17T08:28:44.000Z,0xdf311773a122b85be631c93a5b906b52761a4327ec1153849cc3987786666c88,2024-03-08T04:00:00.000Z,ACTIVE,2,"{""有意义"":""["",""没意义"":""2""}",https://deepdao.io/feed-proposal/0xdf311773a122b85be631c93a5b906b52761a4327ec1153849cc3987786666c88,https://deepdao.io/user/0xfe1fec8eed6465295b2638139b2f00145c19af8e/verified_dao_experience
+25,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,," Schedule the currently externally-proposed majority-carries referendum to be tabled
+ immediately. If there is no externally-proposed referendum currently, or if there is one
+ but it is not a majority-carries referendum then it fails.
+
+ The dispatch of this call must be `FastTrackOrigin`.
+
+ - `proposal_hash`: The hash of the current external proposal.
+ - `voting_period`: The period that is allowed for voting on this proposal. Increased to
+   `FastTrackVotingPeriod` if too low.
+ - `delay`: The number of block after voting has ended in approval and this should be
+   enacted. This doesn't have a minimum amount.
+
+ Emits `Started`.
+
+ Weight: `O(1)`",,FhLMxxkXxfgRRnv8hyRbNkpUMZ9umASMsRmKpZruVayaqhL,2021-05-17T16:10:36.001Z,kusama_74656368-00000065,2021-05-17T16:14:24.000Z,ACTIVE,2,,https://deepdao.io/feed-proposal/kusama_74656368-00000065,https://deepdao.io/user/FhLMxxkXxfgRRnv8hyRbNkpUMZ9umASMsRmKpZruVayaqhL/verified_dao_experience
+26,1af8f4f9-4c2f-4c31-a9d3-d1c6a89d65f5,SNAPSHOT,Dvision World App for iOS,"> by 0xe78f3d68f69d86bcf625cae11514af255b271531
+
+## Description
+
+Please deploy the Division World app to apple app store as well. 
+I think there are many people who use Android mobile phone, but also many people who use iOS.
+So it is expected that iOS will be better developed quickly in order to bring a variety of users.
+
+**[Vote on this proposal on the Dvision DAO]**",0x5d4f2653d8b906be3e6ef9ca7f39f396d8865f74,2022-11-15T06:04:10.000Z,0xd9ff1162fa080c4bb75bb41aa3060ddd3577ffa72ee9f902fd1c7053542139c1,2022-12-12T00:00:00.000Z,ACTIVE,2,"{""Agree"":""["",""Disagree"":""1""}",https://deepdao.io/feed-proposal/0xd9ff1162fa080c4bb75bb41aa3060ddd3577ffa72ee9f902fd1c7053542139c1,https://deepdao.io/user/0x5d4f2653d8b906be3e6ef9ca7f39f396d8865f74/verified_dao_experience
+27,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,," Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+ an external referendum.
+
+ The dispatch of this call must be `ExternalMajorityOrigin`.
+
+ - `proposal_hash`: The preimage hash of the proposal.
+
+ Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+ pre-scheduled `external_propose` call.
+
+ Weight: `O(1)`",,FhLMxxkXxfgRRnv8hyRbNkpUMZ9umASMsRmKpZruVayaqhL,2021-05-24T11:42:54.001Z,kusama_74656368-00000068,2021-05-24T11:44:36.002Z,ACTIVE,2,,https://deepdao.io/feed-proposal/kusama_74656368-00000068,https://deepdao.io/user/FhLMxxkXxfgRRnv8hyRbNkpUMZ9umASMsRmKpZruVayaqhL/verified_dao_experience
+28,c4354c83-5c79-4d1e-9398-4fd5fefe24c0,SNAPSHOT,#5873: feat/support XDC blockchain and add XSswap DEX connector,"link of PR: https://github.com/hummingbot/hummingbot/pull/5873
+XDC(xinfin) blockchain: https://www.xinfin.org/
+XSswap DEX: https://xspswap.finance/
+",0xd4ce02705041f04135f1949bc835c1fe0885513c,2022-12-02T02:01:51.000Z,0xd9a56f035ce911b6f6e67ca2d581919a4341b0f8555e41f5b6d9be8785723c49,2022-12-09T02:00:56.000Z,ACTIVE,2,"{""For"":""["",""Against"":""1"",""Abstain"":""0""}",https://deepdao.io/feed-proposal/0xd9a56f035ce911b6f6e67ca2d581919a4341b0f8555e41f5b6d9be8785723c49,https://deepdao.io/user/0xd4ce02705041f04135f1949bc835c1fe0885513c/verified_dao_experience
+29,5f272b2c-98c0-4a48-90ef-cf15393a6150,SNAPSHOT,Do you think when will btc hit 3k$,Do you think when will btc hit 3k$,0x18edcc431920a9b757cbd3aa46107bbdd76eedc7,2022-06-26T02:54:15.000Z,0x8ffb1e416b0971def67a2faf02abdd621685c88bac165aac34cdd6eb7ad77287,2026-03-30T04:00:00.000Z,ACTIVE,2,"{""2023"":""["",""2024"":""3""}",https://deepdao.io/feed-proposal/0x8ffb1e416b0971def67a2faf02abdd621685c88bac165aac34cdd6eb7ad77287,https://deepdao.io/user/0x18edcc431920a9b757cbd3aa46107bbdd76eedc7/verified_dao_experience
+30,02ff59f2-2024-455b-a881-6c8de148eb5d,SNAPSHOT,RSP-1: Vote on BIP-30,"## Proposer
+
+Root DAO Multisig
+
+## RSP Process Note
+
+Per the process outlined in the [RSP Process](https://docs.roottoken.org/governance/root-token/rdm-process#about-rsp-process), the Root DAO Multisig (RDM) will repost BIPs on the Root Stalk Proposals Snapshot page as RSPs.
+
+## Links
+
+* [BIP-30 Snapshot](https://snapshot.org/#/beanstalkdao.eth/proposal/0x724bbca47b55d42ec25f76c233846bdbbae1dd833618b938c84d58f53ffe7c3d)
+
+## Quorum
+
+An account's vote for a given RSP, or Voting Roots, is counted as the
+minimum of its Roots between the beginning and end of the Voting Period.
+
+Quorum is more than half of the total Voting Roots voting For, or about **87,842** Roots voting For based on the time of proposal.
+
+## Voting Period
+
+The Voting Period for RSP-1 ends 12 hours before the end of the Voting Period for BIP-30 in order to allow RDM Signers sufficient time to execute the vote.
+
+## Proposal
+
+We propose that the RDM executes the will of the Root DAO by voting on BIP-30 in accordance with the outcome of RSP-1. If RSP-1 does not pass, the RDM will not participate in the vote.
+",0x4b24deb9980a2a8f0cfa47f25a6da8a097b28ee4,2022-12-01T19:58:30.000Z,0x8d42c97b361ecc020ffb623f55987e859b3829db557542922596a10fcb8c5ed3,2022-12-08T08:00:00.000Z,ACTIVE,2,"{""For"":""["",""Abstain"":""9""}",https://deepdao.io/feed-proposal/0x8d42c97b361ecc020ffb623f55987e859b3829db557542922596a10fcb8c5ed3,https://deepdao.io/user/0x4b24deb9980a2a8f0cfa47f25a6da8a097b28ee4/verified_dao_experience
+31,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,,"Schedule the currently externally-proposed majority-carries referendum to be tabled
+immediately. If there is no externally-proposed referendum currently, or if there is one
+but it is not a majority-carries referendum then it fails.
+
+The dispatch of this call must be `FastTrackOrigin`.
+
+- `proposal_hash`: The hash of the current external proposal.
+- `voting_period`: The period that is allowed for voting on this proposal. Increased to
+	Must be always greater than zero.
+	For `FastTrackOrigin` must be equal or greater than `FastTrackVotingPeriod`.
+- `delay`: The number of block after voting has ended in approval and this should be
+  enacted. This doesn't have a minimum amount.
+
+Emits `Started`.
+
+Weight: `O(1)`",,FhLMxxkXxfgRRnv8hyRbNkpUMZ9umASMsRmKpZruVayaqhL,2022-11-22T12:18:30.019Z,kusama_74656368-00000165,,ACTIVE,2,,https://deepdao.io/feed-proposal/kusama_74656368-00000165,https://deepdao.io/user/FhLMxxkXxfgRRnv8hyRbNkpUMZ9umASMsRmKpZruVayaqhL/verified_dao_experience
+32,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,摇滚创造力,,0xd1f99057b11af6777f637021fd6a32643b4db2a4,2021-11-12T08:30:53.000Z,0xd6e014c16a111d942f803273bfa4814f9aae659bff6faf8168b581f1b517fb90,2023-02-11T04:00:00.000Z,ACTIVE,2,"{""鸡蛋里挑骨头"":""["",""funk"":""0""}",https://deepdao.io/feed-proposal/0xd6e014c16a111d942f803273bfa4814f9aae659bff6faf8168b581f1b517fb90,https://deepdao.io/user/0xd1f99057b11af6777f637021fd6a32643b4db2a4/verified_dao_experience
+33,85945042-60df-4941-9a58-02370e8ac5ce,SNAPSHOT,hi what do you think will btc go to 60k$ this year?,hi what do you think will btc go to 60k$ this year?,0xd4d2b1988f2db94ced417bb15e2251db32360d68,2022-08-22T02:10:42.000Z,0x449e31557e4ec4b6aefebd4048c49ec121dad5feda7d9453f2ed52bc6c0ac821,2028-05-31T04:00:00.000Z,ACTIVE,2,"{""yes"":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x449e31557e4ec4b6aefebd4048c49ec121dad5feda7d9453f2ed52bc6c0ac821,https://deepdao.io/user/0xd4d2b1988f2db94ced417bb15e2251db32360d68/verified_dao_experience
+34,fadd8814-d9bb-4abf-b031-772006a181f5,SNAPSHOT,第四季度btc的行情你是否乐观,RT,0xd038206048109f7713849928ee90898a979c53e8,2022-10-02T09:56:50.000Z,0x8bbc13a769b642d2efa56d4a96f91eb780a653e894e26286ed187f79c28bd7a5,2022-12-31T04:00:00.000Z,ACTIVE,2,"{""乐观"":""["",""悲观"":""0""}",https://deepdao.io/feed-proposal/0x8bbc13a769b642d2efa56d4a96f91eb780a653e894e26286ed187f79c28bd7a5,https://deepdao.io/user/0xd038206048109f7713849928ee90898a979c53e8/verified_dao_experience
+35,2021fe35-4e55-4ae1-91c1-9dddbfda0365,SNAPSHOT,买新款苹果手机了吗,,0x5987eda1828eca53c37860673e5e12ac61629c19,2022-10-09T07:54:03.000Z,0x8aee1e4ced8e3e1d7648bb1b8995918389b0e357ef16aa2a1e142da898fc2e78,2022-12-16T14:00:00.000Z,ACTIVE,2,"{""买了"":""["",""没有"":""0"",""没钱"":"".""}",https://deepdao.io/feed-proposal/0x8aee1e4ced8e3e1d7648bb1b8995918389b0e357ef16aa2a1e142da898fc2e78,https://deepdao.io/user/0x5987eda1828eca53c37860673e5e12ac61629c19/verified_dao_experience
+36,3554ddca-35c6-4cce-ad95-d8d3c9de9e29,SNAPSHOT,"Just for test,No airdrop here !","StarkNet is a permissionless decentralized Validity-Rollup (often referred to as ZK-Rollup). It operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation – without compromising Ethereum's composability and security.",0xacaa3fefa87358c232495b851bce2ebe46a641ef,2022-12-01T18:40:26.000Z,0x0788f0a92a2eb71a4d2059343bd30dbe70e01e62436e60e326c40e43b82a6575,2022-12-30T04:00:00.000Z,ACTIVE,2,"{""Cairo !"":""["",""StarkEx"":""1""}",https://deepdao.io/feed-proposal/0x0788f0a92a2eb71a4d2059343bd30dbe70e01e62436e60e326c40e43b82a6575,https://deepdao.io/user/0xacaa3fefa87358c232495b851bce2ebe46a641ef/verified_dao_experience
+37,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,淡雅也算呀,字节跳动,0x8a2bee50719ca741816295b4886402719c4c65a6,2021-11-12T07:31:11.000Z,0x88e6a9ed21a0891694122f32b2c0f4b2963a6d326641b0a244b6fcebcca6b87b,2023-01-31T04:00:00.000Z,ACTIVE,2,"{""反诈APP"":""["",""抖动"":""0""}",https://deepdao.io/feed-proposal/0x88e6a9ed21a0891694122f32b2c0f4b2963a6d326641b0a244b6fcebcca6b87b,https://deepdao.io/user/0x8a2bee50719ca741816295b4886402719c4c65a6/verified_dao_experience
+38,22c787a1-754b-4550-ae63-310f5b7cf4b4,SNAPSHOT,2022年eth可以上1万刀吗,,0xa3b77339106be7284f7bf31c1e72ee921482a1e2,2022-03-28T09:36:37.000Z,0x430ea13dc54692b7105886c7847f618445470431e8a182fe15296e0f6fd32b63,2022-12-31T04:00:00.000Z,ACTIVE,2,"{""可以"":""["",""不可以"":""1""}",https://deepdao.io/feed-proposal/0x430ea13dc54692b7105886c7847f618445470431e8a182fe15296e0f6fd32b63,https://deepdao.io/user/0xa3b77339106be7284f7bf31c1e72ee921482a1e2/verified_dao_experience
+39,2cbb0e28-7c1c-44ad-893e-6a08e477fab9,SNAPSHOT,Via Early User,Via Early User,0x7750b18cc5398f2bdde8dd368762d85e764497ec,2022-09-12T11:50:26.000Z,0xda3f77588e4c3d75b5504cdbcdd3d47fb5ae04673f14bc30a8f3dcbe7c9b00de,2023-02-28T04:00:00.000Z,ACTIVE,2,"{""airdrop"":""["",""no airdrop"":""2""}",https://deepdao.io/feed-proposal/0xda3f77588e4c3d75b5504cdbcdd3d47fb5ae04673f14bc30a8f3dcbe7c9b00de,https://deepdao.io/user/0x7750b18cc5398f2bdde8dd368762d85e764497ec/verified_dao_experience
+40,dc75701f-177f-411d-be4c-87e2b670b274,SNAPSHOT,aaa,aaa,0x66eacd67e94d9db0dcd65aa0286312471c93088b,2022-11-30T17:57:31.000Z,0x884bc37087e33be8cd3ee8fe9df3f29a1f58ce94eaf1e198cbcbee2154bad1df,2022-12-03T17:57:22.000Z,ACTIVE,2,"{""aaa"":""0""}",https://deepdao.io/feed-proposal/0x884bc37087e33be8cd3ee8fe9df3f29a1f58ce94eaf1e198cbcbee2154bad1df,https://deepdao.io/user/0x66eacd67e94d9db0dcd65aa0286312471c93088b/verified_dao_experience
+41,c3e10d60-b157-47cf-9a18-9e95710d892b,SNAPSHOT,晚安 玛卡巴卡,晚安 玛卡巴卡,0xdccddb7432b7371745233410c943f4882df07937,2021-11-23T15:21:40.000Z,0xd49f1ba7e8ff3317dbaa19e19be64686385c014fa9588d0c9fa513a29cf1b070,2022-12-31T04:00:00.000Z,ACTIVE,2,"{""玛卡"":""["",""巴卡"":""5""}",https://deepdao.io/feed-proposal/0xd49f1ba7e8ff3317dbaa19e19be64686385c014fa9588d0c9fa513a29cf1b070,https://deepdao.io/user/0xdccddb7432b7371745233410c943f4882df07937/verified_dao_experience
+42,1af8f4f9-4c2f-4c31-a9d3-d1c6a89d65f5,SNAPSHOT,Discord channel for Game,"> by 0xe78f3d68f69d86bcf625cae11514af255b271531
+
+## Description
+
+I saw one of proposal about Discord channel.
+Additionally, I request that team open a Discord channel where users can talk directly with the developer when you find a bug on Dvision game.
+As people who used bugs in the early days set good records, it became less and less fun to play the game.
+
+**[Vote on this proposal on the Dvision DAO]**",0x5d4f2653d8b906be3e6ef9ca7f39f396d8865f74,2022-11-12T09:12:50.000Z,0xd47e2fd2541db6acf2414df4624bd8543d64a69ac752f68fe6e4904af806d55c,2022-12-10T00:00:00.000Z,ACTIVE,2,"{""Agree"":""["",""Disagree"":""1""}",https://deepdao.io/feed-proposal/0xd47e2fd2541db6acf2414df4624bd8543d64a69ac752f68fe6e4904af806d55c,https://deepdao.io/user/0x5d4f2653d8b906be3e6ef9ca7f39f396d8865f74/verified_dao_experience
+43,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,last dance,,0x5faa340847772ae6f24a26e3805d81bfb040631b,2021-11-11T10:39:09.000Z,0x870292710ddf799abf1c7e17c36bef37a5dd9b256f79c70cbe8636d7794a92c9,2023-04-30T04:00:00.000Z,ACTIVE,2,"{""伍佰"":""["",""你给的爱"":""2""}",https://deepdao.io/feed-proposal/0x870292710ddf799abf1c7e17c36bef37a5dd9b256f79c70cbe8636d7794a92c9,https://deepdao.io/user/0x5faa340847772ae6f24a26e3805d81bfb040631b/verified_dao_experience
+44,6b1e1884-336c-4200-92ef-99384cadba21,SNAPSHOT,[Feature Request] Option to add insurance cover for liquidity in Stargate,"In the bear market, unfortunately hacking and insolvency has become a norm. With FTX saga (and with Grayscale declining to show proof of reserve), many users are now skeptical to leave their assets in liquidity pool.
+
+So, I would suggest to support the option is having insurance cover for user assets in stargate. Any user can pay a small premium to cover his/her assets in the pool.
+
+This will help users stake/add liquidity  without much fear and arrest exodus of liquidity out of our system.",0x38e4f745d85077976aab2b7d0c3da101024165b8,2022-11-20T07:51:14.000Z,0x86e9904868f073c8e00ed4aa71c0de5c5d9c764a82e066701cee1692d4db5a5b,2023-03-31T06:30:00.000Z,ACTIVE,2,"{""Yes"":""["",""Not needed at the moment"":""2""}",https://deepdao.io/feed-proposal/0x86e9904868f073c8e00ed4aa71c0de5c5d9c764a82e066701cee1692d4db5a5b,https://deepdao.io/user/0x38e4f745d85077976aab2b7d0c3da101024165b8/verified_dao_experience
+45,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,battle,走一个,0x169e98459a778b9df98b91d3713f8c06de982b65,2021-11-12T07:41:55.000Z,0x865c1bfdfd10c27e83b2244ca1097cd4de138f9e6b5f26506e98f85a4e828a8e,2023-02-28T04:00:00.000Z,ACTIVE,2,"{""上去"":""["",""不服"":""0""}",https://deepdao.io/feed-proposal/0x865c1bfdfd10c27e83b2244ca1097cd4de138f9e6b5f26506e98f85a4e828a8e,https://deepdao.io/user/0x169e98459a778b9df98b91d3713f8c06de982b65/verified_dao_experience
+46,16a470af-bde8-4341-a6cd-8fae0d5548db,SNAPSHOT,年底比特币价格,大家来预测,0xf3c083bb6fab2f22949e69e5470c34d6117eb044,2022-09-22T13:56:17.000Z,0x401b508984947ad41a8fd64f179a5f501500589258cd5f41825b5fe082d09337,2022-12-15T04:00:00.000Z,ACTIVE,2,"{""10k"":""["",""30k"":""0"",""50k"":"","",""70k"":""0"",""100k"":"",""}",https://deepdao.io/feed-proposal/0x401b508984947ad41a8fd64f179a5f501500589258cd5f41825b5fe082d09337,https://deepdao.io/user/0xf3c083bb6fab2f22949e69e5470c34d6117eb044/verified_dao_experience
+47,e2685425-0bc8-4e43-8203-a3f410e79bdd,SNAPSHOT,Will Polygon be the largest layer 2 in the next cycle?,,0x58a0db8456d52860465be8ae77f618a741abdd35,2022-07-30T02:43:47.000Z,0xd1bba07941a33577e9fad8dabce6f2b336f6f0724e8c19fef75268daec7a85ac,2022-12-31T04:00:00.000Z,ACTIVE,2,"{""Yes"":""["",""No"":""1""}",https://deepdao.io/feed-proposal/0xd1bba07941a33577e9fad8dabce6f2b336f6f0724e8c19fef75268daec7a85ac,https://deepdao.io/user/0x58a0db8456d52860465be8ae77f618a741abdd35/verified_dao_experience
+48,31fd2b1e-009b-4a34-842c-e0d49426fb80,SNAPSHOT,We are looking for funding to create 12 sign language based educational videos around the Synthetix community. These videos would be made by sign language interpreters and will be released every week.,"## Username 
+sb_ksm
+
+## Grant Description
+Hi After going through the crypto youtube channels I found that there weren’t any tutorials that cater to the specially abled community, especially people who need sign language to operate. The reason why I bring this up is because I have a close family member who is specially abled and while he is eager to learn about crypto ecosystem, he couldn’t find anything that could help him learn even the basics. 
+
+After discussing the whole issue with him I realised that there are plenty more like him who are looking to get into the crypto community but aren’t able to because of the lack of resources and the marginalisation of the specially abled community. It was then when we decided to connect with interpreters who could build some videos around this ecosystem based on the current available content.
+
+
+## Overview
+According to the World Report on Disability  by WHO from 2011, the most marginalised people when it comes to education are not the poor but rather people with special disabilities. Particularly in the crypto space, these folks are being widely excluded from even providing them the basics of crypto education.
+
+Based on another report less than 1% of people with special disabilities are currently participating in the crypto space which I believe is a strong negative indication towards inclusivity. It’s our duty to include newcomers into this industry through educating them properly and while there will always be people that are not willing to put in the time, we’ve seen over and over again that there’s many that do want to learn more, but simply can’t find good educational sources to do so. 
+
+In the USA currently sign language is the 4th most used language by numbers and most of the population that lies in this group comes under the age of 18-32 which I believe is a huge number when it comes to discovering talent. Inclusion of people with special disabilities will give them an opportunity to learn about the basics and will create employment as well as entrepreneurship activities within this group. 
+Our goal with this proposal is to create 12 educational videos geared towards people with special disabilities with a focus on explaining the basics.
+
+Since sign language is globally accepted way of communicating, creating videos in sign language directly opens up our content in multiple countries.
+
+## Value to Synthetix
+My goal is to create an entire playlist that walks through all of the basics of Synthetix and make it practical by showcasing everything on a test network. This will make sure that these users are comfortable in carrying out any actions on the networks and can explore the ecosystem with ease.
+
+
+## Project Implementation Plan
+The goal is to release each video on a Sunday so that users have more time to go through the video and read up on the things mentioned in the video. We need three months to cover all the basic videos.
+
+
+## Additional Information
+
+
+## Funding Request
+We are looking for $7000 USD 
+	",0x2afe84cedf85ef20fb10b8ad5e1c0c9b967d2dc0,2022-12-01T18:02:24.000Z,0x816fdc41495299a987a4f201d99d595eb699a5249faa80e18ec55e45a2d644b9,2022-12-08T18:02:24.000Z,ACTIVE,2,"{""Yes"":""["",""No"":""0""}",https://deepdao.io/feed-proposal/0x816fdc41495299a987a4f201d99d595eb699a5249faa80e18ec55e45a2d644b9,https://deepdao.io/user/0x2afe84cedf85ef20fb10b8ad5e1c0c9b967d2dc0/verified_dao_experience
+49,b5e26b74-45eb-4b97-b4f0-d30044ee4af3,SNAPSHOT,HAHA Token Contract Address,"
+The BSC contract of HAHA Token is:
+0x9f85f7118f385796a9824c2787356cba47b31d2a
+
+and you can buy tokens on PancakeSwap:
+https://pancakeswap.finance/swap?outputCurrency=0x9f85f7118f385796a9824c2787356cba47b31d2a
+
+HAHA token are only for testing proposals and have no other value, 
+Please buy only a little bit, such as the equivalent of 1USDT, and you can vote in this DAO space the next day.",0xe2c1a36f6d39f3d1698078e6579fcabb779b5a32,2021-12-13T07:12:06.000Z,0x810ef4bc54cecc96ae803a12d339355e9b02f7a254e106c8706f3e99f607fe85,2023-12-31T04:00:00.000Z,ACTIVE,2,"{""HAHA token are only for testing "":""["",""HAHA token have no other value"":""4""}",https://deepdao.io/feed-proposal/0x810ef4bc54cecc96ae803a12d339355e9b02f7a254e106c8706f3e99f607fe85,https://deepdao.io/user/0xe2c1a36f6d39f3d1698078e6579fcabb779b5a32/verified_dao_experience
+50,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-11-24T06:17:24.252Z,bifrost_636f756e-00000513,2022-11-25T09:16:42.277Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000513,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+51,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,top 5,bug,0x7f7982d4cca6f7a742eb0bb14e6c1cb7e7b67d31,2021-11-12T08:16:52.000Z,0x3e545dbdae8c47e2cf603a566b3966acd930fb4cbd83c0bbd468a0b841cde7d9,2022-12-30T04:00:00.000Z,ACTIVE,2,"{""怎么混"":""["",""hold住"":""0""}",https://deepdao.io/feed-proposal/0x3e545dbdae8c47e2cf603a566b3966acd930fb4cbd83c0bbd468a0b841cde7d9,https://deepdao.io/user/0x7f7982d4cca6f7a742eb0bb14e6c1cb7e7b67d31/verified_dao_experience
+52,dc75701f-177f-411d-be4c-87e2b670b274,SNAPSHOT,vbsvsv,vsdvsdsd,0x66eacd67e94d9db0dcd65aa0286312471c93088b,2022-11-30T18:10:12.000Z,0x1e4da621a40d15dc8c5005c47065a0b5daa7b194db3d982854b61d9837bf2cd8,2022-12-03T18:10:07.000Z,ACTIVE,2,"{""svsdvsdv"":""["",""svsdvsdvsd"":""1""}",https://deepdao.io/feed-proposal/0x1e4da621a40d15dc8c5005c47065a0b5daa7b194db3d982854b61d9837bf2cd8,https://deepdao.io/user/0x66eacd67e94d9db0dcd65aa0286312471c93088b/verified_dao_experience
+53,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-11-18T03:33:48.388Z,bifrost_636f756e-00000491,2022-11-18T03:57:56.106Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000491,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+54,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-11-18T03:43:36.293Z,bifrost_636f756e-00000492,2022-11-18T03:57:56.106Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000492,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+55,1f9f550d-ad07-406c-8689-cc5a85ea2391,SNAPSHOT,20221202,,0xd05d3c707f9c9bbdd6cf73c1f1c68bd59885dd64,2022-12-02T03:48:03.000Z,0x1e2974d24eb3018ba03240b7f7c1ee3ac709f4bed21b6c38013b0bde6c560458,2022-12-03T03:00:00.000Z,ACTIVE,2,"{""For"":""["",""Against"":""1"",""Abstain"":"",""}",https://deepdao.io/feed-proposal/0x1e2974d24eb3018ba03240b7f7c1ee3ac709f4bed21b6c38013b0bde6c560458,https://deepdao.io/user/0xd05d3c707f9c9bbdd6cf73c1f1c68bd59885dd64/verified_dao_experience
+56,27154325-9870-4cb3-b24a-f86258f86a4a,SNAPSHOT,will gtc up to $30 this year?,will gtc up to $30 this year?,0xee1598ba2558d60e9ece4633ba1899ed65f2cd50,2022-06-24T06:07:25.000Z,0xcdb11ecba1182fb029440cc5cacba01786a8d4aab05036a8284c5a66e793b20b,2027-10-27T04:00:00.000Z,ACTIVE,2,"{""yes"":""["",""no "":""2""}",https://deepdao.io/feed-proposal/0xcdb11ecba1182fb029440cc5cacba01786a8d4aab05036a8284c5a66e793b20b,https://deepdao.io/user/0xee1598ba2558d60e9ece4633ba1899ed65f2cd50/verified_dao_experience
+57,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,你的背包,,0xf1a74a3023b19ac4c9455da08295e63dcdd00257,2021-11-11T10:31:37.000Z,0xd2f06beddae5aa42878037ee610fb983fca6eeadf92507a953a6853c431adbfd,2023-02-27T04:00:00.000Z,ACTIVE,2,"{""陈奕迅"":""["",""我的汗"":""2""}",https://deepdao.io/feed-proposal/0xd2f06beddae5aa42878037ee610fb983fca6eeadf92507a953a6853c431adbfd,https://deepdao.io/user/0xf1a74a3023b19ac4c9455da08295e63dcdd00257/verified_dao_experience
+58,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-11-18T03:55:30.498Z,bifrost_636f756e-00000493,2022-11-18T07:48:42.313Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000493,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+59,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-11-01T06:54:06.708Z,bifrost_636f756e-00000464,2022-11-01T14:21:06.275Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000464,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+60,6e23f47c-2efd-415f-a913-21dd975a68c2,SNAPSHOT,What to list genesis NFT for,"It is being proposed that the remaining 5,470 NFTs be listed on LoopExchange. The proposal has the following options:
+- 5 LRC
+- 10 LRC
+- 25 LRC
+- 50 LRC
+- 100 LRC
+- 250 LRC
+- 500 LRC
+- Other - Please provide number you think they should be listed at
+- abstain - vote not counted",0x46987df3fed9fb48089b01839bb9c473b12d262d,2022-11-29T04:00:30.000Z,0xcb3b59ac185511df515ebc7207ae8243908ed61d2564ace78c4e130b5e18c092,2022-12-04T20:00:00.000Z,ACTIVE,2,"{""5 LRC"":""["",""10 LRC"":""0"",""25 LRC"":"","",""50 LRC"":""4"",""100 LRC"":""1"",""250 LRC"":""4"",""500 LRC"":"","",""Other"":""2"",""Abstain"":""4""}",https://deepdao.io/feed-proposal/0xcb3b59ac185511df515ebc7207ae8243908ed61d2564ace78c4e130b5e18c092,https://deepdao.io/user/0x46987df3fed9fb48089b01839bb9c473b12d262d/verified_dao_experience
+61,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,token config，take effect when next round begins,,fAGgdvAYwqCwpt3Wda1mzpACnNyESbfgfgvm1RLSudBsUEu,2022-11-07T03:43:24.277Z,bifrost_636f756e-00000470,2022-11-07T05:44:48.309Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000470,https://deepdao.io/user/fAGgdvAYwqCwpt3Wda1mzpACnNyESbfgfgvm1RLSudBsUEu/verified_dao_experience
+62,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,比特币指标,,0x8ec112ebcf4bad2b519e476a28e7303407d60de3,2021-11-11T10:41:56.000Z,0x3c2b74627d5cb70ada39e901a2f95cf81f6427c16c7f95a75710653b3a3bac38,2023-05-31T04:00:00.000Z,ACTIVE,2,"{""市值占比"":""["",""arh999"":""1""}",https://deepdao.io/feed-proposal/0x3c2b74627d5cb70ada39e901a2f95cf81f6427c16c7f95a75710653b3a3bac38,https://deepdao.io/user/0x8ec112ebcf4bad2b519e476a28e7303407d60de3/verified_dao_experience
+63,dc75701f-177f-411d-be4c-87e2b670b274,SNAPSHOT,vcxvxcv,xcvvsvsv,0x66eacd67e94d9db0dcd65aa0286312471c93088b,2022-11-30T18:08:43.000Z,0xc937961bc8bbf17a1930acd20040d228148d891303b00efc96c0380888dac1c8,2022-12-03T18:08:32.000Z,ACTIVE,2,"{""svsdv"":""["",""vsdsdvsd"":""1""}",https://deepdao.io/feed-proposal/0xc937961bc8bbf17a1930acd20040d228148d891303b00efc96c0380888dac1c8,https://deepdao.io/user/0x66eacd67e94d9db0dcd65aa0286312471c93088b/verified_dao_experience
+64,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+an external referendum.
+
+The dispatch of this call must be `ExternalMajorityOrigin`.
+
+- `proposal_hash`: The preimage hash of the proposal.
+
+Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+pre-scheduled `external_propose` call.
+
+Weight: `O(1)`",,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-11-11T06:16:54.690Z,bifrost_636f756e-00000478,2022-11-11T06:29:42.358Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000478,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+65,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-10-09T03:01:00.559Z,bifrost_636f756e-00000431,2022-10-09T03:17:06.783Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000431,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+66,f68dbe29-4735-4fa1-9e8c-fb87bdf2c10d,SNAPSHOT,Bond Allocation from Pangolin Treasury to split among Olympus and Maximizer,"This proposal purpose is to have next 3 month Bond allocation to split among Olympus and Maximizer for Protocol owned Liquidity (POL). 
+With recent on-chain proposal (Treasury Replenishment Request), entire $500K per month being allocated to bond on Olympus platform. 
+Maximizer Platform have recently demonstrated that PNG-AVAX and some other DEX pairs bond have very high demand and they usually get sold out less than 24 hours compared to Olympus, which taken over few weeks to sold out the same amount of Bond sale. 
+
+We do strongly believe having strong collaboration with Avalanche native project like Maximizer will be supremely value added for Pangolin Ecosystem especially to help bootstrapping new projects and onboard them on Pangolin to start their liquidity with and not to chose competitors DEX to start with. 
+",0x95ccb3850e68750e3a9776378fa8f93b2f28d786,2022-08-03T08:07:05.000Z,0x75399368f6efa786fc4dceba76b1c386b154e15a1f10927b92c5208490d6e7c5,2023-01-01T04:00:00.000Z,ACTIVE,2,"{""For"":""["",""Against"":""0"",""Abstain"":"",""}",https://deepdao.io/feed-proposal/0x75399368f6efa786fc4dceba76b1c386b154e15a1f10927b92c5208490d6e7c5,https://deepdao.io/user/0x95ccb3850e68750e3a9776378fa8f93b2f28d786/verified_dao_experience
+67,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Approve a bounty proposal. At a later time, the bounty will be funded and become active
+and the original deposit will be returned.
+
+May only be called from `T::ApproveOrigin`.
+
+# <weight>
+- O(1).
+# </weight>",,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-10-15T05:04:00.370Z,bifrost_636f756e-00000442,2022-10-17T01:40:30.508Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000442,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+68,3b3e04a7-a0ef-43fa-a99c-19f970594178,SNAPSHOT,op能到10刀吗,op能到10刀吗,0xdcee4331ade6c5e0021b3ccf8c7550e3301ef6d3,2022-11-27T06:41:31.000Z,0x73b2ed7dea4c60b46fd95015d021688c7bdcfe27988cae3f47bc08e664a632dd,2023-03-31T04:00:00.000Z,ACTIVE,2,"{""能"":""["",""不能"":""1""}",https://deepdao.io/feed-proposal/0x73b2ed7dea4c60b46fd95015d021688c7bdcfe27988cae3f47bc08e664a632dd,https://deepdao.io/user/0xdcee4331ade6c5e0021b3ccf8c7550e3301ef6d3/verified_dao_experience
+69,08a8f504-79ae-4b12-99c7-2e0271b0be8a,SNAPSHOT,will chr down to 0.01$ this year?,will chr down to 0.01$ this year?,0x145595508c5b759856da9b5e32246660db81fcda,2022-08-22T05:40:03.000Z,0x739038686069481f0899fb766b6d7ee819a3df5768701e05d66650beacd394e0,2028-12-31T04:00:00.000Z,ACTIVE,2,"{""yes"":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x739038686069481f0899fb766b6d7ee819a3df5768701e05d66650beacd394e0,https://deepdao.io/user/0x145595508c5b759856da9b5e32246660db81fcda/verified_dao_experience
+70,dc75701f-177f-411d-be4c-87e2b670b274,SNAPSHOT,vv,vvv,0x66eacd67e94d9db0dcd65aa0286312471c93088b,2022-11-30T17:56:04.000Z,0x3b015dfbf85982cdc671dabd1f720b5e14d61ebd8359283a4d5f831f0c4a933d,2022-12-03T17:56:02.000Z,ACTIVE,2,"{""vvvvv"":""["",""vvv"":""2""}",https://deepdao.io/feed-proposal/0x3b015dfbf85982cdc671dabd1f720b5e14d61ebd8359283a4d5f831f0c4a933d,https://deepdao.io/user/0x66eacd67e94d9db0dcd65aa0286312471c93088b/verified_dao_experience
+71,8751f261-cc33-4877-adf5-624a430abb9c,SNAPSHOT,Govern,"In the old system, people will also use voting to vote for power elections and allocation.But often in the hands of a few people.In the new world blockchain.People also choose to vote to determine the progress and distribution of a project or the matter.However, what we need is real democracy.We don't want to allocate power to those rich.Because they cannot make the world fair.So what do you think of the future governance will be like?",0x17ebee050c312567ad0038c0a703779401cb0fe0,2022-05-28T01:53:14.000Z,0x06469be4d2b6a896f0a5399f564598f16fe87f541a5d326d4301f1ec5124004a,2028-12-31T04:00:00.000Z,ACTIVE,2,"{""One person decides."":""["",""Referendum"":""2"",""I don't care."":"",""}",https://deepdao.io/feed-proposal/0x06469be4d2b6a896f0a5399f564598f16fe87f541a5d326d4301f1ec5124004a,https://deepdao.io/user/0x17ebee050c312567ad0038c0a703779401cb0fe0/verified_dao_experience
+72,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,吞噬时间的魔鬼,深夜的另一个你,0xf1f76fdbee1cf9e2bc331911a1fa2346014f4dff,2021-11-12T07:35:17.000Z,0x3a7c4afbc52de63ca680b24041a8da12acbc796a0a1e7ed7226fda582e3f29ca,2023-04-30T04:00:00.000Z,ACTIVE,2,"{""生而为人"":""["",""人间不值得"":""0""}",https://deepdao.io/feed-proposal/0x3a7c4afbc52de63ca680b24041a8da12acbc796a0a1e7ed7226fda582e3f29ca,https://deepdao.io/user/0xf1f76fdbee1cf9e2bc331911a1fa2346014f4dff/verified_dao_experience
+73,ec6be85a-d18d-4085-9b01-660876b12464,SNAPSHOT,今年ETH会ATH吗,来猜一下,0x2351e4f82457af11ed005dc24dcba3626d4bdad0,2022-08-14T15:18:54.000Z,0xc76c6e2611dd418565771542834d70d380f2ec34b38646dbded980d8ea784184,2026-01-01T04:00:00.000Z,ACTIVE,2,"{""会"":""["",""不会"":""2""}",https://deepdao.io/feed-proposal/0xc76c6e2611dd418565771542834d70d380f2ec34b38646dbded980d8ea784184,https://deepdao.io/user/0x2351e4f82457af11ed005dc24dcba3626d4bdad0/verified_dao_experience
+74,dc75701f-177f-411d-be4c-87e2b670b274,SNAPSHOT,cacaceqweqwe,acascascascas,0x66eacd67e94d9db0dcd65aa0286312471c93088b,2022-11-30T18:07:07.000Z,0x72f8fb8ce03200020f0a57963d307285d0d1b9961846f6faa01bc2dffae5d24e,2022-12-03T18:07:05.000Z,ACTIVE,2,"{""eqweqwd"":""["",""qweqw"":""0""}",https://deepdao.io/feed-proposal/0x72f8fb8ce03200020f0a57963d307285d0d1b9961846f6faa01bc2dffae5d24e,https://deepdao.io/user/0x66eacd67e94d9db0dcd65aa0286312471c93088b/verified_dao_experience
+75,8b14421d-5c2c-4a2c-a338-5926f38fceb0,SNAPSHOT,Do you think BNB will exceed ETH?,Do you think BNB will exceed ETH?,0xab5c8971a86aaaaec1c23d5a074fa70ddf7d1416,2022-06-26T02:28:10.000Z,0xcbdf27d6d247d643618fb795f5b2b078ff851a75769291e73a81eddc544810ed,2025-09-29T04:00:00.000Z,ACTIVE,2,"{""yes"":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0xcbdf27d6d247d643618fb795f5b2b078ff851a75769291e73a81eddc544810ed,https://deepdao.io/user/0xab5c8971a86aaaaec1c23d5a074fa70ddf7d1416/verified_dao_experience
+76,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+an external referendum.
+
+The dispatch of this call must be `ExternalMajorityOrigin`.
+
+- `proposal_hash`: The preimage hash of the proposal.
+
+Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+pre-scheduled `external_propose` call.
+
+Weight: `O(1)`",,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-10-26T01:36:30.314Z,bifrost_636f756e-00000449,2022-10-26T01:42:24.227Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000449,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+77,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+an external referendum.
+
+The dispatch of this call must be `ExternalMajorityOrigin`.
+
+- `proposal_hash`: The preimage hash of the proposal.
+
+Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+pre-scheduled `external_propose` call.
+
+Weight: `O(1)`",,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-08-07T01:57:06.521Z,bifrost_636f756e-00000377,2022-08-07T05:49:24.263Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000377,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+78,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-07-25T08:26:24.285Z,bifrost_636f756e-00000358,2022-07-25T09:39:48.396Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000358,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+79,867f5b18-6911-4134-a1f2-fb3f603d934f,SNAPSHOT,eth  < 666,6,0x844a641290d188cddda9f7a7fe8e43d757a5bbaa,2022-09-16T13:51:57.000Z,0xc6be1af051af2db4979e458b0344cde3a455e67b92ece6210e464e3dab205d59,2023-01-01T04:00:00.000Z,ACTIVE,2,"{""yes"":""["",""no"":""1""}",https://deepdao.io/feed-proposal/0xc6be1af051af2db4979e458b0344cde3a455e67b92ece6210e464e3dab205d59,https://deepdao.io/user/0x844a641290d188cddda9f7a7fe8e43d757a5bbaa/verified_dao_experience
+80,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Create a liquidity-pool which type is `PoolType::SingleToken`, accepts any token as
+deposit.",,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-08-05T02:33:06.237Z,bifrost_636f756e-00000369,2022-08-05T03:36:48.155Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000369,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+81,7445bf5c-f4ef-43bf-8161-bec731aeffcc,SNAPSHOT,你来币圈多久了？,,0x29ebd3329167eb7a0f471ec764afee8e8c69a7e1,2022-10-10T08:54:48.000Z,0x70856ecd0e1b58d6c2ce13fb72cec72ec0b589dc36e2f955fb85bfcdfaa57b92,2023-01-18T14:00:00.000Z,ACTIVE,2,"{""2年以下"":""["",""3年以下"":""1"",""5年以下"":"",""}",https://deepdao.io/feed-proposal/0x70856ecd0e1b58d6c2ce13fb72cec72ec0b589dc36e2f955fb85bfcdfaa57b92,https://deepdao.io/user/0x29ebd3329167eb7a0f471ec764afee8e8c69a7e1/verified_dao_experience
+82,e651468f-5bba-4900-b3e7-bf444f922f05,SNAPSHOT,2023年会来牛市吗？,,0x6d0a30cc227d326cb2a44f352ead728ee81c8aa2,2022-11-22T03:59:42.000Z,0xc2df90118474a643e44e1c44576cc24e257891e39b2c0cf08b4dcc9f70c62365,2023-12-31T04:00:00.000Z,ACTIVE,2,"{""会"":""["",""不会"":""2""}",https://deepdao.io/feed-proposal/0xc2df90118474a643e44e1c44576cc24e257891e39b2c0cf08b4dcc9f70c62365,https://deepdao.io/user/0x6d0a30cc227d326cb2a44f352ead728ee81c8aa2/verified_dao_experience
+83,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-07-25T07:58:54.240Z,bifrost_636f756e-00000356,2022-07-25T09:40:12.383Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000356,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+84,f8e1b21a-1556-46f9-b30a-f42ef6a35960,SNAPSHOT,orbiter finance 发币细则,orbiter finance 发币是肯定的,0x0d2697bbd2ed8327e0497bafd844b6466c0f0258,2022-09-18T07:44:41.000Z,0x0dfa07465b2e7869e1f45a880a9b36776a7689377ec892922a8d5ed98ee92a9f,2022-12-29T04:00:00.000Z,ACTIVE,2,"{""交互次数"":""["",""交互网络"":""1""}",https://deepdao.io/feed-proposal/0x0dfa07465b2e7869e1f45a880a9b36776a7689377ec892922a8d5ed98ee92a9f,https://deepdao.io/user/0x0d2697bbd2ed8327e0497bafd844b6466c0f0258/verified_dao_experience
+85,2b4f1503-ed49-4e94-9402-a330e2dfc3d3,SNAPSHOT,How about your current position？,,0x7a8520c1ab4be954a779432f76efcbc927c5bcb4,2022-02-17T11:22:07.000Z,0x6faa9d687dd3d3950a5f0dff76387421685c4f61686e0c7d27172697f5e1c8ae,2023-02-17T11:20:52.000Z,ACTIVE,2,"{""full warehouse"":""["",""half warehouse"":""2"",""short position"":""8""}",https://deepdao.io/feed-proposal/0x6faa9d687dd3d3950a5f0dff76387421685c4f61686e0c7d27172697f5e1c8ae,https://deepdao.io/user/0x7a8520c1ab4be954a779432f76efcbc927c5bcb4/verified_dao_experience
+86,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,Create a new crowdloaning campaign for a parachain slot deposit for the current auction.,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-08-23T03:31:24.353Z,bifrost_636f756e-00000394,2022-08-29T02:31:18.211Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000394,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+87,6418043b-e3dd-42df-9dea-59046b3b9977,SNAPSHOT,will arbitrum publish token?,will arbitrum publish token?,0xbfee909630813b12d17ea48a111e6a5d6e8a63cf,2022-06-26T02:04:39.000Z,0x390581dc298e584c9a55d2af97fb2919d216bbfd8123f16212b6fa3a0e4f4c11,2028-12-31T04:00:00.000Z,ACTIVE,2,"{""yes"":""["",""no "":""2""}",https://deepdao.io/feed-proposal/0x390581dc298e584c9a55d2af97fb2919d216bbfd8123f16212b6fa3a0e4f4c11,https://deepdao.io/user/0xbfee909630813b12d17ea48a111e6a5d6e8a63cf/verified_dao_experience
+88,4b93a294-24ba-471b-9e66-98a8c766dd24,SNAPSHOT,嘿姑娘跳起来,,0x898596cbda26d1cded37b8e9755fc790043322ef,2021-11-12T10:08:54.000Z,0x1ac458ab7cc41895551bc0abe4527473c50a4c32ced10c8385b24ee577970a03,2022-12-30T04:00:00.000Z,ACTIVE,2,"{""2票"":""["",""嗯嗯嗯"":""0""}",https://deepdao.io/feed-proposal/0x1ac458ab7cc41895551bc0abe4527473c50a4c32ced10c8385b24ee577970a03,https://deepdao.io/user/0x898596cbda26d1cded37b8e9755fc790043322ef/verified_dao_experience
+89,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Schedule a negative-turnout-bias referendum to be tabled next once it is legal to
+schedule an external referendum.
+
+The dispatch of this call must be `ExternalDefaultOrigin`.
+
+- `proposal_hash`: The preimage hash of the proposal.
+
+Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+pre-scheduled `external_propose` call.
+
+Weight: `O(1)`",,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-05-19T09:49:42.297Z,bifrost_636f756e-00000273,2022-05-19T11:19:18.452Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000273,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+90,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+an external referendum.
+
+The dispatch of this call must be `ExternalMajorityOrigin`.
+
+- `proposal_hash`: The preimage hash of the proposal.
+
+Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+pre-scheduled `external_propose` call.
+
+Weight: `O(1)`",,fAGgdvAYwqCwpt3Wda1mzpACnNyESbfgfgvm1RLSudBsUEu,2022-06-09T07:45:18.562Z,bifrost_636f756e-00000295,2022-06-09T08:39:54.368Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000295,https://deepdao.io/user/fAGgdvAYwqCwpt3Wda1mzpACnNyESbfgfgvm1RLSudBsUEu/verified_dao_experience
+91,2b4f1503-ed49-4e94-9402-a330e2dfc3d3,SNAPSHOT,Which Ethereum Layer 2 are you optimistic about?,,0x7a8520c1ab4be954a779432f76efcbc927c5bcb4,2022-02-17T11:18:10.000Z,0x1a9566663717814d439d5618119d744a88974a4216fd55bf81edaf6b21fc87ee,2023-02-17T11:16:53.000Z,ACTIVE,2,"{""optimism"":""["",""arbitrum"":""1"",""zksync"":""4""}",https://deepdao.io/feed-proposal/0x1a9566663717814d439d5618119d744a88974a4216fd55bf81edaf6b21fc87ee,https://deepdao.io/user/0x7a8520c1ab4be954a779432f76efcbc927c5bcb4/verified_dao_experience
+92,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Withdraw full balance of the parachain.
+- `index`: The parachain to whose crowdloan the contribution was made.",,hJmectFjn7CCEQL1tKDxvboA1i9hcfTyUrLuW3xjDqRgxmm,2022-05-15T23:32:00.284Z,bifrost_636f756e-00000250,2022-05-16T00:29:42.565Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000250,https://deepdao.io/user/hJmectFjn7CCEQL1tKDxvboA1i9hcfTyUrLuW3xjDqRgxmm/verified_dao_experience
+93,dc75701f-177f-411d-be4c-87e2b670b274,SNAPSHOT,hfghfg,fghfghfghfghfg,0x66eacd67e94d9db0dcd65aa0286312471c93088b,2022-11-30T18:16:16.000Z,0x38587d6f0e37104821ed186e39e79e2d03076844584c308619d510f02a4883f3,2022-12-03T18:16:13.000Z,ACTIVE,2,"{""hfghfgbdvd"":""["",""vdfvdvd"":""1""}",https://deepdao.io/feed-proposal/0x38587d6f0e37104821ed186e39e79e2d03076844584c308619d510f02a4883f3,https://deepdao.io/user/0x66eacd67e94d9db0dcd65aa0286312471c93088b/verified_dao_experience
+94,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+an external referendum.
+
+The dispatch of this call must be `ExternalMajorityOrigin`.
+
+- `proposal_hash`: The preimage hash of the proposal.
+
+Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+pre-scheduled `external_propose` call.
+
+Weight: `O(1)`",,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-04-11T06:22:36.335Z,bifrost_636f756e-00000194,2022-04-11T06:47:00.372Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000194,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+95,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,hJmectFjn7CCEQL1tKDxvboA1i9hcfTyUrLuW3xjDqRgxmm,2022-05-15T23:51:42.596Z,bifrost_636f756e-00000251,2022-05-16T00:29:30.510Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000251,https://deepdao.io/user/hJmectFjn7CCEQL1tKDxvboA1i9hcfTyUrLuW3xjDqRgxmm/verified_dao_experience
+96,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,"Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+an external referendum.
+
+The dispatch of this call must be `ExternalMajorityOrigin`.
+
+- `proposal_hash`: The preimage hash of the proposal.
+
+Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+pre-scheduled `external_propose` call.
+
+Weight: `O(1)`",,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2022-07-22T06:48:36.265Z,bifrost_636f756e-00000349,2022-07-22T07:23:18.301Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000349,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+97,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fAGgdvAYwqCwpt3Wda1mzpACnNyESbfgfgvm1RLSudBsUEu,2021-09-29T09:09:00.829Z,bifrost_636f756e-00000013,2021-09-29T09:57:36.621Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000013,https://deepdao.io/user/fAGgdvAYwqCwpt3Wda1mzpACnNyESbfgfgvm1RLSudBsUEu/verified_dao_experience
+98,2707fc6e-bf61-437c-83ce-adbbb92fac2c,,,,fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw,2021-11-02T13:09:30.695Z,bifrost_636f756e-00000031,2021-11-02T13:17:12.199Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000031,https://deepdao.io/user/fXznm8JzrUuyEijnyy8M2tfdFQeot2bUrERe3ZK9FwTaZZw/verified_dao_experience
+99,2707fc6e-bf61-437c-83ce-adbbb92fac2c,," Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+ an external referendum.
+
+ The dispatch of this call must be `ExternalMajorityOrigin`.
+
+ - `proposal_hash`: The preimage hash of the proposal.
+
+ Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+ pre-scheduled `external_propose` call.
+
+ Weight: `O(1)`",,fAGgdvAYwqCwpt3Wda1mzpACnNyESbfgfgvm1RLSudBsUEu,2021-09-15T13:24:54.574Z,bifrost_636f756e-00000001,2021-09-15T13:31:42.538Z,ACTIVE,2,,https://deepdao.io/feed-proposal/bifrost_636f756e-00000001,https://deepdao.io/user/fAGgdvAYwqCwpt3Wda1mzpACnNyESbfgfgvm1RLSudBsUEu/verified_dao_experience

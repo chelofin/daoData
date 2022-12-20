@@ -1,0 +1,800 @@
+,organizationId,platform,title,description,proposer,proposalCreatedAt,proposalNativeId,endedAt,status,totalVotes,choicesMappedToScores,proposalUrl,proposerProfilePageUrl
+0,4b71babe-cd23-4350-a553-03f0ddf84449,SNAPSHOT,区块高度测试12.27以前账户有matic或者eth可以投票,,0xce0dacc4e88c14512e56155f8faaeacdaaeb4ea2,2021-12-27T13:27:29.000Z,0x5d42e0ec519f93efda102d3a4831569df0ca8c7faaf2640ce9242507de92a0c0,2027-03-26T04:00:00.000Z,ACTIVE,35,"{""yes"":""["",""no"":""2""}",https://deepdao.io/feed-proposal/0x5d42e0ec519f93efda102d3a4831569df0ca8c7faaf2640ce9242507de92a0c0,https://deepdao.io/user/0xce0dacc4e88c14512e56155f8faaeacdaaeb4ea2/verified_dao_experience
+1,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Burn Cake while using Betfury,"What do you think about an option that burns Cake on Betfury? Together we can reinforce the Cake-ecosystem. 
+Lets show the world how strong the Cake-community really is!
+
+
+All you have to do:
+
+Go to their Twitter and Telegram and write : We want to burn $Cake while playing
+
+Twitter: https://twitter.com/betfury_gaming
+
+Telegram: https://t.me/Betfury
+
+I'm pretty sure If everybody takes 1 minute we will move mountains for the Cake-ecosytem together!
+
+
+
+
+
+Currently (October) the stakingpayouts to tokenholder (BFG Token) are +1.600.000$ for the next 30 days. 60k$ out of this are $Cake. Check it out yourself. Use the link than press on the red button ""View all"" than choose ""BNB"" and you will see how much $Cake is currently in the pool.
+
+Betfury stakingpayouts:
+https://betfury.io/staking
+
+Betfury has more than 7 million visitors per month on the site.
+
+You can check it out on Similarweb:
+
+[https://www.similarweb.com/de/website/betfury.io/#overview]
+
+If you want to learn more about Betfury (BFG).
+
+https://docs.betfury.io/
+
+
+If you wanna support us you can join Betfury by our link:)
+
+Betfury.io:
+[https://betfury.io/?r=617c7a851d238d3a1d047a7d](https://)
+
+Thanks for reading, love ya all <3
+",0xf27cfb39e9a3ba3ec816378a6ffa61976dea8fec,2022-10-21T08:07:13.000Z,0x18a18d39593ff1d0ba40e36b6a0adcac98adfd456d4f0a43d2553ca9f9e76f0f,2023-12-30T23:00:00.000Z,ACTIVE,35,"{""Yes we can! :)"":""["",""No :("":""6""}",https://deepdao.io/feed-proposal/0x18a18d39593ff1d0ba40e36b6a0adcac98adfd456d4f0a43d2553ca9f9e76f0f,https://deepdao.io/user/0xf27cfb39e9a3ba3ec816378a6ffa61976dea8fec/verified_dao_experience
+2,1e693922-1380-4b87-af0f-6ab6ca25f37a,SNAPSHOT,Buy more Fairsafe?,Should I buy more Fairsafe?,0xe5a13716c696eac11c8dfbe1038a8532b6c82dcf,2021-04-24T03:22:30.000Z,QmbjKnzQnZS8oimQ6Xh7hqxRAN3k6DsZdoqkFju29vSuqX,2031-04-23T19:00:00.000Z,ACTIVE,35,"{""Yes"":""["",""Absolutely"":""1"",""To the moon!"":""1""}",https://deepdao.io/feed-proposal/QmbjKnzQnZS8oimQ6Xh7hqxRAN3k6DsZdoqkFju29vSuqX,https://deepdao.io/user/0xe5a13716c696eac11c8dfbe1038a8532b6c82dcf/verified_dao_experience
+3,c8533087-d465-4b7a-ab2b-8cac413122b3,SNAPSHOT,关于LIVE发行方案的建议,"发行平台：
+Binance Launchpad、Secondlive社区，其他项目合作方及平台
+
+额度分配规划：
+平台	额度
+Binance Launchpad	2500万
+Secondlive社区	2000万
+其他项目合作方及平台	500万
+    
+发行价格：0.5U左右比较合理
+
+在禁止Bean transfer 之前，LIVE的成本在0.24-0.5USDT之间，越早的老用户成本越高。目前的成本在0.1USDT左右，综合看老用户的成本还在0.3USDT左右。
+早期挖LIVE成本测算如下：在mission center 中，完成On-chain Clock in Task，可以获得20BEAN，但是gas为0.00024229BNB，按照BNB500U价格折算，gas约为0.12U，对应每个bean0.006U。挖LIVE的比例情况bean：LIVE的值一直在40-80之间波动，LIVE的成本在0.24-0.48USDT左右。
+鉴于老用户的综合成本，以及时间成本，考虑到5000万的发行量，以及留给上市后的上涨空间，建议发行价格设置在0.5U左右较为合理。
+
+
+发行时间：鉴于发行5000万，数额巨大，建议借助世界杯热度，以及币安IEO的重启，择机发行。
+
+届时公布空投规则： 
+1、	对有secondlive 灵魂徽章的用户直接空投，1000LIVE/人，空投量1000*100=100000LIVE
+2、	对社区OG进行空投1000LIVE/人，空投量1000*50=50000LIVE
+初步测算空投数量为：150000LVE
+3、	对截止日前周度访问次数超过7的活跃SPACE进行空投（总计1380个空间，估计符合标准的800左右），1000LIVE/space；其余SPACE(580个)，200LIVE/SPACE.
+4、	对截止日前一周内完成拼图3日次以上的、绑定推特、钱包余额不为0的用户空投（目前6000左右），200LIVE/人。
+5、	对不满足上述2个条件，但是截止日前一周内完成3次On-chain Clock in Task 的空投，（目前20000左右），100LIVE/人.
+初步测算空投数量为：
+空投类型	标准	数量	合计(万)
+灵魂徽章	1000	100	10
+社区OG	1000	0	5
+活跃SPACE	1000	800	80
+非活跃SPACE	200	580	11.6
+活跃有效用户	200	3000	60
+交互用户	100	10000	100
+合计		27010	266.6
+
+
+公布白名单规则：
+6、	对截止日前周度访问次数超过7的活跃SPACE，具有购买2000LIVE的资格；其余SPACE，具有购买500LIVE的资格.
+7、	对截止日前完成过15次以上拼图的、绑定推特、钱包余额不为0、持有NFT的用户，具有购买500LIVE的资格。
+8、	对不满足上述2个条件，但是截止日完成On-chain Clock in Task 10次以上的用户，具有购买500LIVE的资格。
+初步测算社区发行数量为：
+用户类型	标准	用户数量	合计(万)
+活跃SPACE	2000	800	160
+非活跃SPACE	1000	580	58
+活跃有效用户	500	10000	500
+交互用户	500	2000	1000
+合计		66010	1718
+
+",0x99466d0d8709cf4d9bd80e73891b4c3d1bafa531,2022-11-06T06:19:44.000Z,0x979bf7e5e2df19e8ad7a1eebd2ba28acc907111478253e445f5d2269ad5c9078,2022-12-31T06:18:00.000Z,ACTIVE,34,"{""yes"":""["",""no"":""3""}",https://deepdao.io/feed-proposal/0x979bf7e5e2df19e8ad7a1eebd2ba28acc907111478253e445f5d2269ad5c9078,https://deepdao.io/user/0x99466d0d8709cf4d9bd80e73891b4c3d1bafa531/verified_dao_experience
+4,602b420b-519e-48d8-a31f-365604a9ebe4,SNAPSHOT,多少钱可以回去种田,1000万,0x238b599281b75734cd013cc2c72c4154248a9e01,2022-07-03T11:02:43.000Z,0x4adad48c73048aaee7261c6e985fccc5937ed64dd937cd98e8f819eb740cd4ee,2024-12-31T04:00:00.000Z,ACTIVE,34,"{""1000万元"":""["",""1亿元"":""3""}",https://deepdao.io/feed-proposal/0x4adad48c73048aaee7261c6e985fccc5937ed64dd937cd98e8f819eb740cd4ee,https://deepdao.io/user/0x238b599281b75734cd013cc2c72c4154248a9e01/verified_dao_experience
+5,da3c6fb8-7773-4cac-b52a-d1200d1943ae,SNAPSHOT,你是GG还是M'M,,0x2e926785f064e836f1f3e64621216aa83cb898a9,2022-08-17T08:10:08.000Z,0xeefda5d0ab0da5f4f34574c53774f14790c57f58dbd2b98641688b35213563e8,2027-01-31T02:00:00.000Z,ACTIVE,34,"{""GG"":""["",""MM"":""1"",""不清楚"":""2""}",https://deepdao.io/feed-proposal/0xeefda5d0ab0da5f4f34574c53774f14790c57f58dbd2b98641688b35213563e8,https://deepdao.io/user/0x2e926785f064e836f1f3e64621216aa83cb898a9/verified_dao_experience
+6,687c36b5-f34b-4d3f-9a43-e1657baab9fd,SNAPSHOT,Gitcoin Steward Council Election,"Summary:
+This proposal is to elect the 10 members to the Gitcoin Steward Council.  The new Steward Council will have a term of 180 days (term: ~ 05 December 2022 to ~03 June 2023).
+
+Following Proposal: V2 of the Steward Council 1, the Gitcoin Workstreams identified 3 nominees per work stream and those nominees were reviewed by CSDO.   Those nominees are listed here for your consideration.  
+
+Candidate biographies and details on how this vote will be conducted can be read on the forum listed below. 
+",0x2b07739cef5296428d23a17c91c97347fe4e58f3,2022-11-28T17:35:27.000Z,0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75,2022-12-05T12:00:00.000Z,ACTIVE,32,"{""Eugyal"":""["",""Ccerv1"":""1"",""drnicka"":""1"",""Annika"":""1"",""Ken"":""."",""Dabit3"":""9"",""lthrift"":""7"",""auryn"":""2"",""0x_sam"":""0"",""Epowell101"":""5"",""Griff"":""2"",""Pop"":""5"",""J-pepper"":""5"",""llllvvuu"":""4"",""ebransom"":""1""}",https://deepdao.io/feed-proposal/0x5543373d5748b4145b3a8a2cf8ecbf105fcb14d9b136f49134cd51bb4b8f6c75,https://deepdao.io/user/0x2b07739cef5296428d23a17c91c97347fe4e58f3/verified_dao_experience
+7,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Add public IFO,"Same as the IFO we have now, but allowing the public to set it up. So now we will have an official IFO controlled by pancakeswap and a public version that we can add.
+
+For the public if risk is a concern then perhaps its hidden and a code must be used to view / access it. I know it comes with risks so make sure it's highlighted. ",0x42ba001719ce41fd28249073a7fb55630b5f9185,2021-06-27T09:24:11.000Z,QmX1U5jgiXBy5Khx7hjJxNw2aXZFknLxy7gEKE5GaAkTyh,2022-12-31T12:00:00.000Z,ACTIVE,32,"{""Yes - Support (more burn) "":""["",""No - Don't Support"":""2""}",https://deepdao.io/feed-proposal/QmX1U5jgiXBy5Khx7hjJxNw2aXZFknLxy7gEKE5GaAkTyh,https://deepdao.io/user/0x42ba001719ce41fd28249073a7fb55630b5f9185/verified_dao_experience
+8,e2839abc-9982-4ef7-b57b-01bee5d0710b,SNAPSHOT,灰度会暴雷吗？,,0x22865881b3be7502e3bae2f0b1d52711430994ea,2022-11-21T01:20:47.000Z,0xecc0ca2ded6f373a322025ebde9d5388a55851c609e9029770c48e6f7808c6a1,2022-12-31T04:00:00.000Z,ACTIVE,30,"{""会"":""["",""不会"":""1""}",https://deepdao.io/feed-proposal/0xecc0ca2ded6f373a322025ebde9d5388a55851c609e9029770c48e6f7808c6a1,https://deepdao.io/user/0x22865881b3be7502e3bae2f0b1d52711430994ea/verified_dao_experience
+9,2ff2f1f6-c1ae-4b10-8722-69ba33cd2b44,SNAPSHOT,Vote For The Next Toy Character (3rd),"Vote for the next character in the Lost Toys collection. This will be the third character which will be minted on the Polygon chain.
+
+",0x8fbf5a4a97e2f7c8cb13e8a49dc87928f5ed641a,2022-11-11T17:22:54.000Z,0xdfd3215c648b4233cb0aa6be93986ee32a0a66091f6f2a8792d4a7fa6aefe8d6,2022-12-10T17:00:00.000Z,ACTIVE,29,"{""Penguin"":""["",""Dinosaur"":""5"",""Gargoyle"":""2"",""Jack In The Box"":"","",""Piggy"":""1"",""None Of The Above"":""7""}",https://deepdao.io/feed-proposal/0xdfd3215c648b4233cb0aa6be93986ee32a0a66091f6f2a8792d4a7fa6aefe8d6,https://deepdao.io/user/0x8fbf5a4a97e2f7c8cb13e8a49dc87928f5ed641a/verified_dao_experience
+10,4a1c5a0b-c68c-4676-bc66-8c4bcfd1b7d2,SNAPSHOT,matic 2022年底可以回到1.5u吗？,"matic 2022年底可以回到1.5u吗？
+",0xfe2623b65c3433f4a1ea810e29bc6cb040a9c94a,2022-11-01T08:08:21.000Z,0xba2dfc61ba7c9b4b9e61738b2b497adcafd1680f8c7fe87b5b8e31c242ffe55c,2022-12-31T04:00:00.000Z,ACTIVE,29,"{""可以"":""["",""不可以"":""7"",""无法判断"":""9""}",https://deepdao.io/feed-proposal/0xba2dfc61ba7c9b4b9e61738b2b497adcafd1680f8c7fe87b5b8e31c242ffe55c,https://deepdao.io/user/0xfe2623b65c3433f4a1ea810e29bc6cb040a9c94a/verified_dao_experience
+11,09dc7b99-3c66-417b-bf23-a8165d3ca0aa,SNAPSHOT,Future of TLD ,"A) Go with this New Roadmap
+See Details on Telegram Chat
+
+B) Raffle out the Remaining NFTs between current Holders, Place a Global Bid with remaining funds & let Collection become a community driven Art Project. (new Voting on which Raffle-System and amount of Global Bid)
+
+1 TLD = 1 VOTE",0xc4f6748d633a1c0ef74ca9dbfbf2ecf2b9474308,2022-11-24T10:28:37.000Z,0x70373ccb0ff83eafa4d9a842172e8d175ea0239a2db644107bb9d6cff1e63f3c,2022-12-18T11:00:00.000Z,ACTIVE,29,"{""A"":""["",""B"":""1""}",https://deepdao.io/feed-proposal/0x70373ccb0ff83eafa4d9a842172e8d175ea0239a2db644107bb9d6cff1e63f3c,https://deepdao.io/user/0xc4f6748d633a1c0ef74ca9dbfbf2ecf2b9474308/verified_dao_experience
+12,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,$PHA $WIN $BTTC $GMT on Syrup Pools ?? ,"**Hello cake family!**
+
+Do you want to see these tokens in the pool?
+
+$PHA $WIN $BTTC $GMT $SHIB
+
+
+Take your pick!
+
+Would you like to farmer one of these tokens? Then vote ! Make your choice ! 
+
+Thanks for your support!",0x6c93b7dd221b20ecdb2e7aa6ba386af994cf68a7,2022-10-21T08:20:23.000Z,0x3c55460127e71c5956c1fa14b6976c10d24e3bf702870d8112cd360c036f5df6,2023-02-28T01:00:00.000Z,ACTIVE,29,"{""$PHA  Syrup Pools"":""["",""$WIN  Syrup Pools"":""6"",""$BTTC  Syrup Pools"":""4"",""$GMT Syrup Pools"":""5"",""$SHIB Syrup Pools"":""6""}",https://deepdao.io/feed-proposal/0x3c55460127e71c5956c1fa14b6976c10d24e3bf702870d8112cd360c036f5df6,https://deepdao.io/user/0x6c93b7dd221b20ecdb2e7aa6ba386af994cf68a7/verified_dao_experience
+13,e2839abc-9982-4ef7-b57b-01bee5d0710b,SNAPSHOT,家人们工资多少,,0xbb703d088044bc26902dab8fd9e44b57eb417d84,2022-10-16T18:17:34.000Z,0x5d76823e8f4a6dcba3a79df1bea239396d5b9c290888498cf140a230dac2b2f4,2022-12-31T04:00:00.000Z,ACTIVE,29,"{""3000"":""["",""5000"":""6"",""8000"":""8"",""10000"":"".""}",https://deepdao.io/feed-proposal/0x5d76823e8f4a6dcba3a79df1bea239396d5b9c290888498cf140a230dac2b2f4,https://deepdao.io/user/0xbb703d088044bc26902dab8fd9e44b57eb417d84/verified_dao_experience
+14,e2839abc-9982-4ef7-b57b-01bee5d0710b,SNAPSHOT,apt多少可以接盘？,,0xe6295ea53f11de13c39ff18c284d9a66ad3a0ba8,2022-10-21T02:59:23.000Z,0xee0e886e15904099bfaf156413a05ab0f096d2c5b235af2f6991bc1b8141f2a8,2022-12-31T04:00:00.000Z,ACTIVE,28,"{""3"":""4"",""4"":""2"",""5"":""["",""3以下"":""3""}",https://deepdao.io/feed-proposal/0xee0e886e15904099bfaf156413a05ab0f096d2c5b235af2f6991bc1b8141f2a8,https://deepdao.io/user/0xe6295ea53f11de13c39ff18c284d9a66ad3a0ba8/verified_dao_experience
+15,e2839abc-9982-4ef7-b57b-01bee5d0710b,SNAPSHOT,你是全职在币圈吗,,0x357036e6e0447e966a77e236990ba90eb747d446,2022-10-17T05:22:12.000Z,0x2405b6e8695f67f186b0752e747823f02d25f2a4837a94414a95e1b08a095121,2022-12-31T04:00:00.000Z,ACTIVE,28,"{""是"":""["",""不是"":""3""}",https://deepdao.io/feed-proposal/0x2405b6e8695f67f186b0752e747823f02d25f2a4837a94414a95e1b08a095121,https://deepdao.io/user/0x357036e6e0447e966a77e236990ba90eb747d446/verified_dao_experience
+16,7522b6bf-10e7-4662-84d6-9d2c0e304515,SNAPSHOT,DRAGON BALL NFT debut: what platform do you want to debut on,"Dragon Ball have been popular in the world for 38 years and have endured.
+Dragon Ball fans scattered around the world. Surely all want to have the unique Dragon Ball  NFT. We are used to using different platforms, now we ask the Dragon Ball  fans to vote for which platform they would like to debut on?
+The technical team is working on the technical difficulties of MultiChain simultaneous debut, are you also looking forward to it?
+
+Published platforms
+1. OpenSea
+2. Binance NFT
+3. Solanart
+4. Nifty Gateway
+5. MakersPlace
+6. Rarible
+7. Super Rare
+8. VIV3
+
+Voting time: 90 days.
+
+ https://discord.com/invite/v7KsCPQJWs 
+
+![photo_2022-10-09_17-45-38.jpg](ipfs://bafkreielfqd37wxe6sxpezdx2udisvj3ph2mgy7hdjgo6paitxzzvx4hj4)
+    ",0x678145b1a60b0b531b9170b494e54e21ad001ccc,2022-10-10T04:02:15.000Z,0x40ca09fbbc62a115fa63503b8729ebbe728b4a5a651e89d1db668c75282e780e,2023-01-09T04:00:00.000Z,ACTIVE,28,"{""OpenSea"":""["",""Binance NFT"":""1"",""Solanart"":""6"",""Nifty Gateway"":""5"",""MakersPlace"":""5"",""Rarible"":""0"",""Super Rare"":""5"",""VIV3"":""7"",""Multichain"":""4""}",https://deepdao.io/feed-proposal/0x40ca09fbbc62a115fa63503b8729ebbe728b4a5a651e89d1db668c75282e780e,https://deepdao.io/user/0x678145b1a60b0b531b9170b494e54e21ad001ccc/verified_dao_experience
+17,bca71994-3ed8-4abe-addf-cf15140b33e1,SNAPSHOT,Animated Collections,We need to have gif and APNG support so we can create animated collections and autominter can be update with the best nft generation platforms,0xf1f5d35c46fd62fdd9150c39acc4a1b6a8327ae4,2022-12-02T15:57:41.000Z,0x2d81e0fe0d2a2ed1a9853854e6358e9c421edaeacbad504384ab7e0dce204b8a,2022-12-31T18:00:00.000Z,ACTIVE,27,"{""For"":""["",""Against"":""7"",""Abstain"":""4""}",https://deepdao.io/feed-proposal/0x2d81e0fe0d2a2ed1a9853854e6358e9c421edaeacbad504384ab7e0dce204b8a,https://deepdao.io/user/0xf1f5d35c46fd62fdd9150c39acc4a1b6a8327ae4/verified_dao_experience
+18,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Donations,"sorry for this everyone, but i am seriously in need of some help, if u have anything to spare and could find it in your heart to help me i would be very grateful, once again sorry for the inconvenience.
+BSC - 0x3a53dA614C514fDb75cd051C65BFf5A8CFE0B649",0x3a53da614c514fdb75cd051c65bff5a8cfe0b649,2022-10-01T03:04:58.000Z,bafkreihor43cvuvk3lyusjghywzydv76k56adotwyd46qq6ougbv7g6pxu,2025-11-06T03:15:00.000Z,ACTIVE,27,"{""This is all I can offer"":""["",""Sorry can’t help ya"":""6""}",https://deepdao.io/feed-proposal/bafkreihor43cvuvk3lyusjghywzydv76k56adotwyd46qq6ougbv7g6pxu,https://deepdao.io/user/0x3a53da614c514fdb75cd051c65bff5a8cfe0b649/verified_dao_experience
+19,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Can anyone please 🙏 donate some to me,I'm struggling and gamble by investing into crypto earlier this year. I'm on verge of loosing my house. please help only if you can afford.,0x3a2555c3d943432c7a6a19566e18f4f2481dbe05,2022-10-01T12:31:38.000Z,bafkreicrsweg2fovi2jwocnxu7ggybk5yf6lwxpolaq6ia3iiqbokd36gu,2022-12-31T00:00:00.000Z,ACTIVE,27,"{""Help"":""2""}",https://deepdao.io/feed-proposal/bafkreicrsweg2fovi2jwocnxu7ggybk5yf6lwxpolaq6ia3iiqbokd36gu,https://deepdao.io/user/0x3a2555c3d943432c7a6a19566e18f4f2481dbe05/verified_dao_experience
+20,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,I'm short 0.2 cake 🎂 😔 ,"last chance for me I need to get 0.2 CAKE so I can play and win and turn it all around
+
+0x035C8b1ebD65D5eB92fDCb7Dd66AF0E992D520d1
+
+Nice one
+",0x035c8b1ebd65d5eb92fdcb7dd66af0e992d520d1,2022-10-22T06:22:47.000Z,0x44f3d424d8c603b56bec20907d5fcec4c1a49f2d2e69a5082d943322987d2842,2023-07-13T23:30:00.000Z,ACTIVE,27,"{""No help for the widows son"":""["",""So mote it be"":""5""}",https://deepdao.io/feed-proposal/0x44f3d424d8c603b56bec20907d5fcec4c1a49f2d2e69a5082d943322987d2842,https://deepdao.io/user/0x035c8b1ebd65d5eb92fdcb7dd66af0e992d520d1/verified_dao_experience
+21,bda783d5-171b-4d0a-a303-e2ba7aaac330,SNAPSHOT,opensea这个名字吉利吗,吉利,0x34f73df25c4b7b80df558cce7b88a74a55d2e905,2021-11-26T14:46:47.000Z,0x695763f30e3544a3817747f0b3f0b783b97b849aa3b30c44a6194debad228f14,2023-08-25T04:00:00.000Z,ACTIVE,27,"{""吉利"":""["",""不吉利"":""4""}",https://deepdao.io/feed-proposal/0x695763f30e3544a3817747f0b3f0b783b97b849aa3b30c44a6194debad228f14,https://deepdao.io/user/0x34f73df25c4b7b80df558cce7b88a74a55d2e905/verified_dao_experience
+22,d66a21a0-84ef-4ce5-abf1-37ccfc1e9425,SNAPSHOT,PlannerDAO Governance Challenge - Snapshot Voting,What would you most like to improve about the financial planning industry?,0xb8476e2c016011b0d978332049abc20bb963803d,2022-09-01T14:45:43.000Z,0x1e48b114604f5fe8ddbbe0da24d7a7e676a146ee7c36082213eefdb49e8153ac,2023-08-02T19:00:00.000Z,ACTIVE,27,"{""Greater access to opportunities"":""["",""Increased financial transparency"":""3"",""Access to decentralized finance"":""4"",""Effective pro bono planning"":"","",""Consistent fiduciary standard"":""0""}",https://deepdao.io/feed-proposal/0x1e48b114604f5fe8ddbbe0da24d7a7e676a146ee7c36082213eefdb49e8153ac,https://deepdao.io/user/0xb8476e2c016011b0d978332049abc20bb963803d/verified_dao_experience
+23,d658d832-10bc-4a4d-a2f6-e701f2df2963,SNAPSHOT,L0啥时候发币？,,0xef677e6f8b6730db905188f3f06bf58701d12a76,2022-11-26T09:20:01.000Z,0x0cdbd180d743281000bce9a3c479569f0b99943b0a4baffc36cad442792abe96,2024-06-28T04:00:00.000Z,ACTIVE,26,"{""1-3（23年）"":""["",""4-6"":""7"",""7-9"":""6"",""10-12"":""1"",""1-3（24年）"":""."",""25年-"":""7""}",https://deepdao.io/feed-proposal/0x0cdbd180d743281000bce9a3c479569f0b99943b0a4baffc36cad442792abe96,https://deepdao.io/user/0xef677e6f8b6730db905188f3f06bf58701d12a76/verified_dao_experience
+24,79264506-bf18-4f3c-bb86-61b443718afb,SNAPSHOT,SMA 2-for-1 'split' + Governance Rewards,"*Requirements:* 
+- Being a holder of an NFT of the StupidMonkeys Animated Collection or 10 different NFTs of the StupidMonkeys Pajamas Collection
+
+*Vote proposal:*
+- It has been a long journey so far even if we have just started, and we are now focused on the next big chapter of our roadmap, our second main collection, and the game.
+We have heard your suggestions and while we think that our first main collection, StupidMonkeys Animated, will continue to have a decisive role even after the release of the second collection and the game, we are asking you to vote on this important aspect: the price of the collection NFTs.
+A lot of things have impacted the crypto/NFTs markets during the last couple of months, so this proposal is about reducing the price of an SMA NFT from 0.222eth to 0.111eth.
+Of course, we won't leave behind our beloved holders and supporters, and for this reason, if this proposal will pass, we will then randomly airdrop another SMA NFT for free to each holder, based on the number of SMA held ( one new SMA NFT per SMA NFT previously held ).
+If so, the total SMA NFTs available ( as of today 11.29.2022 ) will be reduced to 315, at a more affordable price, with the goal of increasing the community.
+
+This voting proposal also gives the voters the possibility to claim their governance rewards, so if you want them please make sure to vote.
+
+Thank you for your vote.
+
+*NFT Marketplace Listing*
+- https://nft.gamestop.com/user/StupidMonkeysNFT?tab=created
+
+*Relevant Links*
+- https://stupidmonkeys.co/
+- https://twitter.com/StupidMonkey741
+- https://discord.gg/87ZvAXj5w6
+
+*NFT Collections Description*
+- The Premium Collection of 741 unique NFTs is our state-of-the-art foundation that provides long-term value for its holders. Each holder is eligible to vote on the critical decisions of our project and, being the first buyer of the monkey (so from our wallet address), entitles the holder to receive the respective digital twin of the StupidMonkeys Verse Collection. The NFTs have 138 unique rarity traits and they differ for at least 4 traits. 
+We donate 30% of the total sales to the wildlife charity Gorillafund to help our beloved monkeys.
+",0x5328e07c02cbe9c9b1768615eb7e86102a0a9e47,2022-11-29T01:04:06.000Z,0x0373ce79ed0ac16287480797ad4b136503f723e3a163a8ce883690f18c2b42c2,2022-12-06T00:00:00.000Z,ACTIVE,25,"{""Yes for the 'split'"":""["",""No for the 'split'"":""8""}",https://deepdao.io/feed-proposal/0x0373ce79ed0ac16287480797ad4b136503f723e3a163a8ce883690f18c2b42c2,https://deepdao.io/user/0x5328e07c02cbe9c9b1768615eb7e86102a0a9e47/verified_dao_experience
+25,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,INJUSTICE,"hello my hardworking chefs, my advice to you is that you should definitely unlock people for 1 year",0x38a9b4f443d579a82de9ef4caa8530c61f7b349b,2022-09-08T18:06:20.000Z,bafkreiachrmvtg5d6cfekq6ytq5q3o6llokul4hbyzqilk2t3dciazk4ua,2023-04-30T21:15:00.000Z,ACTIVE,25,"{""Hello"":""["",""Hi"":""1""}",https://deepdao.io/feed-proposal/bafkreiachrmvtg5d6cfekq6ytq5q3o6llokul4hbyzqilk2t3dciazk4ua,https://deepdao.io/user/0x38a9b4f443d579a82de9ef4caa8530c61f7b349b/verified_dao_experience
+26,b7433dbb-22b6-4929-8e5d-0ef39286b1a1,SNAPSHOT,"As of December 31, 2022, where do you think the price of SQUID will be?",,0x384659f8ecffcbe49118ad29fb323dbf9da2809f,2022-05-28T11:10:01.000Z,0x5c16ce1cf4c2eb11b0c8cd7f6c508655c9b39b29e8c81cb5f835677a32b9fa1d,2022-12-31T15:59:00.000Z,ACTIVE,25,"{""0.01-0.099"":""["",""0.1-0.5"":""5"",""0.5-0.99"":""9"",""1-9"":""5""}",https://deepdao.io/feed-proposal/0x5c16ce1cf4c2eb11b0c8cd7f6c508655c9b39b29e8c81cb5f835677a32b9fa1d,https://deepdao.io/user/0x384659f8ecffcbe49118ad29fb323dbf9da2809f/verified_dao_experience
+27,97943571-89e4-4acd-80c5-c2a9efdd194b,SNAPSHOT,七龙珠vs海贼王，更喜欢哪个？,,0xd829e171dd8e86279d89dc9a7f5ad7ffbad5a86a,2022-09-12T03:40:07.000Z,0x34ac7481b0fa9ebc917058a3507a5761cc41d879147100baec0c6ebad89dd4e5,2022-12-10T04:00:00.000Z,ACTIVE,25,"{""七龙珠"":""["",""海贼王"":""1"",""圣斗士"":""3""}",https://deepdao.io/feed-proposal/0x34ac7481b0fa9ebc917058a3507a5761cc41d879147100baec0c6ebad89dd4e5,https://deepdao.io/user/0xd829e171dd8e86279d89dc9a7f5ad7ffbad5a86a/verified_dao_experience
+28,cdb8036f-1334-4d65-8ff7-039974d85eec,SNAPSHOT,Reserve 5% of $DOGENS for Founding Dogens (all 500 LP providing NFTs)," 
+![Vote-header.png](ipfs://bafkreia5bvk23vaxfgtohxnnydavmlzd3t3pg7z2yyfwgrxo4kxqqslaxu)
+    
+Fellow Dogens,
+
+As our devs are preparing the token contracts we had some discussion on how to keep this a fair launch, but also enable you, our loyal co-founders, to get in on the ground floor. 
+
+As you may know, most launches get raided by bots, snipers and jeets in the first minute. This probably means the loyals in here only can buy tokens at higher prices than those rippers. We have therefor suggested to reserve a small number of tokens for the 500 NFT holders who have enabled us to raise a very solid amount of starting liquidity. 
+
+Our suggestion would be to give every NFT an airdrop of 66.99 $DOGENS, which amounts up to 33,495 tokens in reserve. That’s roughly 5% of total supply. The other 95% of tokens will still go into liquidity. To keep this launch as fair as possible, we want to lock those tokens for 15 days, so there will be no sell pressure from founders at launch. 
+
+We already had a fair poll on this subject in this channel during the time of NFT sales. The poll was closed once the NFTs were sold out. This way we ensured everyone that participated in the poll had a fair chance to buy NFTs while voting.
+
+The result of the vote was 58% yes and 42% no. This means we now must put this up for a final vote in the DAO that yesterday was successfully upgraded to all 500 NFTs.
+
+VOTE!
+",0x72270bb13dd4038970e325fe8a8dfb8703e882ea,2022-12-01T17:10:55.000Z,0x32e84488c93258e331d668024fa1935e77d6305abf14d616e65d07956a6b3e48,2022-12-04T11:00:00.000Z,ACTIVE,25,"{""Yes, 5% is a fair compensation"":""["",""No, the jeets can have it"":""2""}",https://deepdao.io/feed-proposal/0x32e84488c93258e331d668024fa1935e77d6305abf14d616e65d07956a6b3e48,https://deepdao.io/user/0x72270bb13dd4038970e325fe8a8dfb8703e882ea/verified_dao_experience
+29,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Mini game section (play to earn but money is sourced from the players themselves) ,"simple mini games like racing karts , snake or ping pong. The money will be put by the players who participate. Depending on the game either winner takes all or reward is distributed amongst the top 3 winners. 70% of the pot goes to the winner, 10% is burnt and 20% is given to the Chefs/developers to maintain and add more mini games to the section.",0xc9e2adc0a1bc2331818e6d3c9c3837cf67e46711,2022-11-26T17:49:33.000Z,0xebea2263da4d48c4895db9c870b6ea2199d1658d4bcdd26f5eb18a7ca0463e2d,2022-12-27T18:30:00.000Z,ACTIVE,24,"{""SUSTAINABLE PLAY TO EARN"":""2""}",https://deepdao.io/feed-proposal/0xebea2263da4d48c4895db9c870b6ea2199d1658d4bcdd26f5eb18a7ca0463e2d,https://deepdao.io/user/0xc9e2adc0a1bc2331818e6d3c9c3837cf67e46711/verified_dao_experience
+30,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,您是否支持Pancakeswap也出一款GameFi游戏来增加流动性,是否支持pankecake也效仿别的swap开发GameFi,0xf0d63fc421a5678067a025f62b83b86b741ae107,2022-02-14T07:22:24.000Z,0xd662f127d5420fc712c655b1763964631cea95160a10d43af5dbf690055e486e,2022-12-14T04:00:00.000Z,ACTIVE,24,"{""支持"":""["",""反对"":""2""}",https://deepdao.io/feed-proposal/0xd662f127d5420fc712c655b1763964631cea95160a10d43af5dbf690055e486e,https://deepdao.io/user/0xf0d63fc421a5678067a025f62b83b86b741ae107/verified_dao_experience
+31,76d3b536-5e3c-4f49-b36f-1d1c448657dd,SNAPSHOT,[URGENTE] Doação para a comunidade Cumuruxatiba,"Essa proposta foi elaborada por Drougss.eth#6964 a pedido de TimBalabuch#5220 e revisado por viniciusbedum#7409 e Pedrovilela.eth#4269 que se dispôs a realizar as transações e documentar as ações na comunidade Cumuruxatiba.
+
+Valor a ser doado: 1000 $MATICs
+Membros responsáveis: viniciusbedum#7409, TimBalabuch#5220, Pedrovilela.eth#4269 e Drougss.eth#6964
+Data da doação: Em Dezembro. 
+Categoria: URGENTE
+
+Informações sobre o projeto e como a doação será usada:
+https://docs.google.com/document/d/1GPFACI1sqwrY9xpac-0T4a6HeVq-888eUqvS4DQmG4g/edit?usp=share_link",0xf18635651e87d9c6842ed63ea12ed1216a1655ac,2022-12-02T23:55:25.000Z,0xf3a8026f521fb24fb0d931f638ad5b9395c2555cc56d93aacc5526abdc325a41,2022-12-05T02:00:00.000Z,ACTIVE,24,"{""A favor"":""["",""Contra"":""8"",""Abster"":""0""}",https://deepdao.io/feed-proposal/0xf3a8026f521fb24fb0d931f638ad5b9395c2555cc56d93aacc5526abdc325a41,https://deepdao.io/user/0xf18635651e87d9c6842ed63ea12ed1216a1655ac/verified_dao_experience
+32,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Kilitli cake yatırımcılarına özel ,size güvenip ve sizin coininize yüklü miktarda yatırım yapıp 1 sene kitleyenlere özel bir ödül olarak yüzdeyi daha çok verip ve sabit olması daha iyi olur birde maksimum arzını daha minimuma çekip üretilenden daha fazla yakım olması deflasyonist hale getirmeniz daha harika olcak ,0xfc07df80292cc1746b5a041ba3a866b1f513bb4a,2022-09-30T16:04:07.000Z,bafkreibncr5dxsckcqkbnmjl2zwxswmkgbqivuhezaezzontvmlm46lm3m,2030-01-05T21:00:00.000Z,ACTIVE,23,"{""Cake "":""["",""Cake"":""1""}",https://deepdao.io/feed-proposal/bafkreibncr5dxsckcqkbnmjl2zwxswmkgbqivuhezaezzontvmlm46lm3m,https://deepdao.io/user/0xfc07df80292cc1746b5a041ba3a866b1f513bb4a/verified_dao_experience
+33,2a4c7eb2-8da0-4bc9-ab2b-e11f9b2481cc,SNAPSHOT,Will GAL$ back to $20 in 2024?,Galxe is the leading Web3 credential data network in the world. A collaborative credential infrastructure enabling brands and developers to engage communities and build robust products in Web3.,0xb8303eb6d0a96a7ce36b3c0ba811570a8e461282,2022-12-01T18:01:47.000Z,0xa060d85fd163848bd66318d8bd9b9ce1b996f0a88c1b82af0a39a414445fdcca,2023-01-31T04:00:00.000Z,ACTIVE,23,"{""yeah! sure!"":""["",""Hold a negative attitude"":""2""}",https://deepdao.io/feed-proposal/0xa060d85fd163848bd66318d8bd9b9ce1b996f0a88c1b82af0a39a414445fdcca,https://deepdao.io/user/0xb8303eb6d0a96a7ce36b3c0ba811570a8e461282/verified_dao_experience
+34,eee178f3-ebd4-471a-b038-1244555483e2,SNAPSHOT,Prove it. You didn't sell psp tokens from airdrop.,,0xf4d9c88c924079422e5ad77ee64b967ce4efd828,2021-11-21T09:10:28.000Z,0x265bc773905c53cb03f5fbe2dd83e147e6f32b9a1d4ba1b0120e8c4d86e913ff,2023-01-01T09:00:00.000Z,ACTIVE,23,"{""5200"":""["",""7800"":""2"",""10400"":""5""}",https://deepdao.io/feed-proposal/0x265bc773905c53cb03f5fbe2dd83e147e6f32b9a1d4ba1b0120e8c4d86e913ff,https://deepdao.io/user/0xf4d9c88c924079422e5ad77ee64b967ce4efd828/verified_dao_experience
+35,920b1ef8-9e78-4032-beae-875f73494521,SNAPSHOT,什么时候结婚好？,,0x0b7b8c32a3e52fee150e078a9ed014ab3eedcc7b,2022-10-15T07:04:55.000Z,0xd462943703e8a2ee3854d2705f10e5ee4477c79188dfd613fe307bcd3bd08c5a,2023-04-30T15:00:00.000Z,ACTIVE,23,"{""大学刚毕业"":""["",""毕业3年左右"":""2"",""毕业5年左右"":""1"",""最好不结婚"":"",""}",https://deepdao.io/feed-proposal/0xd462943703e8a2ee3854d2705f10e5ee4477c79188dfd613fe307bcd3bd08c5a,https://deepdao.io/user/0x0b7b8c32a3e52fee150e078a9ed014ab3eedcc7b/verified_dao_experience
+36,4a7784af-e555-4901-b915-63022d22f04d,SAFE,Sushiswap buyback never happened,"Nomi funds were never used to buyback sushi, but some random extra 14mil worth of eth, this is not what was decided and zero transparency on the front. 
+
+Some random funds were used by multisig holders to buy eth and then sign themselves off for the original nomi funds which were meant for buyback. 
+
+Hence, nomibuyback never happened, that would've meant using original nomi 38k eth to buy sushi. This is manipulation and abuse of multisig power.",0x333ee98d84b087208353038e10e1b4600a0a3967,2020-09-15T03:05:57.000Z,Qmdpr5nfFdHVsMQskUaEX8TqT54PrAUvFFvuwft7zc9pHU,2022-12-30T12:00:00.000Z,ACTIVE,23,{},https://deepdao.io/feed-proposal/Qmdpr5nfFdHVsMQskUaEX8TqT54PrAUvFFvuwft7zc9pHU,https://deepdao.io/user/0x333ee98d84b087208353038e10e1b4600a0a3967/verified_dao_experience
+37,80dadc0f-285a-4d43-a367-4519c3bc6527,SNAPSHOT,LIP-5 Migrate to a new contract to support OpenSea's blocklist,"# Summary
+
+OpenSea has [released a blog post](https://opensea.io/blog/announcements/on-creator-fees/) about a new blocklist feature intended to
+enforce creator fees on secondary sales.
+
+This is a proposal to migrate to a new contract that attempts to enforces creator fees on chain using [the OpenSea OperatorFilterRegistry tool](https://github.com/ProjectOpenSea/operator-filter-registry). This will allow us to support OpenSea's blocklist and remain eligible for creator fees from secondary sales on OpenSea.
+
+# Motivation
+
+OpenSea has stated that they will not support creator fees for new collections that don't use the OperatorFilterRegistry tool. Loot currently has a 5% creator fee, which may be lost if we don't migrate to a new contract.
+
+# Specifications
+
+The new contract will be deployed to Ethereum mainnet. Existing Loot holders will be able to migrate their Loot to the new contract by calling a function on the new contract. The migrate function will burn the legacy Loot and mint new Loot on the new contract with the same ID. Migrating will be free and just cost gas.",0x7e5507281f62c0f8d666beaea212751cd88994b8,2022-11-08T07:40:35.000Z,0xeff793cb4bfcc4bbc67f0ad773e04ad206bc04e8f54e31aaac79f94e244f3977,2022-12-15T20:00:00.000Z,ACTIVE,23,"{""Migrate to a new contract"":""["",""Do nothing"":""1""}",https://deepdao.io/feed-proposal/0xeff793cb4bfcc4bbc67f0ad773e04ad206bc04e8f54e31aaac79f94e244f3977,https://deepdao.io/user/0x7e5507281f62c0f8d666beaea212751cd88994b8/verified_dao_experience
+38,0626fda6-b54d-44c0-b50c-217bded91710,SNAPSHOT,Isn't this website a voting authority,Isn't this website a voting authority,0x24dd081b10b1bb63e352456374c21858d9c1eac7,2022-09-09T05:54:18.000Z,0x1936fe21a1d836af60bae4b18904f85662e0966466874f60de237fb621cc8cae,2022-12-28T04:00:00.000Z,ACTIVE,23,"{""no"":""["",""yes"":""3""}",https://deepdao.io/feed-proposal/0x1936fe21a1d836af60bae4b18904f85662e0966466874f60de237fb621cc8cae,https://deepdao.io/user/0x24dd081b10b1bb63e352456374c21858d9c1eac7/verified_dao_experience
+39,b30a7ea4-390e-49d2-916b-f476e091036f,SNAPSHOT,BTC会跌到8000U吗？,,0x022111936500251ea358a98cbb158d77580efb42,2022-10-08T13:00:44.000Z,0x7bf979e4b07328e41b161587d0b0e60a25f7a52924838c39f6ea3855b2c20839,2023-02-25T04:00:00.000Z,ACTIVE,22,"{""会"":""["",""不会"":""1""}",https://deepdao.io/feed-proposal/0x7bf979e4b07328e41b161587d0b0e60a25f7a52924838c39f6ea3855b2c20839,https://deepdao.io/user/0x022111936500251ea358a98cbb158d77580efb42/verified_dao_experience
+40,b6b47015-4dd4-45e2-b4c0-db707e1ed25e,SNAPSHOT,大家都在这里发起提案并投票试试,多交互交互说不定有空投呢,0x7c3505f2018176346e4f5f551ad8eab177f749b4,2021-12-27T17:05:11.000Z,0xebb46cc9a0cfcc209a65270d02467545df4ddc829dee7c5a2118817b9455973c,2022-12-31T04:00:00.000Z,ACTIVE,22,"{""试一试"":""["",""懒得动"":""7""}",https://deepdao.io/feed-proposal/0xebb46cc9a0cfcc209a65270d02467545df4ddc829dee7c5a2118817b9455973c,https://deepdao.io/user/0x7c3505f2018176346e4f5f551ad8eab177f749b4/verified_dao_experience
+41,dff4fb99-4d50-4fee-8380-4b51026a69d4,SNAPSHOT,Dao组织群主有没有义务每周发红包？,此提案是为了巩固群主地位、保持良好个人信誉而设立，所有福利由群主自掏腰包，群员无特殊原因不得拒绝群主福利！,0xc93ffb6ccfa0fbe215de35afb3c7020a76accb4b,2022-07-10T08:22:03.000Z,0xeb3ca2f1d7bbc9c41064e4590b89950b62a151f00c3686a26f82bcfab2d855ab,2022-12-31T04:00:00.000Z,ACTIVE,22,"{""有"":""["",""没有"":""4""}",https://deepdao.io/feed-proposal/0xeb3ca2f1d7bbc9c41064e4590b89950b62a151f00c3686a26f82bcfab2d855ab,https://deepdao.io/user/0xc93ffb6ccfa0fbe215de35afb3c7020a76accb4b/verified_dao_experience
+42,4b71babe-cd23-4350-a553-03f0ddf84449,SNAPSHOT,区块高度测试12.27以前就有matic或者eth的,,0xce0dacc4e88c14512e56155f8faaeacdaaeb4ea2,2021-12-27T13:23:28.000Z,0x93cb62d96db011cc929ab938a6580a6e18f44ffecb4e47554356b96ff026b3e6,2023-01-28T04:00:00.000Z,ACTIVE,22,"{""yes"":""["",""no"":""0""}",https://deepdao.io/feed-proposal/0x93cb62d96db011cc929ab938a6580a6e18f44ffecb4e47554356b96ff026b3e6,https://deepdao.io/user/0xce0dacc4e88c14512e56155f8faaeacdaaeb4ea2/verified_dao_experience
+43,db953899-a74b-4dfa-b79f-8f4783a9b087,SAFE,"List Fox tokens on Binanase before March 30, 2023","List Fox tokens on Binanase before March 30, 2023.
+",0x552b881931374dabed6d55ef348c7d6d14ddb6ef,2022-10-29T07:40:46.000Z,0x18aa45b384725e6f2f81d72a002f395248a2d1f290a3a2c2755e6fe7f79d8762,2022-12-12T04:00:00.000Z,ACTIVE,22,"{""ok"":3274.368432619322,""It's too late"":56002.07615983695,""It's too early"":0,""i don't care"":0}",https://deepdao.io/feed-proposal/0x18aa45b384725e6f2f81d72a002f395248a2d1f290a3a2c2755e6fe7f79d8762,https://deepdao.io/user/0x552b881931374dabed6d55ef348c7d6d14ddb6ef/verified_dao_experience
+44,6f61a28d-e587-4e7b-858e-4ece67459918,SNAPSHOT,[BGYC1] Implementation of decentralized voting system,"A few months ago, we made the choice to make BGYC a community project. We got a % of the royalties to feed the community wallet, built a team, deployed a multisig, built the foundations:
+
+Now It's time to take a further step towards decentralization with the **implementation of votes by Snapshot!**
+
+The goal is to allow the community to master the decision-making process and to fully express its potential. To ensure that your words are heard and that you are aligned with the direction of the project, to build always more, always better together!
+
+![600x200.jfif](ipfs://bafkreias6sa3dzguqegkhfijzbrq6js5aymxd4t3e2ytzfwrimxzjq27e4)
+
+
+**Our votes are settled in the following ways:**
+*ALL BGYC holders can vote
+*ALL BGYC holders can make a new proposal
+*1 gorilla = 1 vote
+*Quorum = 7,5% / 750 gorillas
+*Voting duration: 7 days
+
+
+*The team reserves the right to delete a proposal if it endangers the project (governance attack, legal issues), is spam or is totally impossible to implement*
+*Quorum rules and voting times may be adjusted later to better accommodate attendance*
+ 
+OOH OOH AHH AHH!
+
+      ",0x1dbf00bc3f40f551d79422a96367a6f58ae59412,2022-12-01T23:21:13.000Z,0x915ff3356b5b0f330906c4e9055fae775842ef707134ea9869338ea2f092fb1d,2022-12-08T23:21:03.000Z,ACTIVE,22,"{""For"":""["",""Against"":""5"",""Abstain"":""5""}",https://deepdao.io/feed-proposal/0x915ff3356b5b0f330906c4e9055fae775842ef707134ea9869338ea2f092fb1d,https://deepdao.io/user/0x1dbf00bc3f40f551d79422a96367a6f58ae59412/verified_dao_experience
+45,d3c2a614-36c4-4a3b-b216-e6e276507585,SNAPSHOT,何时财务自由,何时财务自由,0x240e9b36991abe7d30c6543b67dd1d9b31949e71,2022-07-24T05:31:49.000Z,0x56135fecdc559282c5134b2e2974820880b142a88ac54562cca1b9969c0817d1,2022-12-31T04:00:00.000Z,ACTIVE,21,"{""2022"":""["",""2023"":""1"",""2024"":"","",""2025"":""1""}",https://deepdao.io/feed-proposal/0x56135fecdc559282c5134b2e2974820880b142a88ac54562cca1b9969c0817d1,https://deepdao.io/user/0x240e9b36991abe7d30c6543b67dd1d9b31949e71/verified_dao_experience
+46,bda783d5-171b-4d0a-a303-e2ba7aaac330,SNAPSHOT,在OPENSEA上能成为知名艺术家吗,能,0x34f73df25c4b7b80df558cce7b88a74a55d2e905,2021-11-26T14:45:10.000Z,0x9e72f06ef705bebbc21a9ce7e981359e1728d93776c57765ae2b884603cbcc94,2023-05-26T04:00:00.000Z,ACTIVE,21,"{""能"":""["",""不能"":""5""}",https://deepdao.io/feed-proposal/0x9e72f06ef705bebbc21a9ce7e981359e1728d93776c57765ae2b884603cbcc94,https://deepdao.io/user/0x34f73df25c4b7b80df558cce7b88a74a55d2e905/verified_dao_experience
+47,7522b6bf-10e7-4662-84d6-9d2c0e304515,SNAPSHOT,Plants vs.Zombies 3 Blockchain Game Development Proposal.,"""Plants vs. Zombies 3"" is the third puzzle strategy tower defense game after ""Plants vs. Zombies 2: A Wonderful Time Journey"" and ""Plants vs. Zombies: Heroes"".Gained popularity among players.
+
+PopCap officially enters the blockchain game field, It is currently planned to release Plants vs. Zombies 3 for the first time in Shark DAO, while maintaining the design features, adding blockchain, NFT, Web3, metaverse technologies and elements, and will develop Plants vs. Zombies 3 NFT, NFT props, etc. to enhance the NFT game. Playability and value-added.
+
+special treatment
+Shark DAO members airdrop game tokens and NFT props
+Users participating in proposals and voting will be whitelisted
+Users will be whitelisted when PopCap releases more blockchain games in the future
+
+Feel free to let us know if you have any suggestions to enrich Plants vs. Zombies 3.
+
+Required quorum: 10,000 (if no quorum is exceeded, the proposal will require more than 90% of the votes cast to pass)
+Voting time: 90 days
+    ",0x3929970fd4514089a3a53da82dc42a40efff4fbc,2022-09-23T03:34:58.000Z,0xec5a53ea0b4cf0594ddbcbcd19ea09fe5d439f10d92d3f86e747f543d20cb03a,2022-12-21T16:00:00.000Z,ACTIVE,21,"{""YES"":""["",""NO"":""6""}",https://deepdao.io/feed-proposal/0xec5a53ea0b4cf0594ddbcbcd19ea09fe5d439f10d92d3f86e747f543d20cb03a,https://deepdao.io/user/0x3929970fd4514089a3a53da82dc42a40efff4fbc/verified_dao_experience
+48,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,,"Approve a proposal. At a later time, the proposal will be allocated to the beneficiary
+and the original deposit will be returned.
+
+May only be called from `T::ApproveOrigin`.
+
+# <weight>
+- Complexity: O(1).
+- DbReads: `Proposals`, `Approvals`
+- DbWrite: `Approvals`
+# </weight>",,GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj,2022-10-20T15:16:18.013Z,kusama_636f756e-00000560,2022-10-24T07:17:36.013Z,ACTIVE,21,,https://deepdao.io/feed-proposal/kusama_636f756e-00000560,https://deepdao.io/user/GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj/verified_dao_experience
+49,226b836e-a009-4ee9-9a57-bd8a2e20773d,SNAPSHOT,test,,0x37733986cab51258f4d089a8aa0846ff27fa7b53,2022-07-24T10:03:50.000Z,0x950f1ae1d57e40220b9cba8242fdacad4dc5da9de620aec0c3864156df6d08ae,2022-12-30T04:00:00.000Z,ACTIVE,20,"{""yes"":""["",""no"":""2""}",https://deepdao.io/feed-proposal/0x950f1ae1d57e40220b9cba8242fdacad4dc5da9de620aec0c3864156df6d08ae,https://deepdao.io/user/0x37733986cab51258f4d089a8aa0846ff27fa7b53/verified_dao_experience
+50,350b42ad-3145-4db0-8ad2-8623bf64e958,SNAPSHOT,现在是熊市早已经开始了？还是牛市的中继？,,0xc338fdf539b7579bd5bde7eb5b4ea9a0460bb0a5,2022-03-15T02:19:38.000Z,0x83160f95c9f44168b2c74c41befb886b49c7886e24952e1192bb9f0478b56a29,2023-12-31T04:00:00.000Z,ACTIVE,20,"{""牛市中继"":""["",""早熊市了"":""2""}",https://deepdao.io/feed-proposal/0x83160f95c9f44168b2c74c41befb886b49c7886e24952e1192bb9f0478b56a29,https://deepdao.io/user/0xc338fdf539b7579bd5bde7eb5b4ea9a0460bb0a5/verified_dao_experience
+51,6b5ccdac-12ae-4fea-a030-d4ce8991a1dc,SNAPSHOT,你觉得李嘉欣美吗,,0xcb0840f361e8f669072720a1eee727045f00c2a2,2022-07-04T01:39:32.000Z,0x41959113f53e777b8ef0ecf577aa0156ea3624a6f6d1b9545aed0098d7bf89aa,2025-12-31T04:00:00.000Z,ACTIVE,19,"{""美"":""["",""不美"":""1""}",https://deepdao.io/feed-proposal/0x41959113f53e777b8ef0ecf577aa0156ea3624a6f6d1b9545aed0098d7bf89aa,https://deepdao.io/user/0xcb0840f361e8f669072720a1eee727045f00c2a2/verified_dao_experience
+52,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,,"Send a batch of dispatch calls.
+
+May be called from any origin.
+
+- `calls`: The calls to be dispatched from the same origin. The number of call must not
+  exceed the constant: `batched_calls_limit` (available in constant metadata).
+
+If origin is root then call are dispatch without checking origin filter. (This includes
+bypassing `frame_system::Config::BaseCallFilter`).
+
+# <weight>
+- Complexity: O(C) where C is the number of calls to be batched.
+# </weight>
+
+This will return `Ok` in all circumstances. To determine the success of the batch, an
+event is deposited. If a call failed and the batch was interrupted, then the
+`BatchInterrupted` event is deposited, along with the number of successful calls made
+and the error of the failed call. If all were successful, then the `BatchCompleted`
+event is deposited.",,GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj,2022-10-03T10:16:12.013Z,kusama_636f756e-00000551,2022-10-06T11:25:54.014Z,ACTIVE,19,,https://deepdao.io/feed-proposal/kusama_636f756e-00000551,https://deepdao.io/user/GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj/verified_dao_experience
+53,4b71babe-cd23-4350-a553-03f0ddf84449,SNAPSHOT,Will Chinese economics issue be the biggest Black Swan Event in crypto market at 2022-2023?,,0xd2c8de4982f2469f76ecaa1b1808d37d2accb262,2022-07-30T09:44:29.000Z,0xef79ef4c824eaaac7b1b39a07dd297d257f36540527eba837c8807b9c9177bf7,2023-12-31T04:00:00.000Z,ACTIVE,19,"{""Yes"":""["",""No"":""1"",""I don't know"":"".""}",https://deepdao.io/feed-proposal/0xef79ef4c824eaaac7b1b39a07dd297d257f36540527eba837c8807b9c9177bf7,https://deepdao.io/user/0xd2c8de4982f2469f76ecaa1b1808d37d2accb262/verified_dao_experience
+54,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,," Approve a proposal. At a later time, the proposal will be allocated to the beneficiary
+ and the original deposit will be returned.
+
+ May only be called from `T::ApproveOrigin`.
+
+ # <weight>
+ - Complexity: O(1).
+ - DbReads: `Proposals`, `Approvals`
+ - DbWrite: `Approvals`
+ # </weight>",,H9eSvWe34vQDJAWckeTHWSqSChRat8bgKHG39GC1fjvEm7y,2020-10-30T10:13:48.000Z,kusama_636f756e-00000232,2020-11-05T14:18:18.000Z,ACTIVE,18,,https://deepdao.io/feed-proposal/kusama_636f756e-00000232,https://deepdao.io/user/H9eSvWe34vQDJAWckeTHWSqSChRat8bgKHG39GC1fjvEm7y/verified_dao_experience
+55,50e98630-2654-4093-9ba5-c2db17519877,SNAPSHOT,Proposal to keep SOMEE the only governance token,"A vote for this proposal would be a vote to keep SOMEE token the ONLY governance token for the platform. Any other tokens, ""platform points"", or assets considered apart of the Somee Social ecosystem that exist now or in the future, will not be allowed to gain governance functions in anyway way unless otherwise disputed by a 2/3's vote among Somee holders on snapshot.",0xa6b9c1187620a7f91eaf7ccb7881d69cdb8d8190,2022-11-17T20:21:31.000Z,0x403f3795327bf80664b99ca9fb0c20bcb0cae76519813ebe1aeb4391e5c06a87,2022-12-06T20:00:00.000Z,ACTIVE,18,"{""For"":""["",""Against"":""1""}",https://deepdao.io/feed-proposal/0x403f3795327bf80664b99ca9fb0c20bcb0cae76519813ebe1aeb4391e5c06a87,https://deepdao.io/user/0xa6b9c1187620a7f91eaf7ccb7881d69cdb8d8190/verified_dao_experience
+56,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,,"Send a batch of dispatch calls and atomically execute them.
+The whole transaction will rollback and fail if any of the calls failed.
+
+May be called from any origin.
+
+- `calls`: The calls to be dispatched from the same origin. The number of call must not
+  exceed the constant: `batched_calls_limit` (available in constant metadata).
+
+If origin is root then call are dispatch without checking origin filter. (This includes
+bypassing `frame_system::Config::BaseCallFilter`).
+
+# <weight>
+- Complexity: O(C) where C is the number of calls to be batched.
+# </weight>",,H9eSvWe34vQDJAWckeTHWSqSChRat8bgKHG39GC1fjvEm7y,2021-10-19T13:21:24.016Z,kusama_636f756e-00000379,2021-10-20T09:46:42.010Z,ACTIVE,18,,https://deepdao.io/feed-proposal/kusama_636f756e-00000379,https://deepdao.io/user/H9eSvWe34vQDJAWckeTHWSqSChRat8bgKHG39GC1fjvEm7y/verified_dao_experience
+57,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,," Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+ an external referendum.
+
+ The dispatch of this call must be `ExternalMajorityOrigin`.
+
+ - `proposal_hash`: The preimage hash of the proposal.
+
+ Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+ pre-scheduled `external_propose` call.
+
+ Weight: `O(1)`",,GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj,2021-06-07T10:37:48.002Z,kusama_636f756e-00000307,2021-06-07T11:34:12.001Z,ACTIVE,18,,https://deepdao.io/feed-proposal/kusama_636f756e-00000307,https://deepdao.io/user/GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj/verified_dao_experience
+58,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Öneri ve İsteklerim,"Pancakeswap da, daha iyi projelerin ön satıştan çıkmasını isterim.Son zamanlarda çıkan, saçma sapan oyun projelerine bir dur densin artık. Ve cake ile daha güzel projeleri stake edelim.Lütfen...",0xc06605e23288eab0fc5ab52b0d06c26545ab1f94,2022-10-04T21:32:40.000Z,bafkreiaiecl5heko4h7krhii5ksuzqxjvauon4c2h67hy4b2qsrboosqfa,2023-10-04T21:00:00.000Z,ACTIVE,18,"{""Cake ile En İyi Stake"":""["",""En İyi Projeyi Stake Etmek"":""6""}",https://deepdao.io/feed-proposal/bafkreiaiecl5heko4h7krhii5ksuzqxjvauon4c2h67hy4b2qsrboosqfa,https://deepdao.io/user/0xc06605e23288eab0fc5ab52b0d06c26545ab1f94/verified_dao_experience
+59,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,," Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+ an external referendum.
+
+ The dispatch of this call must be `ExternalMajorityOrigin`.
+
+ - `proposal_hash`: The preimage hash of the proposal.
+
+ Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+ pre-scheduled `external_propose` call.
+
+ Weight: `O(1)`",,GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj,2021-10-12T09:34:42.006Z,kusama_636f756e-00000365,2021-10-12T10:41:48.012Z,ACTIVE,18,,https://deepdao.io/feed-proposal/kusama_636f756e-00000365,https://deepdao.io/user/GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj/verified_dao_experience
+60,33c82fdd-9dc0-4a94-b6c6-dc1c75625252,SNAPSHOT,EFP-5: EarthFund DAO to contribute assets to newly formed entity,"## Summary:
+
+* EarthFund DAO will seek to raise money from institutional investors.
+* EarthFund DAO will form a new Delaware entity (“Newco”) through which the investment funds will be raised.
+* The investment monies will be used to continue the development of the Newco platform and further market EarthFund’s solutions.
+* EarthFund DAO will contribute assets (i.e., all intellectual property, including but not limited to brand, platform, and software) to Newco in exchange for 20% of the equity of Newco. 
+
+## Motivation: 
+
+In the last quarter, we’ve been meeting with investors intending to secure between $12M and $15M in venture capital to continue the development and growth of the EarthFund platform.
+
+**Conversations are heading in a positive direction, but to secure investment, they wanted to see three things:**
+
+* A team of experienced entrepreneurs, advisors, and team members that have what it takes to build a winning product. (We satisfy all criteria.)
+* A working product with a strong addressable market and functionality. (We satisfy all criteria.)
+* A roadmap for growth with no barriers to execution. (We have a roadmap and a clear strategy for growth, but we need to secure investment to really scale up our efforts and grow the team with the view of growing EarthFund into a billion-dollar company.)
+
+And due to the legal uncertainty of DAOs, the role of the EarthFund DAO was another barrier for investors. 
+
+As such, our advisors have recommended establishing a new company — EarthFund Inc — to own and control the assets and intellectual property of EarthFund. 
+
+Because we didn’t want to remove or reduce the role of the EarthFund DAO in the management of the platform, vetting causes and helping shape the projects/causes on the platform, we came up with the following solution.
+
+
+### **Our proposal for the relationship between EarthFund and the new company**
+
+The management of EarthFund DAO proposes the following:
+
+* **EarthFund DAO will seek to raise money** from institutional investors.
+* **EarthFund DAO will form a new Delaware entity** (“Newco”) through which the investment funds will be raised.
+* The **investment monies will be used to continue the development of the Newco platform** and further market EarthFund’s solutions.
+* EarthFund DAO has recently created and launched a DAO launchpad, KYC solution, donation router, grant/rewards contract, token minting tool, Discord bot, and more… all of which enable prospective customers to launch a decentralized community without spending months or years developing their own platform.
+* **EarthFund DAO will contribute assets **(i.e., all intellectual property, including but not limited to brand, platform, and software)** to Newco in exchange for 20% of the equity of Newco.** (The remaining equity in Newco will be allocated to investors and to current and future Newco leadership as an incentive.)
+* **EarthFund DAO will receive common shares of Newco** with no voting rights except as described below.
+* EarthFund DAO management believes that the value of EarthFund’s interest in Newco (i.e., 20%) will far exceed the current value of EF DAO on a stand-alone basis.
+* EarthFund DAO and Newco will work closely together to maintain a fair ecosystem for DAO communities on Newco’s platform.
+* EarthFund DAO will receive quarterly shareholder updates from Newco
+* **EarthFund DAO will be responsible for the ‘Browse Communities’** section of the Newco platform (what communities are included, featured, removed, etc.)
+* **EarthFund DAO will be entitled to their pro-rata share of sales proceeds if Newco is sold.**
+* **EarthFund DAO will receive its pro-rata distributions from the profits of Newco if Newco chooses to distribute profits (vs. reinvest).**
+* EarthFund DAO will have a vote on how it uses distributions or possible sales proceeds.
+
+
+## **Have your say**
+
+Voting to approve this proposal will allow EarthFund to seek the investment it needs to continue growing and developing the platform despite market conditions. 
+
+It is our goal to use the investment to grow the EarthFund platform into one of Web3.0’s biggest companies and aim for these stretch goals in the next 12 months: 
+
+
+* launch 1000+ communities
+* Raise $100M in donations
+* Facilitate $5M in community rewards
+* Fund 20K+ world-saving grants
+
+### Voting approval can help us make these goals a reality. 
+
+Thank you, as always, for your support. 
+",0x7fcb6b551c23018741e299e1e213697d539ca978,2022-11-29T10:46:21.000Z,0x025f5251383820eea04cf26b4f29cbf299eb6767832b5eec9455251ad3f8f5f0,2022-12-12T17:00:00.000Z,ACTIVE,18,"{""Approve formation of new entity"":""["",""Reject formation of new entity"":""3""}",https://deepdao.io/feed-proposal/0x025f5251383820eea04cf26b4f29cbf299eb6767832b5eec9455251ad3f8f5f0,https://deepdao.io/user/0x7fcb6b551c23018741e299e1e213697d539ca978/verified_dao_experience
+61,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,," Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+ an external referendum.
+
+ The dispatch of this call must be `ExternalMajorityOrigin`.
+
+ - `proposal_hash`: The preimage hash of the proposal.
+
+ Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+ pre-scheduled `external_propose` call.
+
+ Weight: `O(1)`",,GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj,2021-05-15T17:04:18.001Z,kusama_636f756e-00000294,2021-05-15T17:55:18.001Z,ACTIVE,18,,https://deepdao.io/feed-proposal/kusama_636f756e-00000294,https://deepdao.io/user/GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj/verified_dao_experience
+62,2f60769d-4cb7-4efe-a34e-15d1cf7482f2,SNAPSHOT,"BAYC#7221 - THE FATHER OF 10,000","Fam, Fam, Fam!
+
+Stop the presses!
+
+I have a #shibadoge community idea that will knock your collective SOCKS OFF!
+
+Check it out:
+
+In light of our Dev's awesome forward thinking, and TOTAL respect for our #shibadoge community as a whole: THEY BOUGHT US A FRIKKIN' BORED APE YACHT CLUB NFT, so I propose the following idea!
+
+Recently, everyone in the vc was 'jokingly' trying to figure out a way to get 'a piece' of our newly acquired APE (BAYC#7221)...an Ape hair here, or an Ape nail there...
+
+We know that, due to the innate nature of the built-in, Dynamic Utilities Featured within our NFTs, our Dev's can create magic within AND throughout our entire NFT crypto space.
+
+#Shibadoge NFT Ecosystem Facts:
+There are 10K DogeArmy NFTs
+There are 10K ShibArmy NFTs (when minted out)
+WEN BRED, there will be a 'MAX' of 10k ShibaDogeArmy NFTs
+
+
+Well, what better way for our Dev's to create some of that #Shibadoge Ecosystem magic than to make it where EVERY #Shibadoge NFT owner can get a substantial, and everlasting piece of that coveted BAYC#7221 APE?
+
+
+NOW, here's my proposal, and I hereby copyright it, to maybe have my name (Cuz'n KK) forever stamped into the 'BOOK OF SHIBADOGE' (I absolutely love that proposal from my dude elonvitalik.eth)! 
+
+Anyway, so, let's say as soon as the Dev's acquired that BAYC#7221, they took a snapshot of all #Shibadoge NFT Hodlers at that moment.
+
+WEN BRED at the end of season 2, the 'MAX' of 10K ShibaDogeArmy NFTs Hodlers will be identified, and then each of the 'MAX' of 10K ShibaDogeArmy NFTs will have the opportunity: TO BE BRED BY THE BIG-DADDY APE (BAYC#7221)!
+
+WHAAAAAATTTTTT?
+
+Then we would have a 'MAX' of ONLY 10K, RARE AS FLUCK NFTs that answers the original question: 
+
+How can EVERY #Shibadoge NFT owner get a substantial, and everlasting piece of that coveted BAYC#7221 APE?
+
+So, what better way to give EVERY 'BRED' SHIBADOGEARMY NFT (& HODLER) that rare and coveted 'piece' of the BAYC#7221 APE, than to HAVE THE VERY BLOOD OF THE BAYC#7221 APE IN EACH AND EVERY SHIBADOGEARMY NFT - BY USING THE BIG-DADDY BAYC#7221 APE TO BREED WITH EVERY (ALREADY BRED TO RARITY (ONLY A 'MAX' OF 10K)) SHIBADOGEARMY NFT, TO CREATE AN IMMACULATE AND RARE AS FLUCK CLADE OF A 'MAX OF ONLY' 10K BEAUTIFULLY DESIGNED AND CULTIVATED, STRAIGHT FROM THE IMMACULATE, EVER-EVOLVING MIND'S OF OUR DEV'S, TO ULTIMATELY CREATE A SUPER-RARE BREED OF BROTHERS AND SISTERS THAT WILL CARRY THE #SHIBADOGE ECOSYSTEM NFT PLATFORM RIGHT TO THE HEAD OF THE CRYPO-SPACE 'BLUECHIP NFT PROJECT' PACK!
+
+Let's look at some names for this 'NEW' CREATION:
+
+1.    I A-B A (IMMORTAL APE-BLOOD ARMY) NFT
+2.    I A-B S A (IMMORTAL APE-BLOOD SHIBADOGEARMY) NFT
+3.    I-B A-A (IMMORTAL-BLOOD APE-ARMY) NFT 
+4.    I-B B-A A (IMMORTAL-BLOOD BORED-APE ARMY) NFT
+5.    I-B B-A S A (IMMORTAL-BLOOD BORED-APE SHIBADOGEARMY) NFT
+6.    IMMORTAL-BLOOD APE-DOG NFT
+7.    IMMORTAL-BLOOD DOG-APE NFT
+ 
+
+CONTENTIONS:
+I know the Dev's have burned some Doge NFTs; therefore, the overall disposition and affect of these particular NFT burns must be taken into account...
+
+So, my #shibadoge family...THERE IT IS!
+
+N'JOY!
+
+Cuz'n KK",0x976d3d2ccfe5f245680979fc6ca5770454c13bb1,2022-08-30T19:10:45.000Z,0xf600003d80c854600cc9947dd8b224238720537cf73d4bf8e5d541c36593bcee,2022-12-18T12:00:00.000Z,ACTIVE,17,"{""For"":""["",""Against"":""1"",""Abstain"":""7""}",https://deepdao.io/feed-proposal/0xf600003d80c854600cc9947dd8b224238720537cf73d4bf8e5d541c36593bcee,https://deepdao.io/user/0x976d3d2ccfe5f245680979fc6ca5770454c13bb1/verified_dao_experience
+63,b84c4eea-dcd4-4883-860c-46a543ccdc70,SNAPSHOT,“Grid Trading”,"Propose Kuma integrate a grid trading interface with SwapX. Grid trading automates trading increasing trading fees used for dKuma staking rewards. Well selected parameters will generate profits for users as well, can have a copy strategy option to make it easier for beginners. If kuma or dkuma is used in the strategy it creates trading volume. As an example consider a difi version of : https://www.binance.com/en/support/faq/what-is-spot-grid-trading-and-how-does-it-work-d5f441e8ab544a5b98241e00efb3a4ab",0x6cad7d8cfbe89761e4b1802b0ca2ad459e614feb,2022-11-12T13:09:46.000Z,0xeb9928a43c740f2ec483d2f65136590c0d539bc6dc913d5773cef5842285afd8,2023-01-31T17:00:00.000Z,ACTIVE,17,"{""Delevop Algorithmic Trading"":""["",""Don’t Develop Algorithmic Tading"":""1""}",https://deepdao.io/feed-proposal/0xeb9928a43c740f2ec483d2f65136590c0d539bc6dc913d5773cef5842285afd8,https://deepdao.io/user/0x6cad7d8cfbe89761e4b1802b0ca2ad459e614feb/verified_dao_experience
+64,4b71babe-cd23-4350-a553-03f0ddf84449,SNAPSHOT,"According to recent events, do you think that customers will switch from Polygon to Cosmos?",,0xf132deb4d3a521491b6bb5a73c30e33618f97a89,2022-03-07T07:34:12.000Z,0x8c6d74e9e12ecea7d41a034eb299aca80f05559bdce0e6f2b2bd10d25b78032a,2022-12-19T04:00:00.000Z,ACTIVE,17,"{""Yes"":""["",""No"":""0""}",https://deepdao.io/feed-proposal/0x8c6d74e9e12ecea7d41a034eb299aca80f05559bdce0e6f2b2bd10d25b78032a,https://deepdao.io/user/0xf132deb4d3a521491b6bb5a73c30e33618f97a89/verified_dao_experience
+65,4b71babe-cd23-4350-a553-03f0ddf84449,SNAPSHOT,Will Chandler Guo make Etherium fork in 2022?,,0xfd9414b034b31e2defb1c5cce328b4d2a0686788,2022-07-30T09:13:14.000Z,0x1dda1ca0ba9459c8872cdc55d110fab3ecc1a30a02ae05a1a52e5bac1a1fab4a,2022-12-30T04:00:00.000Z,ACTIVE,17,"{""Yes"":""["",""No"":""1""}",https://deepdao.io/feed-proposal/0x1dda1ca0ba9459c8872cdc55d110fab3ecc1a30a02ae05a1a52e5bac1a1fab4a,https://deepdao.io/user/0xfd9414b034b31e2defb1c5cce328b4d2a0686788/verified_dao_experience
+66,9bcd2d31-cb0c-4de6-8d0e-6862f4cf99ae,SNAPSHOT,Help free @mintfaced on Twitter,"Help free @mintfaced on Twitter and receive a FREE Mint artwork from MintFace on his Twitter release date. 
+",0xdd6b80649e8d472eb8fb52eb7eecfd2dc219ace7,2022-11-05T06:01:01.000Z,0xac18e0f989f91c887003b572caf58c44f3094e463e3de29ec9627a0339a453ad,2023-01-30T23:00:00.000Z,ACTIVE,17,"{""Free @mintfaced"":""["",""Keep @mintfaced locked"":""1""}",https://deepdao.io/feed-proposal/0xac18e0f989f91c887003b572caf58c44f3094e463e3de29ec9627a0339a453ad,https://deepdao.io/user/0xdd6b80649e8d472eb8fb52eb7eecfd2dc219ace7/verified_dao_experience
+67,75633b99-08a7-405a-a16e-cce1135976da,SNAPSHOT,How long does it take immutable to have more transactions than binance or coinbase,Four years,0x86c5649e1a5ad603a09260933a456c5b35c4e68d,2021-12-05T04:31:25.000Z,0xe14081088d8010f722359063459629fe2c22409fd2150ff2e4c4bf18f7abf704,2022-12-05T04:00:00.000Z,ACTIVE,17,"{""One years"":""["",""two years"":""1"",""three years"":""4"",""Four years"":""7"",""It won't happen"":""6""}",https://deepdao.io/feed-proposal/0xe14081088d8010f722359063459629fe2c22409fd2150ff2e4c4bf18f7abf704,https://deepdao.io/user/0x86c5649e1a5ad603a09260933a456c5b35c4e68d/verified_dao_experience
+68,2f60769d-4cb7-4efe-a34e-15d1cf7482f2,SNAPSHOT,Shibadoge2themoon Music Track,"I have managed to get in touch with Brandon Burnette he is the biggest musician, rapper, producer in the web3/nft space! Brandon has produced music tracks for big NFT projects. As well as previously written and produced songs for the 'Backstreet Boys', Keith Urban, Rich the Kid, Iann Dior, Afrojack, Steve Aoki to name a few!
+After getting in touch with him he has informally expressed to produce music tracks for Shibadoge.
+We could do so much marketing with music and make it go viral on social media, and even create contests for the community to do their own music video or small clips to the track. A great music track can be an anthem for Shibadoge and we could even use it for intro's to our AMA's, YT videos, etc...
+To listen to some of his work you can find him on Soundcloud. 
+https://soundcloud.com/brandynmusic
+One of his most recent work was for 'Moonrunners' project there are 4 tracks....after listening to these I automatically thought the style would suit a 'Shibadoge2themoon' track. 
+Check out these tracks here- https://soundcloud.com/brandynmusic/sets/moonrunners?
+
+Why choose Brandon?
+Brandon is heavily involved in the web3/nft space and has proven record in this area, so he would know how to write lyrics based on the shibadoge project crypto/ our tokens/nfts/ and the community.
+If we are interested in formally engaging with Brandon to commence work his rate is typically around $2,500.
+His twitter is @Eman8 please check out his work!
+#Shibadoge2theMoon
+elonvitalik.eth
+
+
+",0x014ea62b32e12e4eeb42a368147573dc3dbdfb52,2022-09-28T10:47:46.000Z,0xda284dfd7629b7b5fd6a9442a651b205761d0a7969f26cd3162e6edfa8c72f1b,2023-01-07T01:30:00.000Z,ACTIVE,16,"{""For"":""["",""Against"":""1"",""Abstain"":"".""}",https://deepdao.io/feed-proposal/0xda284dfd7629b7b5fd6a9442a651b205761d0a7969f26cd3162e6edfa8c72f1b,https://deepdao.io/user/0x014ea62b32e12e4eeb42a368147573dc3dbdfb52/verified_dao_experience
+69,5d1d847b-18f0-4097-aafb-5b294ff8fedb,SNAPSHOT,Random Award fund web3 teenager,"
+",0xf8dfa50903d65fcc03da6348bf8fa88483965b16,2022-10-26T18:50:19.000Z,0xb8547420ed8fa0b99508df71f8d7e466e8824efa3b757129e3ba1f3a411197b8,2023-01-01T04:00:00.000Z,ACTIVE,16,"{""Agree"":""["",""Disagree"":""2""}",https://deepdao.io/feed-proposal/0xb8547420ed8fa0b99508df71f8d7e466e8824efa3b757129e3ba1f3a411197b8,https://deepdao.io/user/0xf8dfa50903d65fcc03da6348bf8fa88483965b16/verified_dao_experience
+70,9c34610f-9645-4870-9c89-0abf8d48057e,SNAPSHOT,Pink Planet 50/25/25 raffle for compensation plan. ,"Idea: special NFTs that are raffle numbers for Pink Planet.
+50% paid to winner.
+25% paid to compensation
+25% sent to gamma reserves
+
+Post compensation:
+50% paid to winner
+50% sent to gamma reserves
+
+Key points:
+1. Pay back compensation plan faster.
+2. Put buying pressure on gamma and increase APYs across Planet. 
+3. Increase Gamma reserves for future payouts. 
+4. More fees to burn aqua, grow reserve, grow treasury.
+4. Fun way of making money while supporting protocol and community.  
+
+Each raffle ticket can cost $5 in stable coin which gets converted to gamma at that moment of buying. The gamma is lock in their raffle ticket until the drawing at the 1st of each month. Winner of the raffle receives 50% and sent to their gamma IV.  25% will to be  sent to the gamma compensation available to claim.  The time it enters the gamma claim vault, the dollar amount of gamma worth at that moment is deducted from the compensation plan. Claiming gamma for compensation gets rewards sent to IV. When the compensation plan is all paid back. Change the raffle to 50% goes  to the winner. 50% goes to gamma reserves. 
+
+Raffles are an easy and fun way to excite a new audience. Everyone likes to win money. As more users come to Planet, they can see the amount up to win and will be excited to purchase a ticket and contribute to protocol growth. 
+
+
+
+
+
+
+",0x9b7bc17207d57952ef5c5149551eaacc23c977c3,2022-11-06T16:00:22.000Z,0x447bfa4fe5da387ba2157cf1342911d9f6bf82c12a6ea1254545483d8f8a5824,2023-01-01T17:00:00.000Z,ACTIVE,16,"{""Yes, lets do it. "":""["",""No"":""5""}",https://deepdao.io/feed-proposal/0x447bfa4fe5da387ba2157cf1342911d9f6bf82c12a6ea1254545483d8f8a5824,https://deepdao.io/user/0x9b7bc17207d57952ef5c5149551eaacc23c977c3/verified_dao_experience
+71,c649d123-da3a-4fc6-843b-42d3ac582c31,SNAPSHOT,VOTING for PANCAKEFI - DAO and GET REWARDS UP TO $5000,"Voting for PanCakeFi (PFI) - DAO
+It’s official, PanCakeFi DAO Voting will begin on November 3th!
+Participate in our Voting and earn to 500 PFI (each PFI $0.01) tokens for chosing YES.
+Link: 
+Voting rewards will be distributed to your wallet address on March 8th and 1,000 lucky random participants will be rewarded.
+Retweet and like this tweet within the next 24h for + 99 PFI",0xa14316cf1811942e9bde0f9f96a13be9f4b56ddf,2022-11-02T10:57:16.000Z,0x0273f0b63048f4ea1c97104f92f17b242f06de02ffae9cef1094e6fabe7e0fff,2023-03-31T05:00:00.000Z,ACTIVE,16,"{""YES"":""["",""NO"":""7""}",https://deepdao.io/feed-proposal/0x0273f0b63048f4ea1c97104f92f17b242f06de02ffae9cef1094e6fabe7e0fff,https://deepdao.io/user/0xa14316cf1811942e9bde0f9f96a13be9f4b56ddf/verified_dao_experience
+72,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,," Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+ an external referendum.
+
+ The dispatch of this call must be `ExternalMajorityOrigin`.
+
+ - `proposal_hash`: The preimage hash of the proposal.
+
+ Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+ pre-scheduled `external_propose` call.
+
+ # <weight>
+ - Complexity: `O(1)`
+ - Db write: `NextExternal`
+ # </weight>",,FcxNWVy5RESDsErjwyZmPCW6Z8Y3fbfLzmou34YZTrbcraL,2020-09-24T21:09:42.000Z,kusama_636f756e-00000220,2020-09-24T21:29:12.000Z,ACTIVE,15,,https://deepdao.io/feed-proposal/kusama_636f756e-00000220,https://deepdao.io/user/FcxNWVy5RESDsErjwyZmPCW6Z8Y3fbfLzmou34YZTrbcraL/verified_dao_experience
+73,3445f6af-1f62-465c-a48b-e2885cec9862,SNAPSHOT,Participate in crafting the new Heroez digital experience!,"> Heroez ambitions to create a 360° fan-centric esport experience. Part of this experience will be a digital experience, through a dedicated web application. The idea is to build this experience in an iterative way, basing our product choices on community feedback, with the objective to delight the Heroez community. To achieve it, in order to orient the first design & development efforts, we ask you to tell us what are the most important needs/desires you want us to address first.
+
+The option that will get the most votes will be the first addressed in our product roadmap. This time, it's a **quadratic voting**, meaning that each voter may spread voting power across any number of choices. The results will reflect both the voting power distributed and the number of contributors who voted for a certain option.
+
+### Option 1
+
+**""I want to follow the activity of the Heroez esport team(s)""**
+
+The idea is to give you more visibility and news on the esport teams' present and future.
+
+Possible features: team roadmap, competitive calendar, tournaments agenda & ranking, Twitch live cast with commentator, team news (articles, photos, videos), players profiles & perf / analytics, game debrief...
+
+### Option 2
+
+**""I want to engage with the Heroez community""**
+
+The idea is to enable our community members better interact with other members, players and management, both in the digital and physical world. 
+
+Possible features: create an event, book an event, follow socials, lives, conferences & AMAs, subs, display Heroez land in the metaverse...
+In app messaging and forum would however remain in Discord.
+
+### Option 3
+
+**""I want to participate in Heroez strategic decisions""**
+
+As Heroez is a DAO, NFT holders have a right to participate in strategic decisions. As of today, we are using Snapshot to enable our holders to vote for strategic decisions. In the future web app, we could add software integrations enabling you to access directly to the proposals. 
+
+Possible features: review proposal, make proposal, vote, check the vote's results, elect a council, run for council elections...It is not our ambition to become a software for DAO management, so the main idea here is to build strong integrations (API) with tools like Snapshot, Wonder,...
+
+### Option 4
+
+**""I want to work for Heroez""**
+
+To build a strong DAO, the idea is to empower our community to participate in Heroez operations by performing tasks to help the project grow. 
+
+Possible features: review tasks, apply for tasks, receive payment...It is not our ambition to become a software for DAO management, so the main idea here is to build strong integrations (API) with tools like Wonder which already have dedicated features for that.
+
+### Option 5
+
+**""I want to support Heroez esport club / I want to show I belong to Heroez""**
+
+The idea is to enable our community members show their belonging to Heroez / support financially the activity of the club.
+
+Possible features: Display Heroez NFTs, buy NFTs...Here we would also consider building strong integrations with specialized applications or marketplaces (eg: OpenSea).
+",0x77bbee22e242adeaf616de7ac1a7bd7519eb4110,2022-12-01T18:29:37.000Z,0xee0fbd7e15b4d073919ad448ee524aed9fadcd1e2afd1372247a9a2ca4586316,2022-12-04T21:00:00.000Z,ACTIVE,15,"{""Option 1"":""["",""Option 2"":""1"",""Option 3"":""5"",""Option 4"":""."",""Option 5"":""3""}",https://deepdao.io/feed-proposal/0xee0fbd7e15b4d073919ad448ee524aed9fadcd1e2afd1372247a9a2ca4586316,https://deepdao.io/user/0x77bbee22e242adeaf616de7ac1a7bd7519eb4110/verified_dao_experience
+74,2f60769d-4cb7-4efe-a34e-15d1cf7482f2,SNAPSHOT,Shibadoge 'Diamond Hand Globe',"Imagine the fun and utility of a map of the world which shows where our diamond hands are all over the globe! 
+A 3D website is created for holders of Shibadoge and Burn token (and or NFT's) to enter in which country they reside in the world. Holders remain completely anonymous, not signing any wallet or a social media handle.... just selecting the token they own and their country from a dropdown menu.
+Once they select the country it pins a 'diamond hand' to the location, and 'shades' the area of the map in a different color. The website records the holder as a 'count' of holders in the country and does not record anything else.
+ For example, once the first holder in a country is recorded the 'diamond hand' is pinned to that location, then from there on each record becomes a tally of holders that is accumulated, 2,3,4,5 and so on.
+This data may be very useful in showing areas where our holders are dominant and maybe where we need to focus on gaining more holders. But also creates a fun aspect to it spinning the 3D globe on your smartphone seeing where are diamond holders are.
+This of course is reliant on holders going onto the website and entering their country, however if they are true 'diamond hands' in the project they will want to be engaged and contribute :)
+This also can be taken a step further, we could pin investment/crypto events in specific locations on the map to highlight to holders to go an attend these events and market and shill the project. For example , blockchain or crypto conventions, influencer meetups.
+Cost: $funds to develop the website
+#Shibadoge2theMoon
+elonvitalik.eth
+
+
+",0x014ea62b32e12e4eeb42a368147573dc3dbdfb52,2022-09-28T12:12:58.000Z,0xd8d247998b48b719a19f058035b0e1b5ef0b1f6c8018031b29126f6e2c7ffac4,2023-01-07T01:30:00.000Z,ACTIVE,15,"{""For"":""["",""Against"":""1"",""Abstain"":"".""}",https://deepdao.io/feed-proposal/0xd8d247998b48b719a19f058035b0e1b5ef0b1f6c8018031b29126f6e2c7ffac4,https://deepdao.io/user/0x014ea62b32e12e4eeb42a368147573dc3dbdfb52/verified_dao_experience
+75,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,, The ideal number of validators.,,FcxNWVy5RESDsErjwyZmPCW6Z8Y3fbfLzmou34YZTrbcraL,2019-12-02T16:47:36.000Z,kusama_636f756e-00000001,,ACTIVE,15,,https://deepdao.io/feed-proposal/kusama_636f756e-00000001,https://deepdao.io/user/FcxNWVy5RESDsErjwyZmPCW6Z8Y3fbfLzmou34YZTrbcraL/verified_dao_experience
+76,a3a32818-644a-489c-83ad-cfdf91b43d84,SNAPSHOT,你认为下一次大牛市啥时候来？,你认为下一次大牛市啥时候来？,0x0d3b8744600da2e200d2a46f676fd5a29b7bd1bc,2022-10-08T08:02:47.000Z,0x9321fc4790d9d3ac427382d1223d9e6464db3a393153ee30cb7439d7c2910c4c,2024-05-01T04:00:00.000Z,ACTIVE,15,"{""2022年12月25日"":""["",""2023年5月19日"":""3"",""2023年9月4日"":"","",""2024年5月（btc减半）"":""2"",""不再有牛市，大家一起亏"":"",""}",https://deepdao.io/feed-proposal/0x9321fc4790d9d3ac427382d1223d9e6464db3a393153ee30cb7439d7c2910c4c,https://deepdao.io/user/0x0d3b8744600da2e200d2a46f676fd5a29b7bd1bc/verified_dao_experience
+77,75848947-5b20-4aea-abea-3be6e0439429,SNAPSHOT,Release of all QWLA Tokens in Safe to on chain circulation.,"![1_Fv5sUkGJok-UGowzaDvlQQ.png](ipfs://bafkreihb3eujh5rbyyxqxmy2rhyle4cipkpsrppudorwjwsbdmwvggusk4)
+
+If passed: 51,500,000 QWLA tokens will be provided for public circulation.
+
+If passed: All current QWLA holders will be Air Dropped x(.2500) of their current balance. Ex: A wallet holding 1,000 QWLA tokens will be Air Dropped 250 QWLA Tokens. These Tokens come from the QWLA Token Safe only if passed.
+
+If not passed: QWLA Wallet will continue to hold the 51,500,000 QWLA Tokens off chain securely.
+
+Terms for Air Drop: If Passed, only wallets that participate in this vote will be provided QWLA Tokens.
+
+Minimum of 25 votes required.
+
+",0x9c77531e0ce83d0246b0a1ee1cb1aea2dba031b7,2022-11-18T05:52:49.000Z,0x2149fdf0f400aa9626c4e491013ae7fdc22a9b70c276bab721bed62112b62c41,2022-12-31T20:00:00.000Z,ACTIVE,15,"{""Release QWLA Tokens"":""["",""Keep QWLA Tokens in safe"":""1""}",https://deepdao.io/feed-proposal/0x2149fdf0f400aa9626c4e491013ae7fdc22a9b70c276bab721bed62112b62c41,https://deepdao.io/user/0x9c77531e0ce83d0246b0a1ee1cb1aea2dba031b7/verified_dao_experience
+78,bc7d58fe-0116-49db-89dd-ed57a745a612,SNAPSHOT,Join the April Referral Program,Do you want to join the April Buyer Referral Program?,0xea6dccfa58cee376213cfa8a1af68747bcf82005,2021-06-21T15:01:59.000Z,QmTAHKk1WJLiaVjBBumDViegm6HdrEJg9Qw6DNSr1fggJN,2026-06-21T16:00:00.000Z,ACTIVE,15,"{""Yes"":""["",""No"":""1""}",https://deepdao.io/feed-proposal/QmTAHKk1WJLiaVjBBumDViegm6HdrEJg9Qw6DNSr1fggJN,https://deepdao.io/user/0xea6dccfa58cee376213cfa8a1af68747bcf82005/verified_dao_experience
+79,0626fda6-b54d-44c0-b50c-217bded91710,SNAPSHOT,The meaning of living,"There is no meaning. All life ends at the end.
+Meaningful, to live is to experience the process of living.",0xa350dcdf01d83d57ec262fa6b2e481b40c6f94bb,2022-09-09T05:45:16.000Z,0xa81053fece490ecd53297d08779abb9ebbf4245bfc04f191746399614cb7b13f,2022-12-31T04:00:00.000Z,ACTIVE,15,"{""no"":""["",""have"":""9""}",https://deepdao.io/feed-proposal/0xa81053fece490ecd53297d08779abb9ebbf4245bfc04f191746399614cb7b13f,https://deepdao.io/user/0xa350dcdf01d83d57ec262fa6b2e481b40c6f94bb/verified_dao_experience
+80,4b71babe-cd23-4350-a553-03f0ddf84449,SNAPSHOT,Is there any possibility that $People exceed 0.5U in 2022?,,0x4c41647170e709937301254ad3a4290de2184e0b,2022-03-18T08:37:58.000Z,0x7a71cfe7e49ed37b8bc7e8b2d9446e14d45c7fc843d528d56ae40ed3a1cd069f,2022-12-14T04:00:00.000Z,ACTIVE,14,"{""Yes"":""["",""No"":""0""}",https://deepdao.io/feed-proposal/0x7a71cfe7e49ed37b8bc7e8b2d9446e14d45c7fc843d528d56ae40ed3a1cd069f,https://deepdao.io/user/0x4c41647170e709937301254ad3a4290de2184e0b/verified_dao_experience
+81,c84cd1ca-1b59-4ac7-ba68-0f3763e60998,,"Approve a proposal. At a later time, the proposal will be allocated to the beneficiary
+and the original deposit will be returned.
+
+May only be called from `T::ApproveOrigin`.
+
+# <weight>
+- Complexity: O(1).
+- DbReads: `Proposals`, `Approvals`
+- DbWrite: `Approvals`
+# </weight>",,1hCMdtRsaRA4ZTEKpPKPvEjK9rZpGhyFnRHSDhqFMCEayRL,2022-07-06T08:21:12.008Z,polkadot_636f756e-00000225,2022-09-29T09:47:00.007Z,ACTIVE,14,,https://deepdao.io/feed-proposal/polkadot_636f756e-00000225,https://deepdao.io/user/1hCMdtRsaRA4ZTEKpPKPvEjK9rZpGhyFnRHSDhqFMCEayRL/verified_dao_experience
+82,3a2f8b32-3562-4495-ba6a-5d23e6b5b485,SNAPSHOT,Should PHI Holdings add additional chains?,"Let’s to see how many chains PHI.Holdings should have. Should phi holdings have multiple chains. Would it be useful for the community to have phi holdings wallet have bitcoin, ETH, Matic, BNB, Avax etc, how many chains do you think PHI holdings wallet should have. Currently it has the v1 & v2 chains but can add any chain to it. 
+
+Let’s vote and see what we will add or if we will keep it with only phi chains ",0x7b2e8944344265117ecd35c7b1bcbefa0b3ef432,2022-12-03T22:46:01.000Z,0x24d71714793d4ade8262529c2a73f22e58081dab3261580fb9baf072b7ae6e6b,2022-12-06T22:37:28.000Z,ACTIVE,14,"{""Add TOP 3 chains"":""["",""Add TOP 5 chains"":""8"",""Only PHI chains"":""."",""Add All possible chains"":""1""}",https://deepdao.io/feed-proposal/0x24d71714793d4ade8262529c2a73f22e58081dab3261580fb9baf072b7ae6e6b,https://deepdao.io/user/0x7b2e8944344265117ecd35c7b1bcbefa0b3ef432/verified_dao_experience
+83,e8988048-fefa-4aed-a2f9-276d93836c12,SNAPSHOT,The Biggest Upset in the Group games,"There were a lot of upsets in this early group eliminations, which did you feel was the most unexpected of the most deserving?",0x6961367ef8b92c1a306a68c87add9eafd09f7787,2022-12-03T03:41:27.000Z,0x121a059de6d30ead674ddf3508e125aeaa07a6aee8f9de8a4d03f5f382561c7f,2022-12-06T20:00:00.000Z,ACTIVE,14,"{""Saudi Arabia beats Argentina "":""["",""Japan beats Germany "":""1"",""Costa Rica beats Japan "":""1"",""Tunisia beats France "":"","",""Australia beats Denmark"":""5"",""Japan beats Spain"":"","",""South Korea beats Portugal "":""0"",""Cameroon beats Brazil"":"",""}",https://deepdao.io/feed-proposal/0x121a059de6d30ead674ddf3508e125aeaa07a6aee8f9de8a4d03f5f382561c7f,https://deepdao.io/user/0x6961367ef8b92c1a306a68c87add9eafd09f7787/verified_dao_experience
+84,0626fda6-b54d-44c0-b50c-217bded91710,SNAPSHOT,Will the world economy recover?,Will the world economy recover?How many years will it take?,0x2701d47b540e3e3f5904ddbf803e4d078c476580,2022-09-09T04:43:57.000Z,0x92c0bf5237be9837701ba405212f12551ef8f3e0abf7b6d269a48366707be5fb,2022-12-29T04:00:00.000Z,ACTIVE,14,"{""2year"":""["",""4year"":""9""}",https://deepdao.io/feed-proposal/0x92c0bf5237be9837701ba405212f12551ef8f3e0abf7b6d269a48366707be5fb,https://deepdao.io/user/0x2701d47b540e3e3f5904ddbf803e4d078c476580/verified_dao_experience
+85,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,,"Set the new runtime code.
+
+# <weight>
+- `O(C + S)` where `C` length of `code` and `S` complexity of `can_set_code`
+- 1 call to `can_set_code`: `O(S)` (calls `sp_io::misc::runtime_version` which is
+  expensive).
+- 1 storage write (codec `O(C)`).
+- 1 digest item.
+- 1 event.
+The weight of this function is dependent on the runtime, but generally this is very
+expensive. We will treat this as a full block.
+# </weight>",,HqRcfhH8VXMhuCk5JXe28WMgDDuW9MVDVNofe1nnTcefVZn,2022-08-22T10:49:30.011Z,kusama_636f756e-00000529,2022-08-25T08:59:42.011Z,ACTIVE,14,,https://deepdao.io/feed-proposal/kusama_636f756e-00000529,https://deepdao.io/user/HqRcfhH8VXMhuCk5JXe28WMgDDuW9MVDVNofe1nnTcefVZn/verified_dao_experience
+86,1641b21f-8b3f-45be-bd6a-5b3cf2dd5e1f,SNAPSHOT,你撸到最大的毛是啥？,,0xf74709b52c0e108ecfe56fa364175a779d3c059a,2022-10-08T09:30:45.000Z,0x36f9ecd96d3ce777377b24b7fdf3a5d957f5b6c81e6aaded9b05a95f8ba6bbb3,2022-12-31T04:00:00.000Z,ACTIVE,14,"{""DYDX"":""["",""ENS"":""2"",""PSP"":""."",""BICO"":""0"",""GAL"":""3"",""OP"":""0"",""RSS"":""9"",""Other"":""0""}",https://deepdao.io/feed-proposal/0x36f9ecd96d3ce777377b24b7fdf3a5d957f5b6c81e6aaded9b05a95f8ba6bbb3,https://deepdao.io/user/0xf74709b52c0e108ecfe56fa364175a779d3c059a/verified_dao_experience
+87,4b71babe-cd23-4350-a553-03f0ddf84449,SNAPSHOT,What time will BTC ETF pass in 2022?,,0xebae94353b6c76462a7c7b933a567f684004645a,2022-03-03T17:35:07.000Z,0x34dc7b43e0eda7818687a7abe95a41e0ec84a3f44d56ca566689c13f762bca13,2022-12-24T04:00:00.000Z,ACTIVE,14,"{""Q2"":""["",""Q3"":""0"",""Q4"":"".""}",https://deepdao.io/feed-proposal/0x34dc7b43e0eda7818687a7abe95a41e0ec84a3f44d56ca566689c13f762bca13,https://deepdao.io/user/0xebae94353b6c76462a7c7b933a567f684004645a/verified_dao_experience
+88,29f7ce5a-9ca8-4960-b518-b74fd9b68187,SNAPSHOT,uniswap,,0xe4c34a652aef4615c972e22bbce664d74e63f079,2022-09-18T07:56:58.000Z,0xf1f4490754b1b51a9dfca646fb6afddd55e95091eb6de71f1de5d255b5fee1a6,2023-01-04T04:00:00.000Z,ACTIVE,14,"{""yes"":""["",""起飞"":""3""}",https://deepdao.io/feed-proposal/0xf1f4490754b1b51a9dfca646fb6afddd55e95091eb6de71f1de5d255b5fee1a6,https://deepdao.io/user/0xe4c34a652aef4615c972e22bbce664d74e63f079/verified_dao_experience
+89,b30a7ea4-390e-49d2-916b-f476e091036f,SNAPSHOT,ETH会跌到400U吗？,,0x022111936500251ea358a98cbb158d77580efb42,2022-10-08T12:59:17.000Z,0xfb97d2d8e3cd0f721171da4492cea14ff0d8dc142de0de61e0cc04eee74333b9,2023-02-17T04:00:00.000Z,ACTIVE,14,"{""会"":""["",""不会"":""1""}",https://deepdao.io/feed-proposal/0xfb97d2d8e3cd0f721171da4492cea14ff0d8dc142de0de61e0cc04eee74333b9,https://deepdao.io/user/0x022111936500251ea358a98cbb158d77580efb42/verified_dao_experience
+90,37b8ab4b-dd9b-4cc6-a1f2-f98e4bc7d911,," Approve a proposal. At a later time, the proposal will be allocated to the beneficiary
+ and the original deposit will be returned.
+
+ May only be called from `T::ApproveOrigin`.
+
+ # <weight>
+ - Complexity: O(1).
+ - DbReads: `Proposals`, `Approvals`
+ - DbWrite: `Approvals`
+ # </weight>",,GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj,2020-11-27T08:12:24.000Z,kusama_636f756e-00000241,2020-12-19T07:45:24.000Z,ACTIVE,13,,https://deepdao.io/feed-proposal/kusama_636f756e-00000241,https://deepdao.io/user/GLVeryFRbg5hEKvQZcAnLvXZEXhiYaBjzSDwrXBXrfPF7wj/verified_dao_experience
+91,0ffbb1fd-8afc-4169-8352-0aa0afc1f288,SNAPSHOT,哪个元宇宙的地产有更高升值潜力？,,0x2dbb586a3bf1bd34051c106108a6c2871f4d9ba8,2022-10-11T06:26:46.000Z,0x54086afed4dc649e9784c6d14fa2c9469de773359d5557bfea5497d1490f3935,2022-12-31T04:00:00.000Z,ACTIVE,13,"{""Decentraland"":""["",""The Sandbox"":""3"",""Voxels (原Cryptovoxels)"":"","",""Somnium Space"":""3"",""Otherside"":"","",""其他"":""0""}",https://deepdao.io/feed-proposal/0x54086afed4dc649e9784c6d14fa2c9469de773359d5557bfea5497d1490f3935,https://deepdao.io/user/0x2dbb586a3bf1bd34051c106108a6c2871f4d9ba8/verified_dao_experience
+92,b0bba5bc-fa67-4396-9f44-cbe0bf3fda8f,SNAPSHOT, SoftBank-Group-Corp  dao is built or not?,,0x0e5c0c8e6d7268a768d4b66d96eb8991d7acf3ba,2022-08-22T06:33:45.000Z,0x9bfeca15a0b13c930d9533b2c6b7978342e6a495c9519ed4328b45e9dab4b5af,2022-12-10T04:00:00.000Z,ACTIVE,13,"{""yes"":""["",""no"":""8"",""do not know"":"",""}",https://deepdao.io/feed-proposal/0x9bfeca15a0b13c930d9533b2c6b7978342e6a495c9519ed4328b45e9dab4b5af,https://deepdao.io/user/0x0e5c0c8e6d7268a768d4b66d96eb8991d7acf3ba/verified_dao_experience
+93,8e6fcb92-3209-460a-9a0a-bf580a0f53b6,SNAPSHOT,Next 200 G1500 Mints,"Our first snapshot vote will be a decision on the mint mechanics of our next 200 G1500 NFTs. This vote is open to our OG holders of G500 NFTs only.
+
+There are 6 choices with different quantities of free mints enabled to  G500 and G1500 holders. For each choice of qty there is also the option to choose between:
+
+1. A free public mint with minor prerequisites such as joining Discord/Twitter or getting a member referral
+2. A public mint at 0.05 eth (below the current floor price)
+
+If the paid public mint option is chosen we will summon a daohous DAO and send all proceeds to the DAO treasury. This means you will have the option to control these funds by staking eth in return for shares. Visit https://daohaus.club/ for more info.
+
+We will mint in stages - member mints for a set time period before opening to the public.",0xddd5d97e6442e0a5372841b41421d90ffe712ca2,2022-12-02T04:07:02.000Z,0xc1866c5e5294ef273b7a26772036bc3f731793411d6210f90d58b20480f71945,2022-12-10T05:30:00.000Z,ACTIVE,13,"{""3x G500 1x G1500 1x free public"":""["",""3x G500 1x G1500 0.05 eth public"":""0"",""2x G500 1x G1500 1x free public"":"","",""2x G500 1x G1500 0.05 eth public"":""2"",""1x G500 0x G1500 1x free public"":""."",""1x G500 0x G1500 0.05 eth public"":""7""}",https://deepdao.io/feed-proposal/0xc1866c5e5294ef273b7a26772036bc3f731793411d6210f90d58b20480f71945,https://deepdao.io/user/0xddd5d97e6442e0a5372841b41421d90ffe712ca2/verified_dao_experience
+94,c84cd1ca-1b59-4ac7-ba68-0f3763e60998,," Reject a proposed spend. The original deposit will be slashed.
+
+ May only be called from `T::RejectOrigin`.
+
+ # <weight>
+ - Complexity: O(1)
+ - DbReads: `Proposals`, `rejected proposer account`
+ - DbWrites: `Proposals`, `rejected proposer account`
+ # </weight>",,1hCMdtRsaRA4ZTEKpPKPvEjK9rZpGhyFnRHSDhqFMCEayRL,2020-09-11T07:19:00.000Z,polkadot_636f756e-00000017,2020-09-16T18:17:30.019Z,ACTIVE,13,,https://deepdao.io/feed-proposal/polkadot_636f756e-00000017,https://deepdao.io/user/1hCMdtRsaRA4ZTEKpPKPvEjK9rZpGhyFnRHSDhqFMCEayRL/verified_dao_experience
+95,c84cd1ca-1b59-4ac7-ba68-0f3763e60998,,"Schedule a majority-carries referendum to be tabled next once it is legal to schedule
+an external referendum.
+
+The dispatch of this call must be `ExternalMajorityOrigin`.
+
+- `proposal_hash`: The preimage hash of the proposal.
+
+Unlike `external_propose`, blacklisting has no effect on this and it may replace a
+pre-scheduled `external_propose` call.
+
+Weight: `O(1)`",,12NLgzqfhuJkc9mZ5XUTTG85N8yhhzfptwqF1xVhtK3ZX7f6,2022-04-27T17:38:42.006Z,polkadot_636f756e-00000192,2022-05-03T06:15:54.005Z,ACTIVE,13,,https://deepdao.io/feed-proposal/polkadot_636f756e-00000192,https://deepdao.io/user/12NLgzqfhuJkc9mZ5XUTTG85N8yhhzfptwqF1xVhtK3ZX7f6/verified_dao_experience
+96,7479341f-8021-4817-ac13-acc4a9b3b086,SNAPSHOT,马蹄会起飞吗？,会吗？,0xd9293636ee3aa663fc563adb0912b0705dafb62c,2022-09-16T07:03:28.000Z,0x4bc500662a17501314c5f18a2f6b1e50408f77b962d1d76758364fd36031e218,2022-12-31T04:00:00.000Z,ACTIVE,13,"{""会"":""["",""不会"":""1""}",https://deepdao.io/feed-proposal/0x4bc500662a17501314c5f18a2f6b1e50408f77b962d1d76758364fd36031e218,https://deepdao.io/user/0xd9293636ee3aa663fc563adb0912b0705dafb62c/verified_dao_experience
+97,25612031-1fb1-4b0d-a9f6-5a54048c8ef5,SNAPSHOT,WORLD UNIVERSITY TOUR,"UNIVERSITY TOUR
+With latest updates in our market place, we are arranging universities tour worldwide.
+Aim of university tour 
+We aim to make All universities to have LEGACY PROFILE with all necessary details about them including.
+	Environment pictures
+	Learning environment videos 
+	Innovations made by university in videos 
+	Books product innovated by universities. 
+	Research products conducted by universities.
+	Free investment opportunities which anyone can engage with university for earnings.
+	Wearable products made by university students with their LEGACY QR CODE.
+
+2	We aim All universities to perform MILLENIUM CONCERT as their LEGACY launching event where all products will be showcased and introduced to the world for others to purchase. This is where memorable iconic students will be rewarded and carry icon of wearable from universities. Millennium concept in universities is more than Fantasy to all students.
+3	We aim all universities to explain lockable contents and treasure that will be unlocked to NFT buyer’s commenters and physical product customers (through legacy QR codes).
+4	We aim all university to form a mechanism that connects investors to their innovations and economical activities .They should be able to explain a Mechanism in digital way through comments and NFT purchase and a mechanism in physical way through physical products purchase (legacy QR codes).
+5	We aim to show all universities how they can find a way to earn more tuition fee from their innovation video series and educations.
+What they offer may be needed by other organizations and companies to reoffer them to their clients for entertainment or leaning eg. Innovation or education movies or series produced by university group can form partnership with other products. After partnership university may start to offer free NFTs to customers who provides product IDs bought from partners. Those free NFTs may consist subscription time to watch particular series, and may be some amount of share which is in their pool from your product purchase (Here partnership contract will state amount that will be sent to their wallet after every product purchase, which withstands share portion and earning percent or amount to be received yearly), investing contract is optional because it depends on university capabilities.  Learning new skills through innovation and educational locked contents through online is the first priority to partnerships.
+
+                                         UNIVERSITY & SCHOOL ATTENDANCE SOLUTION.   
+Through market place during university tour, lectures and students will be provided with an alternative solutions for student attendance management and mechanisms to improve students’ innovations and results.
+
+                                                                            SOLUTION MECHANISM
+	Every students will have specific profile and 1 wallet for identification 
+	Every lecture will have specific profile and 1 wallet for identification 
+	Every course will have specific profile and 1 wallet   for identification.
+	University will have specific profile and 1 wallet for identification
+
+                                                                         COURSE PROFILES.
+Specific profile and wallets of every course will be managed by COURSE governors, all lectures and course monitor and mistress.    
+-Every students ID has a number which will be recognized as product ID. These ID numbers are known and registered by the profile of the particular course for accessing locked contents anytime. There will be an open time table of all class rooms and before entering students (with profile and students ID)    will send ID number to manual or Auto system for receiving free NFTs 
+eg: in Manual mechanism -Students in their profile goes to chat and send ID number to course profile
+Lecture or course monitor verify them by seeing a sender profile and login  wallet then send back free NFT.
+ Free NFTs are used to unlock content which is a video of lecture or online classroom or live videos of classroom. After classroom lecture leaves documents of exercise which can be downloaded or copied by students, remember all those are locked for only students who have received free NFT.
+Result and performance of each students are also provided openly for all students with previous free NFTs to view and learn from each other. The best student (profile ) with the best result is rewarded by owning % of shares from lecture TOPIC NFT sells and his/her work is put as innovation work and sent to university wallet(found in profile) for the world to see and learn how she/he has performed. Other students worldwide can copy his/her innovation too.
+NB; Wallets and transactions don’t lie –exchange of students ID number with free NFTs verifies attendance. Log in with free NFT to locked group verifies students’ attendance to classroom.
+A parent may log in to classrooms or private content groups through ID and free NFT where parent will be able to see students’ performance, attendance report and verify them through live NFT transactions performed. Parent can talk with lecture using students profile and ID (lecture verifies wallet and profile of each students which can only be accessed by parent and student her/himself through blockchain passwords and phases)
+Earnings from outside class room profile visitors, profile commenters, physical product customers who use LEGACY QR code, are all directed to a particular course management and leaders.
+Free NFTs provided by lecture may consists of explanations and illustrations of the topic (LECTURE DETAILS).
+Free NFTs can be used for voting about administration and leadership changes in university blockchain DAO. 
+A course may decide to produce extra online students IDs for every one with qualification to purchase for attendance and unlocking private contents of the course.
+
+
+
+                                                                            USE CASES OF MECHANISM.
+In Tanzania we have SUA University which is dedicated to farming expertise.
+_If university agree and open window for accepting farming investment this will help the whole world in terms of farming.(internet farming )where  investors can easily farm through NFT purchases.
+EXAMPLE .NFT is minted and bought for 30% as university commission and 70% in farming investments for yearly crops earnings.
+This can connect directly to locked contents which will be unlocked after NFT purchase. Like viewing how farming goes, engage with farming classes which shows their new farming innovations and direct connection as one of them. 
+Commenting in their legacy page helps providing charity to students who are in need in that university as they will described in owners message section. Example Students studying in bad situation and patient students.
+Legacy comment page can be used by students government to collect condoles from students and whole words. Picture of victim/DEAD student will be put in owner message section for viewing .In condolence category millennium will return all commenting fees which is 3% of total.
+Comments page direct a person who have provided charity, condoles to access the locked content temporarily like watching innovations temporary, series of tuitions and education and access to university community for comforting them or any other talk. 
+                                                                        UNIVERSITY LEGACY QR CODE.
+With launching of their QR code, their products will have them printed or stickered for scanning and accessing locked contents.
+Their QR code system can sponsor other products especially farming products, where any member who purchase those products can scan QR code, send product ID and receive free NFT token which can be used to unlock treasure and locked contents of the university.
+Locked contents may include 
+  *Random NFT choosing contest, luckily to have free seat of studying any course in university.
+   * Random NFT choosing contest, luckily to Tour University, engage and have fun with students. All payments are cleared by university.
+ All Agriculture NFT produced can be sold in second market by owner for 30% Royalty which is added to SUA project and 70% for seller to keep.                  
+
+CONCLUSION. THESE ARE UPDATES WHICH ARE 80% COMPLETED. YOUR VOTE GIVES US AN ALLOWANCE TO ACCOMPLISH THEM.               
+
+",0xf2dbd6e3f9152dd100ccc2d183c632ca55bdf834,2022-11-26T15:14:06.000Z,0xd86b2de60c4091d5aba840931b56828b9abceef9da20981d7c938cf6d5d99699,2022-12-20T09:00:00.000Z,ACTIVE,13,"{""GOOD PLAN"":""["",""NOT GOOD"":""3""}",https://deepdao.io/feed-proposal/0xd86b2de60c4091d5aba840931b56828b9abceef9da20981d7c938cf6d5d99699,https://deepdao.io/user/0xf2dbd6e3f9152dd100ccc2d183c632ca55bdf834/verified_dao_experience
+98,6a2b8f7b-ca72-4cb1-b529-b80fc184004b,SNAPSHOT,clipper发币时间,clipper发币,0xf3e17d32a4037830cba46ded7f99d4484cdbf987,2022-09-18T08:04:10.000Z,0xb47e79480e33ebc6874efa76e5c5b5f76f3fba39804af6d6cfddb294e54ba1e7,2023-03-17T04:00:00.000Z,ACTIVE,13,"{""半年"":""["",""一年"":""8""}",https://deepdao.io/feed-proposal/0xb47e79480e33ebc6874efa76e5c5b5f76f3fba39804af6d6cfddb294e54ba1e7,https://deepdao.io/user/0xf3e17d32a4037830cba46ded7f99d4484cdbf987/verified_dao_experience
+99,2f60769d-4cb7-4efe-a34e-15d1cf7482f2,SNAPSHOT,1 Dogecoin + 1 Shiba Inu = 1 Shibadoge,"We have had some great ‘faucet’ ideas on this dao where we distribute 1 token every second every day to every person in the world. My idea is a similar concept but focuses on our niche markets Dogecoin and Shiba Inu token communities and bringing them together as one to Shibadoge.
+Holders that hold 1 Dogecoin plus 1 Shiba Inu token get 1 Shibadoge token!
+For example, if a holder has 100,000 dogecoins and 10 million Shiba inu tokens
+they will receive 100,000 Shibadoge tokens. So they will need to match both
+tokens up to receive the equal amount of Shibadoge. Very much like the matching of our nfts in order to breed a 'Shibadoge' nft.
+We will need a platform similar to the staking warzone where holders of Doge+Shiba can claim their Shibadoge, by signing in showing the holdings of both tokens in their wallet(s).
+Because our market cap is a lot smaller at the moment the amount of tokens distributed will not be too significant but this is purely a marketing incentive to gain more holders and bring Dogecoin and Shiba Inu communities together.
+If it gets both communities engaged and creates exposure for Shibadoge, it will have served it's purpose.
+We could open up this platform on random 1 day blocks and cap the amount
+of tokens given away on that day to open for 24hrs only.
+We could even get a little creative on different days and make it 1 + 1 = 2,3, 4 or 5! Similar to the 'Mint Monday' deals.
+The constraints are that people may exploit it by transferring the Dogecoin and Shiba Inu to multiple wallets to claim, however the number of tokens will not be of significant value enough for an incentive to go to the trouble of exploiting this.
+Who knows it might even be a good idea to encourage claiming from multiple wallets…just as long as its limited time and a token cap that can be claimed. Our holder count goes up which would look favourable to the market for new holders.
+Open to different methods and strategies lets discuss as a community.
+Cost: $funds to develop the platform
+#Shibadoge2theMoon
+elonvitalik.eth",0x014ea62b32e12e4eeb42a368147573dc3dbdfb52,2022-10-04T09:39:55.000Z,0x92aa1cfcde54127e2793ce1c177030600167004b8e02d74d56d958f870177fae,2023-01-31T01:30:00.000Z,ACTIVE,13,"{""For"":""["",""Against"":""1"",""Abstain"":""5""}",https://deepdao.io/feed-proposal/0x92aa1cfcde54127e2793ce1c177030600167004b8e02d74d56d958f870177fae,https://deepdao.io/user/0x014ea62b32e12e4eeb42a368147573dc3dbdfb52/verified_dao_experience

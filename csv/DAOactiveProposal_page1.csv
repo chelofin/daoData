@@ -1,0 +1,392 @@
+,organizationId,platform,title,description,proposer,proposalCreatedAt,proposalNativeId,endedAt,status,totalVotes,choicesMappedToScores,proposalUrl,proposerProfilePageUrl
+0,e76c36dc-2d52-43e3-9b51-fd64d76d8960,SNAPSHOT,How was your experience at zksync?,"Zksync has been launched on the main network 2.0, and it is still several months before it is fully open. Are you looking forward to the experience of zksync 2.0?",0x63bab39b89a156cc528b374c0109b77b4e343b53,2022-11-04T13:28:40.000Z,0x48e72db0d8f73edb2e87cd5449a159674321779d230504a71e896708478ce844,2023-01-05T04:00:00.000Z,ACTIVE,8687,"{""YES"":""["",""NO"":""8""}",https://deepdao.io/feed-proposal/0x48e72db0d8f73edb2e87cd5449a159674321779d230504a71e896708478ce844,https://deepdao.io/user/0x63bab39b89a156cc528b374c0109b77b4e343b53/verified_dao_experience
+1,e76c36dc-2d52-43e3-9b51-fd64d76d8960,SNAPSHOT,Do you want zkSync to issue coins?,Do you want zkSync to issue coins? And dropped it on you?,0x63bab39b89a156cc528b374c0109b77b4e343b53,2022-11-03T06:17:35.000Z,0x69db92f9d7c583588e3cab5190d74d4973efd58837413c47d3110b0e0eb30522,2023-02-10T04:00:00.000Z,ACTIVE,8217,"{""Yes"":""["",""No"":""8""}",https://deepdao.io/feed-proposal/0x69db92f9d7c583588e3cab5190d74d4973efd58837413c47d3110b0e0eb30522,https://deepdao.io/user/0x63bab39b89a156cc528b374c0109b77b4e343b53/verified_dao_experience
+2,e76c36dc-2d52-43e3-9b51-fd64d76d8960,SNAPSHOT,How was your experience at zksync?,"Zksync has been launched on the main network 2.0, and it is still several months before it is fully open. Are you looking forward to the experience of zksync 2.0?",0x51b3335c908e97d597aec4d813b0ac7b3ac26b9f,2022-11-13T09:32:51.000Z,0xb37fb4a981f21d0afb30884444ac4e83086714453663a4d110a5dbb66375d30a,2023-01-05T04:00:00.000Z,ACTIVE,8071,"{""YES"":""["",""NO"":""7""}",https://deepdao.io/feed-proposal/0xb37fb4a981f21d0afb30884444ac4e83086714453663a4d110a5dbb66375d30a,https://deepdao.io/user/0x51b3335c908e97d597aec4d813b0ac7b3ac26b9f/verified_dao_experience
+3,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Become a tenant in the Bloktopia VR metaverse,It would be awesome to see pancakeswap become a tenant in the new vr/ar bloktopia metaverse. The metaverse launches in Q1 of 2022. They already have tons of big name crypto projects as tenants. So it only makes since that pancakeswap would become one to.,0x3ec827d4c56652b826a6cfb38257b3fd17b36922,2021-11-13T21:35:10.000Z,QmUcyAf7HBBWcwDiNjFkwFSTwD2ZKz9s8XiLatqEFMbx8z,2028-03-13T07:00:00.000Z,ACTIVE,4467,"{""YES"":""["",""No"":""3""}",https://deepdao.io/feed-proposal/QmUcyAf7HBBWcwDiNjFkwFSTwD2ZKz9s8XiLatqEFMbx8z,https://deepdao.io/user/0x3ec827d4c56652b826a6cfb38257b3fd17b36922/verified_dao_experience
+4,414a6dfa-add1-48cc-8326-206ff3c84885,SNAPSHOT,LiveArt Championship Vote,,0x40348c8b3caedb10ef673f678a03b293aa4b78fa,2022-11-12T09:49:47.000Z,0xc056a0f4a45eb815b42a87e0df1745b5a3b1621e36f279d5ae7cb67e655426ee,2022-12-05T10:00:00.000Z,ACTIVE,4169,"{""Fantasy Futbol(by TheJuqqernaut)"":""["",""Dribble Me This(by Luca Van Charli)"":""2"",""GoGoGo!(by Left)"":""1"",""COSMOBALL(by Lera Nibiru)"":""6"",""Just alive (with no particular aim) 20221003(by teshnakamura)"":""2"",""⚽🔥(by Lès Gümes)"":"","",""Patchy(by Nguyen huan)"":""3"",""The Olympic Games(by Sykanickname)"":""9"",""Future Champions(by Amy George)"":""2"",""Avhnft.(by Bambang Purnomo)"":"","",""FAYA Dragon(by FAYA)"":""4"",""the sun of qatar(by Alrizky Agnif Novanda)"":""8"",""WORLD CUP ATHLETES(by Olga)"":""2"",""WORLD CUP OF SOCCER(by NEW COMPOSERS)"":"","",""SOCCER BALL MANDALA(by ITTARDEA)"":""6"",""RGB cup(by Prasad)"":""4"",""ABSTRACT SOCCER(by SUBHASH PREM GIRI)"":""2"",""Champion League(by Stanislav Vedmid Lustre)"":"","",""Bản tin Crypto daily 700(by Quỳnh Mi)"":""2"",""ISCO(by Mohamad Hasby)"":""9"",""leopard(by Ibnu Febri)"":""1"",""BAB X(by Prj)"":"","",""Kliyan Mbape(by Ratih Putri Purnamasari)"":""2"",""Moments in World Cup History(by Daniel Nyari)"":""0"",""Intergalactic Messaging Champion(by Victoria Wu)"":""4"",""The Opening Game: WC 2022(by Mai Xuân Cảnh)"":"","",""Mara Wonders 06 (Championship)(by IAMARINATEN (TEN MARINA))"":""1"",""World Cup soccer championship 2022(by Dhruvek Solanki)"":""4"",""History of the World Cup(by Estelle SO)"":""0"",""FIFA soul in the Crypto Matrix(by VicVerse )"":"","",""Feeling 010(by Dam Ngoc Thuan)"":""2"",""WorldCups.soccer NFT(by worldcups.soccer)"":""0"",""Lazy Dino Argentina(by Lazy Holders)"":""3"",""DeGea(by Miftachul Nur Huda)"":"","",""BENZEMA(by Faizal Hafidh Ardiansyah)"":""5"",""Rose #3(by Bowen Sai)"":""3"",""Looking for your color(by PoMashka)"":"","",""XRP Ripple(by David Smith)"":""7"",""The Final Battle(by Rowan Long)"":"","",""Great Moments(by Keith Myers)"":""1"",""Gakko Football Star(by Vladimir Wies)"":""6"",""Sergio Ramos(by BAMBANG NUR SUSENO)"":"","",""Enceitve(by encentive)"":""4"",""Football - Love And Peace(by Ken Nedy)"":""4"",""Χάριτες Ⅰ(by BingQing Dong)"":""7"",""ZCLUB NFT(by ZCLUB)"":"","",""MafiaDogsNFT(by Omaj)"":""5"",""NewLand Girl(by NewLand)"":""3"",""Team Doge World Cup(by Space Hawk)"":"","",""Golden Bitcoin Soccer Ball(by Space Hawk)"":""6"",""RED GIRL WITH SOCCER BALL(by Ashas Ras)"":""3"",""hard work. soccer. space. beyond the stars. more hard work. (by Matthew Dean Bodo)"":"","",""APE Space World Cup(by Triathon Space)"":""2"",""Dinousoccer(by KCrossline)"":""3"",""Zombies love Footbal(by Karmaverse)"":"","",""FIFA Cat Army(by tao)"":""2"",""The Great World —1(by Sunyu)"":""5"",""The Security Gatekeeper(by GoPlus Africa)"":"","",""Local Champions(by Cassava Network)"":""1"",""Victor(by Olatunbosun Harris )"":""3"",""Take-off football(by Cassie)"":""4"",""Rainbow Gangster(by Mini_MiSue)"":"","",""Tai Chi(by oniii)"":""6"",""Brixton Village(by Akin Okusami)"":""2"",""Las Palmas Doradas(by Karina Abramova)"":"","",""The Rising Star On The Stadium(by Sonny Sun)"":""2"",""Kick Off(by kevin)"":""1"",""Yoyo in Qatar(by Tian)"":"","",""Yoyo in World Cup (by Tian)"":""1"",""Brazil will win!(by Charlotte)"":""5"",""France will win!(by Charlotte)"":"","",""21St Century Digital Boys(by Raiding Torch)"":""5"",""cyb nft(by abderrahmane kacel)"":""3"",""WinterSolePets (by Arup Chowdhury )"":"","",""GOLDEN CARD(by The Unbeknown)"":""7"",""NiftyLabsHQ(by Victoria Wu)"":""4"",""MACC cheers for World Cup(by Taraxacum)"":"","",""Flyrain's World Cup - 1(by Flyrain)"":""3"",""Flyrain's World Cup - 2(by Flyrain)"":""3""}",https://deepdao.io/feed-proposal/0xc056a0f4a45eb815b42a87e0df1745b5a3b1621e36f279d5ae7cb67e655426ee,https://deepdao.io/user/0x40348c8b3caedb10ef673f678a03b293aa4b78fa/verified_dao_experience
+5,aa381fb4-a15c-4c97-aed8-fa3ec404e8aa,SNAPSHOT,How was your experience at Lens Protocol ?,"Lens Protocol has been launched on the Polygon mainnet network, and it is still several months before it is fully open. Are you looking forward to the experience of Lens Ecosystem ?",0x703ca7ac43aba29f05ce50073d3ad176a8cede6f,2022-11-12T15:22:50.000Z,0x62f423872018ab48367503045cf15964933c29731d4f96897e770d8bcd391557,2023-01-01T06:30:00.000Z,ACTIVE,2471,"{""Yes"":""["",""No"":""2""}",https://deepdao.io/feed-proposal/0x62f423872018ab48367503045cf15964933c29731d4f96897e770d8bcd391557,https://deepdao.io/user/0x703ca7ac43aba29f05ce50073d3ad176a8cede6f/verified_dao_experience
+6,aa381fb4-a15c-4c97-aed8-fa3ec404e8aa,SNAPSHOT,we are lens friends ,we support lens ecosystem and try to part of this new revolation on decentralized social media,0x703ca7ac43aba29f05ce50073d3ad176a8cede6f,2022-11-12T01:34:42.000Z,0xa59d6b3937daae8cbcad15a1a34e3198c6d93ea1c13232d179cb10097eb47c9a,2022-12-25T06:30:00.000Z,ACTIVE,2452,"{""support"":""["",""against"":""2"",""excited"":""3"",""awsome"":""1""}",https://deepdao.io/feed-proposal/0xa59d6b3937daae8cbcad15a1a34e3198c6d93ea1c13232d179cb10097eb47c9a,https://deepdao.io/user/0x703ca7ac43aba29f05ce50073d3ad176a8cede6f/verified_dao_experience
+7,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Bybit Referral Code - jY3gW,"[Bybit Referral Code](https://coinhax.com/bybit.html)
+
+Click here: [https://www.bybit.com/app/register?ref=jY3gW](https://www.bybit.com/app/register?ref=jY3gW)
+
+or use this code: jY3gW
+
+You'll get up to $1000 of trading rewards to use on Bybit.",0x0fda4ac09a12c10fae30e429f4d6b47c9a83c87e,2021-11-11T11:51:03.000Z,QmSUxBUVwrbBHEHAF3ioinig4vTnmm4NMqBqCHHCE4Duko,2023-12-30T16:00:00.000Z,ACTIVE,2323,"{""https://www.bybit.com/app/register?ref=jY3gW"":""7""}",https://deepdao.io/feed-proposal/QmSUxBUVwrbBHEHAF3ioinig4vTnmm4NMqBqCHHCE4Duko,https://deepdao.io/user/0x0fda4ac09a12c10fae30e429f4d6b47c9a83c87e/verified_dao_experience
+8,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,VC is the biggest threaten to Web3 development.,,0xd8568406644708a2bbdfeb56c5173e721907a8c2,2022-03-18T17:04:57.000Z,0x998d94e784e0213631ad73ad35f49b181ed5e340c93d96d1261b0ea2ceb1cecc,2022-12-05T04:00:00.000Z,ACTIVE,2300,"{""Right"":""["",""Wrong"":""2""}",https://deepdao.io/feed-proposal/0x998d94e784e0213631ad73ad35f49b181ed5e340c93d96d1261b0ea2ceb1cecc,https://deepdao.io/user/0xd8568406644708a2bbdfeb56c5173e721907a8c2/verified_dao_experience
+9,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Yuga Labs will be harmful to the healthy development of NFT market.,,0x98ee51a2119520e562ed724ae2a933be5542bb9d,2022-03-22T15:16:15.000Z,0x6aac9de28a98997bba693476e6f0f4aed37219a59f96e0b0ec4c51eba6b36ca3,2022-12-26T04:00:00.000Z,ACTIVE,2283,"{""Agree"":""["",""Disagree"":""3""}",https://deepdao.io/feed-proposal/0x6aac9de28a98997bba693476e6f0f4aed37219a59f96e0b0ec4c51eba6b36ca3,https://deepdao.io/user/0x98ee51a2119520e562ed724ae2a933be5542bb9d/verified_dao_experience
+10,787e86eb-9938-4093-ad12-f4de3efff8f3,SNAPSHOT,Shielded voting demo,"Shielded Voting will encrypt individual votes until the proposal reaches its end. While the proposal is ongoing, the only available information for anyone, including Snapshot itself, will be the total amount of voting power already deployed. Once the proposal reaches its end, all the votes will be automatically revealed along with their respective addresses, and the results will be calculated.",0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a,2022-10-12T15:13:36.000Z,0xa5077ef17097b1d59304b110337bd1c7ce98d95d3ff81d138c3886a80074b4d9,2026-11-20T15:13:33.000Z,ACTIVE,2243,"{""Alice"":""["",""Bob"":""]""}",https://deepdao.io/feed-proposal/0xa5077ef17097b1d59304b110337bd1c7ce98d95d3ff81d138c3886a80074b4d9,https://deepdao.io/user/0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a/verified_dao_experience
+11,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Will you invest the project on Aptos network?,,0x0be2163c4d25816bcfa4db17e0a97b224fee0144,2022-03-18T16:38:33.000Z,0x3f68f86a07ce9320da92f075192d948702a38c1bb9a0ece8ad348d7407abc09f,2022-12-08T04:00:00.000Z,ACTIVE,2137,"{""Yes"":""["",""No"":""1""}",https://deepdao.io/feed-proposal/0x3f68f86a07ce9320da92f075192d948702a38c1bb9a0ece8ad348d7407abc09f,https://deepdao.io/user/0x0be2163c4d25816bcfa4db17e0a97b224fee0144/verified_dao_experience
+12,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,"If Binance was hacked, should the customer's loss be payed by Binance?",,0xebf33408b53529c885d60ea285f2948842f36ee2,2022-03-18T13:13:25.000Z,0x14255e6e42c26e75ee72156b1d3fec926e90c8889df0b4889eff523f3782fc12,2022-12-12T04:00:00.000Z,ACTIVE,2111,"{""Yes"":""["",""No"":""1""}",https://deepdao.io/feed-proposal/0x14255e6e42c26e75ee72156b1d3fec926e90c8889df0b4889eff523f3782fc12,https://deepdao.io/user/0xebf33408b53529c885d60ea285f2948842f36ee2/verified_dao_experience
+13,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,"Deduct pool emissions to zero lead to Deflation, we need cake to be deflation","Deduct pool emissions to zero lead to Deflation, we need cake to be deflation",0xc9cf4b850c90bbeb81ff413826d2e69106ea3a27,2022-01-03T10:26:48.000Z,QmRvtmET4PUYCLZn9msmMR3DbxGU3jrZfNQ8rv4FBSUS3c,2023-01-31T16:00:00.000Z,ACTIVE,1781,"{""I agree"":""["",""I don't agree"":""2""}",https://deepdao.io/feed-proposal/QmRvtmET4PUYCLZn9msmMR3DbxGU3jrZfNQ8rv4FBSUS3c,https://deepdao.io/user/0xc9cf4b850c90bbeb81ff413826d2e69106ea3a27/verified_dao_experience
+14,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,AmirEhsan,Freedom For All,0x8a9eb31cfe5680100cbed967fb423565aabb7270,2022-01-01T18:44:06.000Z,QmaPaBG4XqXuvCU9qB9kb6h4NxgjLcofrgJYxhNeSdAXNd,2024-01-01T08:30:00.000Z,ACTIVE,1596,"{""A"":""["",""Z"":""2""}",https://deepdao.io/feed-proposal/QmaPaBG4XqXuvCU9qB9kb6h4NxgjLcofrgJYxhNeSdAXNd,https://deepdao.io/user/0x8a9eb31cfe5680100cbed967fb423565aabb7270/verified_dao_experience
+15,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Do you think if BTC would be adopted in Russia in 2 years?,,0xffa92c8083658c5601c3785516f49ac37f058a21,2022-03-03T18:14:02.000Z,0xb3b25eef5ba72b0a91d162757fbb9d0930dcdf15811e48fd5f5da224363b7307,2022-12-21T04:00:00.000Z,ACTIVE,1480,"{""Yes"":""["",""No"":""8""}",https://deepdao.io/feed-proposal/0xb3b25eef5ba72b0a91d162757fbb9d0930dcdf15811e48fd5f5da224363b7307,https://deepdao.io/user/0xffa92c8083658c5601c3785516f49ac37f058a21/verified_dao_experience
+16,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,"If you had 1,000 ETH, do you have plan to buy a BAYC?",,0x3181c9f4616932599add7e6da17a9f114e3cef2b,2022-03-02T15:55:49.000Z,0xb4242d05b60fbfc19e4916b50e05e972014b9f89b3e2240ef76ddd1820f7fb77,2022-12-18T04:00:00.000Z,ACTIVE,1460,"{""Yes"":""["",""No"":""9""}",https://deepdao.io/feed-proposal/0xb4242d05b60fbfc19e4916b50e05e972014b9f89b3e2240ef76ddd1820f7fb77,https://deepdao.io/user/0x3181c9f4616932599add7e6da17a9f114e3cef2b/verified_dao_experience
+17,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Would you invest more for Dao then for BTC in 2022,,0x58535e81564a72315bb2c309578f0b7757ec52d2,2022-03-02T15:44:43.000Z,0x8e87149743dec21bd40fdc24ee1344ff2e6317b834f1ed186448805b083d14b8,2022-12-31T04:00:00.000Z,ACTIVE,1417,"{""Yes"":""["",""No"":""9""}",https://deepdao.io/feed-proposal/0x8e87149743dec21bd40fdc24ee1344ff2e6317b834f1ed186448805b083d14b8,https://deepdao.io/user/0x58535e81564a72315bb2c309578f0b7757ec52d2/verified_dao_experience
+18,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,"Add an 5 Year Transactions History, and Buy In Price of Cryptos","We all need to see how much our investments are worth, it would be nice if we could track how much we lose/win and for how much we bough an Crypto on Pancakeswap.",0xe3c4dab7f80236c451a8b10704174e277d6d33d7,2021-12-20T21:34:50.000Z,QmVx9wrN6kDRJXaGcaj7uggDywE1s93qMTLQ2PGVPzAbbG,2022-12-30T23:15:00.000Z,ACTIVE,1402,"{""True"":""["",""False"":""8""}",https://deepdao.io/feed-proposal/QmVx9wrN6kDRJXaGcaj7uggDywE1s93qMTLQ2PGVPzAbbG,https://deepdao.io/user/0xe3c4dab7f80236c451a8b10704174e277d6d33d7/verified_dao_experience
+19,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,"Which one is the official domain service provider at FLOW platform, mynft.io or find.xyz?",,0xdaae34a2bd629e4670e0c77c98b7cecea1d2f08a,2022-03-18T02:29:57.000Z,0xa1c4b3e412dc7200b4c8a8609d916afe3c6c1199e79889fe25dd3c369152538b,2022-12-18T04:00:00.000Z,ACTIVE,1390,"{""Mynft.io"":""["",""Find.xyz"":""1""}",https://deepdao.io/feed-proposal/0xa1c4b3e412dc7200b4c8a8609d916afe3c6c1199e79889fe25dd3c369152538b,https://deepdao.io/user/0xdaae34a2bd629e4670e0c77c98b7cecea1d2f08a/verified_dao_experience
+20,787e86eb-9938-4093-ad12-f4de3efff8f3,SNAPSHOT,Basic voting demo,"Each voter can select one of three options: For, Against, Abstain.
+
+While voters can choose the option to abstain, these votes will count towards reaching the necessary quorum for a proposal to pass.
+
+Pros: Easy to interpret and hard to contest results.
+Cons: Limited flexibility of the choices.
+
+Try it for yourself!
+## Do you approve PistachioDAO’s budget?",0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a,2022-03-15T11:19:15.000Z,0x38c654c0f81b63ea1839ec3b221fad6ecba474aa0c4e8b4e8bc957f70100e753,2026-04-23T11:19:11.000Z,ACTIVE,1307,"{""For"":""["",""Against"":""1"",""Abstain"":""0""}",https://deepdao.io/feed-proposal/0x38c654c0f81b63ea1839ec3b221fad6ecba474aa0c4e8b4e8bc957f70100e753,https://deepdao.io/user/0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a/verified_dao_experience
+21,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Will Opensea release token in 2022?,,0xfece7fa71657cbb6a22b2ce825761b9c86aac70e,2022-02-28T16:32:34.000Z,0x1e728138a88636fe4c1896f6110d66967610d546cfebd09619766428a4f157dc,2022-12-31T04:00:00.000Z,ACTIVE,1305,"{""Yes"":""["",""No"":""5""}",https://deepdao.io/feed-proposal/0x1e728138a88636fe4c1896f6110d66967610d546cfebd09619766428a4f157dc,https://deepdao.io/user/0xfece7fa71657cbb6a22b2ce825761b9c86aac70e/verified_dao_experience
+22,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Does Gnosis system have its own domain service as ENS?,,0xb761c66bf4c5145c850b40ba0c32bb8f5ce6bfb1,2022-03-18T02:12:24.000Z,0x133e3f683e4b6020993c0874740be3ca33ba4b138c771d2d26812212a10f8e33,2022-12-19T04:00:00.000Z,ACTIVE,1282,"{""Yes"":""["",""No"":""5""}",https://deepdao.io/feed-proposal/0x133e3f683e4b6020993c0874740be3ca33ba4b138c771d2d26812212a10f8e33,https://deepdao.io/user/0xb761c66bf4c5145c850b40ba0c32bb8f5ce6bfb1/verified_dao_experience
+23,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,"Which will be the best choice for normal citizen, Gold, US Dollar, or BTC, in one war?",,0x92d887da7150316fca05a1583d9e77430bd94923,2022-03-01T10:19:13.000Z,0xcb63f4b3069362d511e8fe372a5fcda66663f6e417b88c0f8d3c40bcfef9d3d2,2022-12-31T04:00:00.000Z,ACTIVE,1267,"{""Gold"":""["",""USD"":""4"",""BTC"":""6""}",https://deepdao.io/feed-proposal/0xcb63f4b3069362d511e8fe372a5fcda66663f6e417b88c0f8d3c40bcfef9d3d2,https://deepdao.io/user/0x92d887da7150316fca05a1583d9e77430bd94923/verified_dao_experience
+24,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Do you think ETH will reach 10K after merge?,,0x7532f5c18b5e2197f2bc186671dd658067423ede,2022-03-16T04:09:28.000Z,0x0811dea8483c59e88df3040cdec7f8ece25fd20763a86aef4cf90efa006f8e1d,2022-12-27T04:00:00.000Z,ACTIVE,1264,"{""Yes"":""["",""No"":""2""}",https://deepdao.io/feed-proposal/0x0811dea8483c59e88df3040cdec7f8ece25fd20763a86aef4cf90efa006f8e1d,https://deepdao.io/user/0x7532f5c18b5e2197f2bc186671dd658067423ede/verified_dao_experience
+25,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Do you think Bored APE will reach 200 ETH?,,0xcbe0e5622d31a9ef86de83ea41af33fd4617a555,2022-03-17T17:26:52.000Z,0x8b8f9e57d7fbd972a91f30bd408905d89e8d446b2769edacab333167f5c88203,2022-12-22T04:00:00.000Z,ACTIVE,1262,"{""Yes"":""["",""No"":""5""}",https://deepdao.io/feed-proposal/0x8b8f9e57d7fbd972a91f30bd408905d89e8d446b2769edacab333167f5c88203,https://deepdao.io/user/0xcbe0e5622d31a9ef86de83ea41af33fd4617a555/verified_dao_experience
+26,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,What time will BTC reach 60K again in 2022?,,0x3181c9f4616932599add7e6da17a9f114e3cef2b,2022-03-06T09:32:54.000Z,0x107021c4f26cac988b538e8e092e58e27bef6a9d42164e21e4eebd9ce5134478,2022-12-29T04:00:00.000Z,ACTIVE,1251,"{""Q2"":""["",""Q3"":""6""}",https://deepdao.io/feed-proposal/0x107021c4f26cac988b538e8e092e58e27bef6a9d42164e21e4eebd9ce5134478,https://deepdao.io/user/0x3181c9f4616932599add7e6da17a9f114e3cef2b/verified_dao_experience
+27,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,How to make Polygon more popular?,,0x9b79c43b6b2859e69d40aa585f2473a792ab9869,2022-03-01T07:42:57.000Z,0x669801c43769d07d346af5f73a56f7094fa934691a9f44e19a8029f864813d11,2022-12-20T04:00:00.000Z,ACTIVE,1244,"{""More Airdrop"":""["",""More market incentives"":""5""}",https://deepdao.io/feed-proposal/0x669801c43769d07d346af5f73a56f7094fa934691a9f44e19a8029f864813d11,https://deepdao.io/user/0x9b79c43b6b2859e69d40aa585f2473a792ab9869/verified_dao_experience
+28,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Increase AUTOCAKE staking APY rewards,"The CAKE community has been supportive in reducing emission and increasing token burn (to 15 CAKE recently) but I think that we need to increase APY to create price action in CAKE itself.
+
+Why?
+
+**This is psychological.**
+
+When people see high APY staking, they are more likely to buy CAKE to stake.
+
+If there are low APY rewards for staking, then they'd rather park their money somewhere else.
+
+
+**APY adjustment is one area Pancakeswap cannot cut down on.**
+
+We need a bigger community, more people to have their legs dipped into the CAKE economy, to grow the size and reach of this platform. To do this, we should continue attracting more people to put their money down, buy CAKE, and leave it locked in through attractive staking rewards.",0xbec8d059c7f72a92a11ad885d67214b54691c6b6,2021-09-17T09:29:21.000Z,QmPhSLEiTB7j46bA7T7YVUrM3R13xcxxpXkD7eXjGwfZM2,2023-12-31T16:00:00.000Z,ACTIVE,1240,"{""Support"":""["",""Don’t Support"":""6""}",https://deepdao.io/feed-proposal/QmPhSLEiTB7j46bA7T7YVUrM3R13xcxxpXkD7eXjGwfZM2,https://deepdao.io/user/0xbec8d059c7f72a92a11ad885d67214b54691c6b6/verified_dao_experience
+29,fd991dca-141d-4e23-a23b-5d908110c337,SNAPSHOT,Should the team care about LDO's price?,"Don't bother, just vote.
+
+",0x0f0b2adc2c4da73ed2721f6f270cbacf8c5355bb,2022-05-23T16:09:29.000Z,0xcb31f1b6e8c160a4c1ccb0145edf3102c8561cf409a68baff9fa629cd1b5e37a,2023-01-01T04:00:00.000Z,ACTIVE,1142,"{""Yes"":""["",""No, dumping on the community"":""4""}",https://deepdao.io/feed-proposal/0xcb31f1b6e8c160a4c1ccb0145edf3102c8561cf409a68baff9fa629cd1b5e37a,https://deepdao.io/user/0x0f0b2adc2c4da73ed2721f6f270cbacf8c5355bb/verified_dao_experience
+30,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,CAKE Chain? CAKE own smart chain?," Benefits 
+
+
+Technology advancement
+
+new chain technology could would allow the CAKE DEX to do more, including cross chain etc. 
+
+Fees go back to CAKE 
+
+obvious advantages for the CAKE faithful bakers. 
+
+DEX is the future 
+
+this means more Bakers in CAKE more load on the already stressed BSC, it seems inevitable that either the BSC will need to evolve or CAKE needs to evolve a new chain perhaps a new common chain is the answer? however CAKE transactions should generate CAKE fees for CAKE bakers. 
+
+Lower fees
+
+CAKE chain would have the ability to generate fees for CAKE bakers however these fees should be lower than the present BSC chain based in current metrics this is because of both advancement in Bunny technology & the current market price ratio.
+
+
+ Summary 
+
+I propose CAKE needs to evolve  it's own new chain with the best technology available maybe reach out to leaders in the community & weigh it with security technology to allow the DEX to evolve with cross chain on & off ramps & trading,  CAKE the next level.  
+based on the aforementioned benefits & probably many more. ",0x4946065a94536b3a730a271f9400d4a11a459f43,2022-01-16T06:12:00.000Z,QmNUGhK32KbQ1ePa5UBGkXrUdVpn4dz7PtYgXyh3EbNhEn,2030-09-10T15:00:00.000Z,ACTIVE,1103,"{""This Bunny Baker says yes"":""["",""This Bunny says No "":""1""}",https://deepdao.io/feed-proposal/QmNUGhK32KbQ1ePa5UBGkXrUdVpn4dz7PtYgXyh3EbNhEn,https://deepdao.io/user/0x4946065a94536b3a730a271f9400d4a11a459f43/verified_dao_experience
+31,787e86eb-9938-4093-ad12-f4de3efff8f3,SNAPSHOT,Single choice voting demo,"Each voter may select a single choice to give his total voting power to.
+
+Pros: Most simple and common voting system.
+Cons: Voters can only pick one option.
+
+Try it out for yourself!
+
+## Who do you want to elect as the PistachioDAO’s Governance Lead?
+",0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a,2022-03-15T11:11:35.000Z,0x02c3fcd64e86157d07c88e5a715ac08f57655917f8bfd5be30a99092136511ec,2026-04-23T11:11:26.000Z,ACTIVE,1059,"{""Alice"":""["",""Bob"":""7"",""Carol"":""5"",""David"":""2""}",https://deepdao.io/feed-proposal/0x02c3fcd64e86157d07c88e5a715ac08f57655917f8bfd5be30a99092136511ec,https://deepdao.io/user/0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a/verified_dao_experience
+32,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,CAKE proposals allow responses but add a small fee in CAKE. ,"Allow open discourse & the 'fee ' exchange of ideas to any proposal .
+
+
+add a fee to do so, make the fee small  but in CAKE that is then burned.
+
+this will prevent meatpuppets spamming the proposal & if they do CAKE will be burned. 
+
+this will also raise the quality of the conversation as the fee will prevent 'meaningless' responses, by those that own 0 CAKE. 
+
+it will allow ideas to flourish like a bunny filled meadow on a bright summer day.",0x4946065a94536b3a730a271f9400d4a11a459f43,2022-01-16T06:32:54.000Z,Qmbkrcx9pscxBmRB97sX7UDsWHd6kTwMUH5Lvo9GqELSUx,2030-09-10T15:00:00.000Z,ACTIVE,1052,"{""Yes"":""["",""No conversations"":""3""}",https://deepdao.io/feed-proposal/Qmbkrcx9pscxBmRB97sX7UDsWHd6kTwMUH5Lvo9GqELSUx,https://deepdao.io/user/0x4946065a94536b3a730a271f9400d4a11a459f43/verified_dao_experience
+33,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Allow cleaning the list of proposals,"Many proposals ""exploit a bug"" allowing the proposals to stay on the top of the list regardless of their relevancy. This proposal uses the same ""bug"" to do so.
+
+Scrolling through the list of community proposals is already Hell for us community members, imagine what it must be for the PCS devs ..
+
+Allowing members to close down a proposal by adding a mandatory option in the optionsList would allow the community to trim out the useless / fake proposals.
+Currently all we can do is vote `no`, if there is such an option.
+
+Another option would be to report it to the team, but in my humble opinion this adds centralization so I offer it as an alternative option.",0xd3bae990fd596ff86c7a3617538aba89592d64d9,2022-02-16T10:47:25.000Z,QmWdaaN1zjLbyW2FpUWLyhXY8heWMv3GVS8kZoviwGxAGd,2032-02-01T00:00:00.000Z,ACTIVE,922,"{""Yes"":""["",""Only add a report option"":""1"",""No"":""5""}",https://deepdao.io/feed-proposal/QmWdaaN1zjLbyW2FpUWLyhXY8heWMv3GVS8kZoviwGxAGd,https://deepdao.io/user/0xd3bae990fd596ff86c7a3617538aba89592d64d9/verified_dao_experience
+34,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Allow us to setup Limit Orders & Trading Grid Bots (will burn more cake and higher apy) ,"It would be nice to introduce trading bots which would require limit orders to work. With trading bots it will greatly increase the volume and the burn rate of cake. (from fees).
+
+
+Example of trading bot setup
+Parameter 5-20
+100 orders
+
+So if cake hits 5 you will have 100% cake and if cake hits 20 your will have 100% stables. In between 5 to 20 there would be 100 sell/buy orders. So imagine the account of trading fees and lp rewards being generated. This would mean more cake will be burnt and more rewards will be given. In my opinion the lp rewards will be much more higher than now. 
+
+",0x42ba001719ce41fd28249073a7fb55630b5f9185,2021-12-19T16:55:01.000Z,QmRqjAV6tMduLSgQhE8mdmyUoGChT5xYF2v61YgzmeB4fS,2022-12-31T00:00:00.000Z,ACTIVE,916,"{""Yes - support"":""["",""No - don't support"":""6""}",https://deepdao.io/feed-proposal/QmRqjAV6tMduLSgQhE8mdmyUoGChT5xYF2v61YgzmeB4fS,https://deepdao.io/user/0x42ba001719ce41fd28249073a7fb55630b5f9185/verified_dao_experience
+35,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Give Squad rarity some purpose,"I was thinking why don't give squad rarity some use? Sometimes I see ultra rare Squad sold on really slow price, like they were common ones.
+It would be nice to see some ranking list of the Squad based on rarity, and for example, the more rare the Squad is, the more cake in the IFO you can commit.
+We could maybe implement some pool/farm bonus to the Squad owner which gives the bonus based on rarity.
+
+I don't know, these are some utilities that came to my mind, but actually anything else would be super. What do you think?
+",0xdb9c0139026337255dd83e35ab415e1e095c36e1,2022-02-08T22:35:52.000Z,QmUELhXj1qPLZHdCS1BZXdAQarzgKnqDqnU6AE7VhULvyS,2030-01-01T22:45:00.000Z,ACTIVE,875,"{""Yes, give Squad rarity some purpose"":""["",""No"":""1""}",https://deepdao.io/feed-proposal/QmUELhXj1qPLZHdCS1BZXdAQarzgKnqDqnU6AE7VhULvyS,https://deepdao.io/user/0xdb9c0139026337255dd83e35ab415e1e095c36e1/verified_dao_experience
+36,e2839abc-9982-4ef7-b57b-01bee5d0710b,SNAPSHOT,Flow生态项目，特殊版本的rabbithole的NFT，数量1000个，先到先得，大家可以领一下，未来可能有惊喜,"Flow生态项目，特殊版本的rabbithole的NFT，大家可以领一下，未来可能有惊喜
+网址：https://floats.city/0x6592619ea6d2a1cd/event/250138400 
+![微信图片_20220604174223.png](ipfs://QmcATtba8n3aBj2ZyYZnD2ZgUkQFoUDXSxgPiEVa8C7UCj)
+    ",0xa0e3db0f63179880e08557be57ac27d1606be250,2022-06-04T09:45:17.000Z,0xfbbcc4828cc3fbdf05407422c3c5161410156fe450d2ffaa46b8dcc973409df0,2022-12-30T04:00:00.000Z,ACTIVE,869,"{""领取rabbithole的NFT"":""["",""稍后领取rabbithole的NFT"":""1""}",https://deepdao.io/feed-proposal/0xfbbcc4828cc3fbdf05407422c3c5161410156fe450d2ffaa46b8dcc973409df0,https://deepdao.io/user/0xa0e3db0f63179880e08557be57ac27d1606be250/verified_dao_experience
+37,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Create a set of Pancake Tools,"The PancakeSwap community could enjoy a set of tools suchs as : 
+
+* **Smart Converter** 
+This would allow people to convert their small assets into CAKE without the hassle to go through each one of them separately
+
+* **Easy LP** 
+Basically, this would allow anyone to convert their BNB, BUSD or USDT into a pair of LPs.
+
+* **Compound**
+This button would exist on each pool and allow converting your earnings into CAKE to then immediately reinvest it into that pool.",0xd3bae990fd596ff86c7a3617538aba89592d64d9,2022-02-15T14:04:39.000Z,QmNkvCVdM3VpaUtubmrpjrzRT3KsFvnvz6wxb15nLZXhzz,2023-02-14T23:00:00.000Z,ACTIVE,868,"{""Give us all the Pancake Tools"":""["",""Only Easy LP"":""6"",""Only Compound button"":""7"",""Only Smart Converter"":""6"",""N O ."":""3""}",https://deepdao.io/feed-proposal/QmNkvCVdM3VpaUtubmrpjrzRT3KsFvnvz6wxb15nLZXhzz,https://deepdao.io/user/0xd3bae990fd596ff86c7a3617538aba89592d64d9/verified_dao_experience
+38,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Use celebrities for promotion of platform.,"Pancake is a great project ,you need to introduce this to as many people as possible.",0xf38e5866d59c1a8024eb0ae1efc9ebb748b5b5c5,2021-09-26T05:48:17.000Z,QmfTqLvQt4HjDAiixdF7TTEyDTVXdWH69c9jjdQneJagVA,2026-12-31T20:15:00.000Z,ACTIVE,853,"{""Support "":""["",""Against"":""4""}",https://deepdao.io/feed-proposal/QmfTqLvQt4HjDAiixdF7TTEyDTVXdWH69c9jjdQneJagVA,https://deepdao.io/user/0xf38e5866d59c1a8024eb0ae1efc9ebb748b5b5c5/verified_dao_experience
+39,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Increase Private IFO allocation ,I think it would be good to increase the private IFO allocation to encourage people to buy the pancake squard NFT.,0x42ba001719ce41fd28249073a7fb55630b5f9185,2022-02-15T01:48:06.000Z,QmTs1uLGUHz4nA4oJhkMgsLdR265aA2GkgqR3WXkpSnRLV,2022-12-31T00:15:00.000Z,ACTIVE,848,"{""Yes support"":""["",""No don't support"":""2""}",https://deepdao.io/feed-proposal/QmTs1uLGUHz4nA4oJhkMgsLdR265aA2GkgqR3WXkpSnRLV,https://deepdao.io/user/0x42ba001719ce41fd28249073a7fb55630b5f9185/verified_dao_experience
+40,d658d832-10bc-4a4d-a2f6-e701f2df2963,SNAPSHOT,NFT Finance never stop,"All unclaim $NFTF have been burned
+Proof of burned:
+https://etherscan.io/tx/0x76507d49506a1f849b2f44d201319ddc59df8baadc96449254cf8f3ca460898d
+NFT Finance has be governed by the community forever",0x9eafa492ea977985d16cb3c2007a92c446950c2e,2022-05-04T14:03:31.000Z,0x66f1890fe2eb9995f7ebc877aedb69ff73424dd80b774a8955f4c14be68bf360,2032-05-04T04:00:00.000Z,ACTIVE,833,"{""NFT Finance never stop"":""[""}",https://deepdao.io/feed-proposal/0x66f1890fe2eb9995f7ebc877aedb69ff73424dd80b774a8955f4c14be68bf360,https://deepdao.io/user/0x9eafa492ea977985d16cb3c2007a92c446950c2e/verified_dao_experience
+41,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,A,I love Crypto,0x55d3a17f03ea81222fdf125e1bfd79aab0602ab7,2021-12-30T20:29:01.000Z,QmSTmLZxE3AXV1sjcuaemvP46BuZYbk1t6xPLLNX81gs7r,2022-12-30T20:30:00.000Z,ACTIVE,801,"{""Freedom For All"":""["","" Blockchain"":""6""}",https://deepdao.io/feed-proposal/QmSTmLZxE3AXV1sjcuaemvP46BuZYbk1t6xPLLNX81gs7r,https://deepdao.io/user/0x55d3a17f03ea81222fdf125e1bfd79aab0602ab7/verified_dao_experience
+42,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Offers On NFTS!,"Just proposing that we have a OFFER button for NFTs. If someone is asking 30 BNB as an example, we can put in offers which we think are fair, e.g 22 BNB. and they can decide if they wanna sell. 
+
+This will give a better indication of how much people are willing to pay for a NFT and how much they might be worth. It will also allow the NFTs to move around more rather than just sitting around at prices noone is willing to pay.
+
+Let me know what you think. Thanks!",0x2e3650ac21a6201bede326db7c20b06c796a91e3,2021-10-14T13:21:36.000Z,QmbA3memTC95w7k55vs9vDK9X57CPqUjoKg4KRz8NsfzVD,2028-01-01T13:00:00.000Z,ACTIVE,792,"{""YES"":""["",""NO"":""6""}",https://deepdao.io/feed-proposal/QmbA3memTC95w7k55vs9vDK9X57CPqUjoKg4KRz8NsfzVD,https://deepdao.io/user/0x2e3650ac21a6201bede326db7c20b06c796a91e3/verified_dao_experience
+43,787e86eb-9938-4093-ad12-f4de3efff8f3,SNAPSHOT,Weighted voting demo,"Each voter may spread voting power across any number of choices. Their voting power will be divided between their chosen option according to how much weight you attribute each option.
+
+Voters distribute their voting power between any number of options.
+
+Pros: Allows voters to express support for more than one option and specify how much you support each.
+Cons: Slightly complexifies the voting process.
+
+Try it for yourself!
+
+## What should PistachioDAO’s motto be?
+",0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a,2022-03-15T11:17:08.000Z,0xf93f1ac80e22cc930b1eef1d20bd34671ccc33b88b04695479c9de364451d77f,2026-04-23T11:16:38.000Z,ACTIVE,784,"{""42"":""9"",""In Pistachio we believe"":""["",""In Pistachio Veritas"":""4"",""Pistachio to the Moon"":""2""}",https://deepdao.io/feed-proposal/0xf93f1ac80e22cc930b1eef1d20bd34671ccc33b88b04695479c9de364451d77f,https://deepdao.io/user/0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a/verified_dao_experience
+44,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Increase frequency of IFO's,Increase in number of IFO's will bring more users to platform,0xf38e5866d59c1a8024eb0ae1efc9ebb748b5b5c5,2021-09-26T05:39:29.000Z,QmdbF9kKxnF7WabGdM9emQHVTSBczMjwP43KtmxaDiLseT,2026-01-08T19:00:00.000Z,ACTIVE,729,"{""Support"":""["",""Against"":""5""}",https://deepdao.io/feed-proposal/QmdbF9kKxnF7WabGdM9emQHVTSBczMjwP43KtmxaDiLseT,https://deepdao.io/user/0xf38e5866d59c1a8024eb0ae1efc9ebb748b5b5c5/verified_dao_experience
+45,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Huobi  Super Profitable Primelist Code :  jjz46,"Huobi Referral Code
+ and Super Profitable Primelist Code:
+Click here: https://www.huobi.mw/en-us/topic/double-invite/register/?invite_code=jjz46&name=Banshee&avatar=4
+
+or use this code: jjz46
+
+You'll get up to $2000 of Primelist rewards  on Huobi,real  bonus real activites,magic miner and more beautiful things.",0xf35ec9f6a76877796ae9d35d5e5e4452d0d95786,2022-01-12T15:41:37.000Z,Qmcn62G2HKtRTmohxQ9Ki2LAUVWY9a5khBTFbRqi6oi5M8,2023-01-09T17:30:00.000Z,ACTIVE,724,"{""https://www.huobi.mw/en-us/topic/double-invite/register/?invite_code=jjz46&name=Banshee&avatar=4"":""9""}",https://deepdao.io/feed-proposal/Qmcn62G2HKtRTmohxQ9Ki2LAUVWY9a5khBTFbRqi6oi5M8,https://deepdao.io/user/0xf35ec9f6a76877796ae9d35d5e5e4452d0d95786/verified_dao_experience
+46,8a0754d1-3070-4141-b2f4-1982a3e3cd42,SNAPSHOT,Have you been eligible for Arbitrum Odyssey 1st week,For all who have been eligible for Arbitrum Odyssey 1st week there will be significant reward in the near future,0x4ff73f6812d4f440c391123644fc87da8528fcba,2022-10-30T11:47:13.000Z,0xd9cc742d0622d0386c0d3fe55557181714bddc08bf13b8f20082bf36261c9b5a,2023-01-25T07:00:00.000Z,ACTIVE,687,"{""YES"":""["",""NO"":""5""}",https://deepdao.io/feed-proposal/0xd9cc742d0622d0386c0d3fe55557181714bddc08bf13b8f20082bf36261c9b5a,https://deepdao.io/user/0x4ff73f6812d4f440c391123644fc87da8528fcba/verified_dao_experience
+47,787e86eb-9938-4093-ad12-f4de3efff8f3,SNAPSHOT,Quadratic voting demo,"Each voter may spread voting power across any number of choices. The results are calculated quadratically, so the number of individual voters matters more than the voting power contributed. For more information on quadratic voting, head here: https://en.wikipedia.org/wiki/Quadratic_voting
+
+The results will reflect both the voting power distributed and the number of contributors who voted for a certain option.
+
+Pros: Dilutes the voting power of whales in favor of smaller holders. Individuals will matter more than tokens.
+Cons: This voting type needs to be accompanied by a Sybil-resistance mechanism that prevents whales from simply splitting funds across different wallets.
+
+Try it for yourself!
+
+## Which new projects should we support in the next PistachioDAO Grants?
+",0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a,2022-03-15T11:14:11.000Z,0x21f64875abbca71762a980efae43ab62b546d54f19a208d0e61a5d7cee571a35,2026-04-23T11:13:42.000Z,ACTIVE,677,"{""PistachioSwap"":""["",""Pistachio UBI"":""5"",""ProofofPistachio"":""3"",""iPistachio"":""5""}",https://deepdao.io/feed-proposal/0x21f64875abbca71762a980efae43ab62b546d54f19a208d0e61a5d7cee571a35,https://deepdao.io/user/0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a/verified_dao_experience
+48,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Roadmap's Higher Priority to Lending & Borrowing & Fixed Term Staking,"Hello everyone, to burn more cake and attract liquidity we need new mechanisms and new functions for Pancakeswap.
+
+I propose to give a higher priority in the roadmap in the development of:
+1) Lending & borrowing
+2) Fixed terms staking",0xc70b3d976bdbcde9f919f2621a718d5d343e8f9f,2021-12-03T11:53:51.000Z,QmeAsojXbWyJaT5LvqQFrfMhqxLFRLBaFmGWsdcnsea2RR,2027-08-20T22:45:00.000Z,ACTIVE,666,"{""I agree"":""["",""I do not agree"":""2""}",https://deepdao.io/feed-proposal/QmeAsojXbWyJaT5LvqQFrfMhqxLFRLBaFmGWsdcnsea2RR,https://deepdao.io/user/0xc70b3d976bdbcde9f919f2621a718d5d343e8f9f/verified_dao_experience
+49,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Introduction of Cake Prediction  just like BNB prediction,"Its simple actually 
+
+**Cake prediction Just like BNB prediction**
+
+
+Upside ....cake holders that earn daily cake get to play predictions  gamble with it .
+
+**Two things happens this way**  :
+ 
+*Your cake bag increases*
+																														                     
+OR
+*You loose your CAKE which then goes to the burn address.*
+
+Both are win win situations for CAKE holders  you ether increase the size of your bag or you send them to the burn address which in turn  helps with the price and curb inflation.
+
+I understand BNB prediction market is still in beta phase .
+But a MVP cake prediction market will also be cool .
+",0xd6fc929807c25d05b3f1ef8211c4eb6d6e767922,2021-11-07T08:31:53.000Z,QmZEkXLME21wES4Fk1c9x1AE9VsgUPhcGLZaHSLgEeuyaH,2023-05-26T18:30:00.000Z,ACTIVE,664,"{""YES for CAKE Prediction - Pancake team should take a look at it."":""["",""BAD IDEA !"":""2""}",https://deepdao.io/feed-proposal/QmZEkXLME21wES4Fk1c9x1AE9VsgUPhcGLZaHSLgEeuyaH,https://deepdao.io/user/0xd6fc929807c25d05b3f1ef8211c4eb6d6e767922/verified_dao_experience
+50,787e86eb-9938-4093-ad12-f4de3efff8f3,SNAPSHOT,Ranked-choice voting demo,"Each voter may rank the different choices in any order. Votes are initially counted for each voter's number one choice. If a candidate has more than half of the vote based on number one choices, that choice wins. If not, then the choice with the fewest number one votes is eliminated. Voters who had chosen the defeated choice as number one now have their number two choice counted as number one choice. The process continues over multiple rounds until a choice has more than half the votes.
+
+The calculation of the results stops when one choice has more than 50% of the votes. 
+Some options will show up as if they had not received any votes because they were eliminated in the ranked-choice voting process.
+
+Pros: Determines the option with the strongest support and reduces wasted votes.
+Cons: Complex to understand. Will only determine one winner, doesn’t work well to select 2 or more winning options.
+
+Try it for yourself!
+
+## Who should be the Treasury Lead of PistachioDAO?
+",0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a,2022-03-15T11:15:45.000Z,0x5003da0f03e718b461e53fe10a998b60172e2e108472153282fcef781c300f23,2026-04-23T11:14:47.000Z,ACTIVE,663,"{""Alice"":""["",""Bob"":""2"",""Carol"":""5"",""David"":""1""}",https://deepdao.io/feed-proposal/0x5003da0f03e718b461e53fe10a998b60172e2e108472153282fcef781c300f23,https://deepdao.io/user/0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a/verified_dao_experience
+51,787e86eb-9938-4093-ad12-f4de3efff8f3,SNAPSHOT,Approval voting demo,"Each voter may approve any number of choices. Each voter gives his full voting power to each option he chooses.
+
+Pros: Ask approval for several decisions in a single proposal.
+Cons: There is no way to manifest *how much* you support each choice. It’s a simple yes or no.
+
+Try it out for yourself!
+
+## Do you ratify the articles of the PistachioDAO constitution?
+",0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a,2022-03-15T11:12:58.000Z,0x08c3bd2960700525770a1d634f8599ba967e55fcc05b6c1649d984d88253769d,2026-04-23T11:12:07.000Z,ACTIVE,659,"{""Article 1"":""["",""Article 2"":""4"",""Article 3"":""3"",""Article 4"":""2""}",https://deepdao.io/feed-proposal/0x08c3bd2960700525770a1d634f8599ba967e55fcc05b6c1649d984d88253769d,https://deepdao.io/user/0xf9551c66995ed3ff9bb05c9fd7ff148bd75dc99a/verified_dao_experience
+52,9590d484-85ed-42df-bb4d-71101e6b63d1,SNAPSHOT,PoolTogether Protocol Constitution,"This Snapshot ratifies the PoolTogether Protocol Constitution. The Snapshot will last a year, reminding us to re-review the document. 
+
+Signing this Snapshot will signal your pledge to the constitution.
+
+### The purpose of the constitution is the following:
+- The constitution is a document that breaks out the vision and other foundational principles of the protocol.
+- The constitution serves as the highest level north star guiding governance and strategy as the protocol and community grow.
+- The constitution is a living but hard-to-change document that puts PoolTogether’s ethos into writing.
+- The constitution is ratified by POOL holders, with any future changes ratified in the same way.
+
+# Mission
+PoolTogether helps people build wealth in a fun and engaging way.
+
+# Vision
+PoolTogether will be the global infrastructure for prize savings.
+
+# Protocol Core Values
+### Wealth Creating
+PoolTogether is a prize savings protocol helping people build wealth. It does this by making saving money fun, accessible, and financially rewarding. The protocol is **no loss** and positive-sum, leaving everyone better off for using it.
+ 
+### Accessible to All
+PoolTogether aims to help everyone, regardless of background, technical experience, or current wealth. We aim to make financial security globally accessible and help people build wealth around the world.
+
+### Secure
+Savings is a serious business. The protocol design optimizes for security of deposited funds. Perfect security can never be guaranteed, but ensuring the “No Loss” mantra remains true is paramount.
+
+### User Owned
+The protocol is governed by the POOL token, which has been freely distributed to users of the protocol. These token holders make up the heart of the community, guiding and contributing to the mission of the protocol. POOL holders are tasked with stewarding the protocol and making decisions for the long-term benefit of the protocol and its users.
+ 
+### Autonomous 
+The PoolTogether protocol is designed to live forever. It follows the ethos of decentralized finance (DeFi), seeking to improve the financial system by replacing humans with immutable software. User funds will never be accessible to PoolTogether developers or POOL token holders.
+
+### Transparent and Fair 
+The PoolTogether protocol is a set of smart contracts. The code is publicly available and open source for everyone to verify, validate, or adopt. It can be copied and re-used by anyone. It is globally accessible, provably fair, and free to use for anyone without permission.
+
+### Fun and Engaging
+We’re here to have a good time building wealth. Our protocol brings people joy and excitement!",0x9f36a6bb398118bdcd5b1bc3343d8feb6d7d02b9,2022-10-19T08:58:30.000Z,0x1934365725b98f908ae1de42a637c618301d2fd0167eac455478fb74bf3f101b,2023-09-30T10:00:00.000Z,ACTIVE,638,"{""Sign"":""[""}",https://deepdao.io/feed-proposal/0x1934365725b98f908ae1de42a637c618301d2fd0167eac455478fb74bf3f101b,https://deepdao.io/user/0x9f36a6bb398118bdcd5b1bc3343d8feb6d7d02b9/verified_dao_experience
+53,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Binance - best exchange in the world refferal code : CakeUser,"Binance Referral Code
+
+Click here: https://accounts.binance.com/ru/register?ref=35008948
+
+or use this code: CakeUser
+
+You'll be on Binance. ",0xf35ec9f6a76877796ae9d35d5e5e4452d0d95786,2022-01-12T15:21:17.000Z,QmYSK5qib4KX5hnX4jNbTQZG7ka3fkhHdXQq9ucPjNtpZq,2024-02-19T17:15:00.000Z,ACTIVE,621,"{""https://accounts.binance.com/ru/register?ref=35008948"":""1""}",https://deepdao.io/feed-proposal/QmYSK5qib4KX5hnX4jNbTQZG7ka3fkhHdXQq9ucPjNtpZq,https://deepdao.io/user/0xf35ec9f6a76877796ae9d35d5e5e4452d0d95786/verified_dao_experience
+54,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,METAVERSE PLANET,METAVERSE BİR DÜNYA YAPIN . HERKES ORADAN EV ARSA DÜKKAN EŞYA ALSIN. HERKESİN İŞYERİ ORADA OLSUN TATİL ADALARI OLSUN CENNET GİBİ YERLER OLSUN ALIŞBERİŞ OLSUN HERKESİN 24 saat vakit geçireceği harika bir evren planet olsun siz pancake ailesi olarak en iyi bunu yapabilecek insanlarsınız,0xdab5193a0920302bf5c12a7ac16d56e1b283cf97,2021-12-20T10:47:49.000Z,QmRjdhbqeLe6MYBQicLC53sMz4uYcsp5fzJ5657AckvyrN,2023-12-19T22:00:00.000Z,ACTIVE,598,"{""METAVERSE PLANET"":""5""}",https://deepdao.io/feed-proposal/QmRjdhbqeLe6MYBQicLC53sMz4uYcsp5fzJ5657AckvyrN,https://deepdao.io/user/0xdab5193a0920302bf5c12a7ac16d56e1b283cf97/verified_dao_experience
+55,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,"Someone thought it will be the biggest ""Black Swan Event"" that Binance was hacked in 2022. Do you think it is correct?",,0x72644979e29270139a0f211b6da29c1652649dc2,2022-07-30T15:44:45.000Z,0x8ea3029b2161dcd970a3ecbaa74bf3e3a9c314e6a08b50ed204451c48530962f,2023-01-31T04:00:00.000Z,ACTIVE,594,"{""Correct"":""["",""Impossible"":""2""}",https://deepdao.io/feed-proposal/0x8ea3029b2161dcd970a3ecbaa74bf3e3a9c314e6a08b50ed204451c48530962f,https://deepdao.io/user/0x72644979e29270139a0f211b6da29c1652649dc2/verified_dao_experience
+56,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Voluntary cake burn option and cake burn leader board,"An option to burn cake voluntary. For every cake you burn you will earn 1 cake point and be added to a leader board of cake burners.
+
+Leader boards
+- all time
+- yearly
+- monthly
+- weekly
+- daily
+
+I believe this will be a very effective way to burn cake without needing anything special except for a leader board and points added to profile. 
+
+Perhaps if necessary rewards can be given to top burners but that can be extended later. 
+
+",0x42ba001719ce41fd28249073a7fb55630b5f9185,2021-03-12T20:20:09.000Z,QmSjNRa6UJNsbwsBKTLq66dLr73ow6msBeoAXTqrf1SU4r,2030-01-31T12:00:00.000Z,ACTIVE,560,"{""Yes - Support"":""["",""No - Don't Support"":""5""}",https://deepdao.io/feed-proposal/QmSjNRa6UJNsbwsBKTLq66dLr73ow6msBeoAXTqrf1SU4r,https://deepdao.io/user/0x42ba001719ce41fd28249073a7fb55630b5f9185/verified_dao_experience
+57,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Do you think that Chandler Guo will fork Etherium successfully?,,0x2c3c4637359bc194f4e6760e77491fe3ed018173,2022-07-30T07:49:20.000Z,0x13d5b166b2913df49edbab0a9179f7eacf3672b84451565c09f64f8a49ec74f5,2023-03-29T04:00:00.000Z,ACTIVE,549,"{""Yes"":""["",""No"":""4""}",https://deepdao.io/feed-proposal/0x13d5b166b2913df49edbab0a9179f7eacf3672b84451565c09f64f8a49ec74f5,https://deepdao.io/user/0x2c3c4637359bc194f4e6760e77491fe3ed018173/verified_dao_experience
+58,8a0754d1-3070-4141-b2f4-1982a3e3cd42,SNAPSHOT,I'm creating this proposal for arbitrum PRO users,,0x338641bdfbf9cdd0e0fa513176a13e2087be3947,2022-10-30T11:14:39.000Z,0x57411c424025b524844e3a4c091ee06be1400840875f92a014a766115d60faa8,2023-01-01T07:00:00.000Z,ACTIVE,510,"{""For"":""["",""Against"":""4""}",https://deepdao.io/feed-proposal/0x57411c424025b524844e3a4c091ee06be1400840875f92a014a766115d60faa8,https://deepdao.io/user/0x338641bdfbf9cdd0e0fa513176a13e2087be3947/verified_dao_experience
+59,6a4d2a80-85ac-46a3-9bd9-ee64763de426,SNAPSHOT,How many fans does LensProtocol Twitter account have at present?,"How many fans does LensProtocol Twitter account have at present?
+
+
+",0x1d309aa3b2e470911508b9ec6bf12a029ae7729c,2022-10-14T05:56:04.000Z,0x68ba9a050472fe9b46a707311fd5d15ed18ffaad6291ec0431e57b3bb16f55c6,2023-07-29T06:56:04.000Z,ACTIVE,493,"{""100000"":""["",""120000"":""1"",""150000"":""9""}",https://deepdao.io/feed-proposal/0x68ba9a050472fe9b46a707311fd5d15ed18ffaad6291ec0431e57b3bb16f55c6,https://deepdao.io/user/0x1d309aa3b2e470911508b9ec6bf12a029ae7729c/verified_dao_experience
+60,6705fbdd-8248-4079-a796-c71b6e343224,SNAPSHOT,What is the lowest price of ETH in the next two years?,"There is no doubt that we are already in a bear🐻 market,
+The Federal Reserve is raising interest rates sharply,
+The world economy is on the brink of Recession,
+Can cryptocurrencies get out of the independent market?
+Impossible!
+The current cryptocurrency has become an indispensable branch of the main financial system.
+okay,GUSS:
+What is the lowest price of ETH in the next two years?",0xfd1c342d863e074fbfa6eeafbdbc59e43376c37d,2022-10-14T09:13:01.000Z,0xa6a15805785cceb447a7a2e8e9cd133d0559f40d5055ad2018e6f421621bd6d7,2024-05-01T16:00:00.000Z,ACTIVE,485,"{""880 USDC"":""["",""680 USDC"":""1"",""480 USDC"":""1"",""280 USDC"":""2""}",https://deepdao.io/feed-proposal/0xa6a15805785cceb447a7a2e8e9cd133d0559f40d5055ad2018e6f421621bd6d7,https://deepdao.io/user/0xfd1c342d863e074fbfa6eeafbdbc59e43376c37d/verified_dao_experience
+61,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,"Which one will be the biggest L2 network, Polygon or Optimism?",,0x119e72114566da53c13c3159f37e9dfb1c0b5537,2022-07-30T07:29:45.000Z,0x2809d3bbc86207abac2f397cc2ad05616bbcdbd748050252f967b2bf89b2dc40,2023-01-30T04:00:00.000Z,ACTIVE,476,"{""Optimism"":""["",""Polygon"":""8""}",https://deepdao.io/feed-proposal/0x2809d3bbc86207abac2f397cc2ad05616bbcdbd748050252f967b2bf89b2dc40,https://deepdao.io/user/0x119e72114566da53c13c3159f37e9dfb1c0b5537/verified_dao_experience
+62,bff66cf5-8824-4842-bfc6-a6331b9b2a00,SNAPSHOT,Will Snapshot launch token plan?,,0x95540a522508757b209940a7bf3fdfd22847c82f,2022-07-30T01:46:55.000Z,0x9dede98b8dd66807827dd34989dc3135bec1e96f954c54c89bb201d82577a953,2023-07-31T04:00:00.000Z,ACTIVE,472,"{""Yes"":""["",""No"":""3""}",https://deepdao.io/feed-proposal/0x9dede98b8dd66807827dd34989dc3135bec1e96f954c54c89bb201d82577a953,https://deepdao.io/user/0x95540a522508757b209940a7bf3fdfd22847c82f/verified_dao_experience
+63,7ffc4c97-24a7-49ad-8105-35b1aefa6b59,SNAPSHOT,when will the via.exchange hold the next nft  event?,,0xa7f6a94cb321e6700ae20ffbf07c760753967055,2022-08-28T09:30:30.000Z,0x4b4b24bf40b8646635dad77e0f551325c565a1fdc544c0d18ce4d3f9e140afdc,2023-02-28T04:00:00.000Z,ACTIVE,470,"{""before 2022.12.31"":""["",""after 2022.12.31"":""4""}",https://deepdao.io/feed-proposal/0x4b4b24bf40b8646635dad77e0f551325c565a1fdc544c0d18ce4d3f9e140afdc,https://deepdao.io/user/0xa7f6a94cb321e6700ae20ffbf07c760753967055/verified_dao_experience
+64,6a4d2a80-85ac-46a3-9bd9-ee64763de426,SNAPSHOT,Do you think the users of lens will surpass ENS?,"Do you think the users of lens will surpass ENS?
+
+",0x1d309aa3b2e470911508b9ec6bf12a029ae7729c,2022-08-14T03:08:56.000Z,0x9e5de7f1bfa8edc967a02130bf5273ceb8bf9e3ad5694566959d604c98af1733,2023-05-29T04:08:56.000Z,ACTIVE,446,"{""yes"":""["",""no"":""6""}",https://deepdao.io/feed-proposal/0x9e5de7f1bfa8edc967a02130bf5273ceb8bf9e3ad5694566959d604c98af1733,https://deepdao.io/user/0x1d309aa3b2e470911508b9ec6bf12a029ae7729c/verified_dao_experience
+65,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Voluntary Cake Burn + Leader Board,"An option to volantary burn cake and gain points, the points will be added to your Profile. 
+
+
+There will also be a leader board for points for every
+- 24 hours 
+- 7 days
+- Monthly
+- yearly
+- All time  
+
+
+Additional rewards can be considered but not necessary such as NFT rewards for being in the top 10 before it resets.",0x42ba001719ce41fd28249073a7fb55630b5f9185,2021-07-13T23:35:56.000Z,QmXQyecoNPXqFigW469Qr7rCfTT1REMGt5NpfwnLcf71D4,2022-12-31T00:15:00.000Z,ACTIVE,441,"{""Yes support the burn"":""["",""No support "":""1""}",https://deepdao.io/feed-proposal/QmXQyecoNPXqFigW469Qr7rCfTT1REMGt5NpfwnLcf71D4,https://deepdao.io/user/0x42ba001719ce41fd28249073a7fb55630b5f9185/verified_dao_experience
+66,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,This is not accepted in our community,"You can throw slippers at me, but I have nowhere else to turn!!! I'm new to cryptocurrency and before I got into the cake I was trying to trade on the stock exchange. As a result of trading on the stock exchange, I lost a very large amount of 2000 USD for me (for someone it may be small money, but it was very hard for me to get it). For many of you, the percentage accrued for the day in the cake is not significant money, so I would like to ask you to help me, and transfer to my wallet the cake as much as you don't mind (0X45910C699547AABEAC969673B3796D3E036BF57B). I also think that over time I will be able to gradually return these funds to you.",0x45910c699547aabeac969673b3796d3e036bf57b,2021-11-07T08:29:31.000Z,QmaiCY1qz1pyDr4y2zSJ1KtUC9ZFpX4BP2LBEp6SgS1XZs,2027-08-06T21:30:00.000Z,ACTIVE,437,"{""Get out, and don't let us see you here anymore"":""["",""We will help you, brother, you do not need to return the funds"":""8"",""Was it possible? I want it that way too"":""4"",""Catch it, brother, but you will definitely return it"":""6"",""Here everyone is for himself"":""5""}",https://deepdao.io/feed-proposal/QmaiCY1qz1pyDr4y2zSJ1KtUC9ZFpX4BP2LBEp6SgS1XZs,https://deepdao.io/user/0x45910c699547aabeac969673b3796d3e036bf57b/verified_dao_experience
+67,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Maximum Supply to Cake ,"PLEASE READ BEFORE VOTING
+
+I know cake is an inflationary token and a maximum supply isn't really possible due to minting. 
+
+However i believe if a maximum supply is set it would effect people psychologically making it more appealing. As for pancakeswap it would be like setting a deadline to have 0 emissions or below before we hit the max supply. 
+
+Here is the plan:
+Maximum supply will be set at 500m which would take over 2 years for it to hit. Pancakeswap will do everything within 2 years to bring emissions down to 0 or negative to prevent it hitting 500m.
+
+If pancakeswap fails to achieve it then once we hit 500m cake all new minting will be paused and rewards will be given out from NFT fees, IFO, transaction fees etc....  Please note by then we may have even features that would burn cake like gamification, margin, lending and borrowing. 
+
+
+
+",0x42ba001719ce41fd28249073a7fb55630b5f9185,2021-10-16T11:43:19.000Z,QmUy97kqANcDVmQBveiPXFg5jKbLv2koiAjSzaGK1RFoLC,2022-12-31T00:15:00.000Z,ACTIVE,426,"{""Yes - Support"":""["",""No - Dont Support"":""2""}",https://deepdao.io/feed-proposal/QmUy97kqANcDVmQBveiPXFg5jKbLv2koiAjSzaGK1RFoLC,https://deepdao.io/user/0x42ba001719ce41fd28249073a7fb55630b5f9185/verified_dao_experience
+68,6a4d2a80-85ac-46a3-9bd9-ee64763de426,SNAPSHOT,Do you want LensProtocol to finance?,"Do you want LensProtocol to finance?
+
+",0x1d309aa3b2e470911508b9ec6bf12a029ae7729c,2022-10-14T05:52:54.000Z,0xb9f247433860a74a1da4aa3a23db11dcf16294706aa00f5ffd8f48ebc0479ae6,2023-07-29T06:52:54.000Z,ACTIVE,420,"{""yes"":""["",""no"":""4""}",https://deepdao.io/feed-proposal/0xb9f247433860a74a1da4aa3a23db11dcf16294706aa00f5ffd8f48ebc0479ae6,https://deepdao.io/user/0x1d309aa3b2e470911508b9ec6bf12a029ae7729c/verified_dao_experience
+69,6a4d2a80-85ac-46a3-9bd9-ee64763de426,SNAPSHOT,Do you believe in Web3 Social Media?,,0x68890c8e96d8a29e7ad849305dc6fd5454acd35d,2022-11-07T14:17:12.000Z,0xf06a09bb15a1214c1c746e36de1a56c12a15a2a279793ed1915a1046755a8100,2023-08-22T15:17:12.000Z,ACTIVE,402,"{""Yes"":""["",""No"":""6"",""Undecided"":""8""}",https://deepdao.io/feed-proposal/0xf06a09bb15a1214c1c746e36de1a56c12a15a2a279793ed1915a1046755a8100,https://deepdao.io/user/0x68890c8e96d8a29e7ad849305dc6fd5454acd35d/verified_dao_experience
+70,e2839abc-9982-4ef7-b57b-01bee5d0710b,SNAPSHOT,兔子洞的三个intro入门NFT是否值得多号去撸呢,你认为是否值得多号去撸，考虑时间成本和ETH成本的话？,0x979d606d736d4847bbb5ba9714ac0f1543beffbe,2022-09-05T14:51:13.000Z,0x0ff4105a21648265e809339b131fc2ff640338e7d62cba7994599a0bef4068b6,2022-12-31T04:00:00.000Z,ACTIVE,394,"{""是，<10个号去撸"":""["",""是，10-100个号去撸"":""1"",""否，一个就够"":""0""}",https://deepdao.io/feed-proposal/0x0ff4105a21648265e809339b131fc2ff640338e7d62cba7994599a0bef4068b6,https://deepdao.io/user/0x979d606d736d4847bbb5ba9714ac0f1543beffbe/verified_dao_experience
+71,6a4d2a80-85ac-46a3-9bd9-ee64763de426,SNAPSHOT,Have you used Lenster?,"Lenster is a decentralized, and permissionless social media app built with LensProtocol.",0xc99156960a5237477fb7f43b1f072d861ab524dc,2022-11-12T14:45:25.000Z,0x6626d826f6a8deeed6c2c9ae79f759394e15474c3ddc1bfe67a4099e073142f0,2023-08-27T15:45:25.000Z,ACTIVE,392,"{""Yes"":""["",""No"":""5""}",https://deepdao.io/feed-proposal/0x6626d826f6a8deeed6c2c9ae79f759394e15474c3ddc1bfe67a4099e073142f0,https://deepdao.io/user/0xc99156960a5237477fb7f43b1f072d861ab524dc/verified_dao_experience
+72,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,Pancake Maker & Other Merch,"It is time to take PancakeSwap's merchandising to another level. I suggest the following physical items: chef apron, pancake maker, pancake spatula, plates and utensils + matching NFT for proof of purchase.",0x1facedfb0e0b7bac4699a471937f4d96649b8fa6,2021-03-09T05:27:48.000Z,QmXhZYn3V7ujKiMikpTyGvKkeUa3eku3qGdk41gfK1pmhe,2025-12-25T17:00:00.000Z,ACTIVE,386,"{""Yes, we want merch!"":""["",""No, I don't like pancakes :("":""2""}",https://deepdao.io/feed-proposal/QmXhZYn3V7ujKiMikpTyGvKkeUa3eku3qGdk41gfK1pmhe,https://deepdao.io/user/0x1facedfb0e0b7bac4699a471937f4d96649b8fa6/verified_dao_experience
+73,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,hi cake :-),"****The cake world is very beautiful and risky.  While it is risky, those who enter crypto money do not know exactly what it is.  You should advertise a little slower.  You can distribute 1000 cakes randomly every day to those who make automatic and manual cake investments.  Thanks .",0x4f6da0bd7f7623f1467e2b85d159863755f0a4ae,2021-07-31T18:58:31.000Z,QmNX1NRKJsGRsmjFaqiE3XBB2Hrk1j1U3jK2gQ52AJqh8Z,2025-07-23T21:30:00.000Z,ACTIVE,377,"{""a"":""["",""b"":""4""}",https://deepdao.io/feed-proposal/QmNX1NRKJsGRsmjFaqiE3XBB2Hrk1j1U3jK2gQ52AJqh8Z,https://deepdao.io/user/0x4f6da0bd7f7623f1467e2b85d159863755f0a4ae/verified_dao_experience
+74,6a4d2a80-85ac-46a3-9bd9-ee64763de426,SNAPSHOT,How many lens domains do you have?,"How many lens domains do you have?
+
+",0x1d309aa3b2e470911508b9ec6bf12a029ae7729c,2022-08-14T03:07:48.000Z,0x3f480dea16172a02404f89b5d6b5918d9521737edfd7267429b66c36cab67731,2023-05-29T04:07:48.000Z,ACTIVE,373,"{""1"":""["",""2-5"":""4"",""5-100"":""6""}",https://deepdao.io/feed-proposal/0x3f480dea16172a02404f89b5d6b5918d9521737edfd7267429b66c36cab67731,https://deepdao.io/user/0x1d309aa3b2e470911508b9ec6bf12a029ae7729c/verified_dao_experience
+75,6dd7da2e-a68f-4600-981f-e7d2df2ac38d,SNAPSHOT,Perpetual question machine #6,Basic voting question that lasts a very long time,0xe284d93e16dbb8dc75aa22d8022fcfb076ac8183,2021-11-04T13:12:14.000Z,0xa2ae58608578e84dff03c9cdc133696c7ce40f3fafdd6d946f380dcc1836b14b,2023-11-16T11:00:00.000Z,ACTIVE,369,"{""For"":""["",""Against"":""3"",""Abstain"":""0""}",https://deepdao.io/feed-proposal/0xa2ae58608578e84dff03c9cdc133696c7ce40f3fafdd6d946f380dcc1836b14b,https://deepdao.io/user/0xe284d93e16dbb8dc75aa22d8022fcfb076ac8183/verified_dao_experience
+76,050c29a8-b6d4-4551-a423-ec7a282de339,SNAPSHOT,will  the price of audio down to 1$ this year?,,0x4a691154ae4196078848918cdea689a67750cdfd,2022-04-10T14:25:40.000Z,0xb50c9030d02b1555838487da0220b9c11093e153814658025b74655e40ee1096,2022-12-27T04:00:00.000Z,ACTIVE,362,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0xb50c9030d02b1555838487da0220b9c11093e153814658025b74655e40ee1096,https://deepdao.io/user/0x4a691154ae4196078848918cdea689a67750cdfd/verified_dao_experience
+77,7e0e74c6-1e0a-41d9-8f07-0cc2214172aa,SNAPSHOT,eth今年能到10000吗？,,0x1769ebeac84d438942c266554126f858bcec5f17,2022-03-30T10:35:40.000Z,0x49b81b115923584b7b56a27cba3ddc7ba76eb2e1ed8074d69246f28f06c83ba7,2022-12-31T04:00:00.000Z,ACTIVE,361,"{""YES"":""["",""NO"":""1""}",https://deepdao.io/feed-proposal/0x49b81b115923584b7b56a27cba3ddc7ba76eb2e1ed8074d69246f28f06c83ba7,https://deepdao.io/user/0x1769ebeac84d438942c266554126f858bcec5f17/verified_dao_experience
+78,fb5864e3-b22b-4830-b151-9c8ca9e07c84,SNAPSHOT,will binance be listed on Nasdaq on 2022?,,0x3bd53d454aaaf139a85cda2507021afce22c0370,2022-04-07T08:18:31.000Z,0xdc75f2b36587dad8fb68056cc36e2d96564466471bd9040bc3dd37111403bcb1,2022-12-29T04:00:00.000Z,ACTIVE,361,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0xdc75f2b36587dad8fb68056cc36e2d96564466471bd9040bc3dd37111403bcb1,https://deepdao.io/user/0x3bd53d454aaaf139a85cda2507021afce22c0370/verified_dao_experience
+79,050c29a8-b6d4-4551-a423-ec7a282de339,SNAPSHOT,will aca up to 10$ by the end of 2022?,,0x4a691154ae4196078848918cdea689a67750cdfd,2022-04-10T14:15:36.000Z,0xf2303a05ed829d67ba39092d3502ece094836ea9f1d1dee7df28a55efa02f3f5,2022-12-27T04:00:00.000Z,ACTIVE,361,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0xf2303a05ed829d67ba39092d3502ece094836ea9f1d1dee7df28a55efa02f3f5,https://deepdao.io/user/0x4a691154ae4196078848918cdea689a67750cdfd/verified_dao_experience
+80,050c29a8-b6d4-4551-a423-ec7a282de339,SNAPSHOT,Did you think ens will up to 100$ on 2022?,,0x4a691154ae4196078848918cdea689a67750cdfd,2022-04-10T14:10:37.000Z,0x3aee4832e492712804e67288f3a9f5fdad9c8a4a7e61207ae56bc6197aa4e093,2022-12-29T04:00:00.000Z,ACTIVE,361,"{""yes"":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x3aee4832e492712804e67288f3a9f5fdad9c8a4a7e61207ae56bc6197aa4e093,https://deepdao.io/user/0x4a691154ae4196078848918cdea689a67750cdfd/verified_dao_experience
+81,d7d1b1e7-2d51-487b-b4b3-228ba94792e6,SNAPSHOT,Do you think btc will go down 0?,,0xc1d92b7aa991e5b06f87a48f8d01e92454c81cd0,2022-04-10T13:26:05.000Z,0xe4a17ded77428306c79a4b9c361e5e85a4529b1e8282b919d643d604c2f24bd0,2022-12-29T04:00:00.000Z,ACTIVE,360,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0xe4a17ded77428306c79a4b9c361e5e85a4529b1e8282b919d643d604c2f24bd0,https://deepdao.io/user/0xc1d92b7aa991e5b06f87a48f8d01e92454c81cd0/verified_dao_experience
+82,fb5864e3-b22b-4830-b151-9c8ca9e07c84,SNAPSHOT,DO you think SSV will be the best performent cypto on 2022?,,0x3bd53d454aaaf139a85cda2507021afce22c0370,2022-04-07T08:20:32.000Z,0x4ae7e2a14a2058df3af69f914f90bd96c524fa0e229a7c9953c792004f2bde0f,2022-12-30T04:00:00.000Z,ACTIVE,360,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x4ae7e2a14a2058df3af69f914f90bd96c524fa0e229a7c9953c792004f2bde0f,https://deepdao.io/user/0x3bd53d454aaaf139a85cda2507021afce22c0370/verified_dao_experience
+83,b6f619b3-61ab-4547-b28f-dbdd5d9a8092,SNAPSHOT,Do you  think eth will go to 1000$ again?,,0x7c0a8968c90c9667fa761ec98c969ab4f678170c,2022-04-07T10:27:50.000Z,0x5ea1f700432866f0e78622f175a552f60c46fdadb3c28b517ef5d16e632fcbc1,2022-12-28T04:00:00.000Z,ACTIVE,360,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x5ea1f700432866f0e78622f175a552f60c46fdadb3c28b517ef5d16e632fcbc1,https://deepdao.io/user/0x7c0a8968c90c9667fa761ec98c969ab4f678170c/verified_dao_experience
+84,e9277e4c-5676-490b-8a28-4ffcf7291a1a,SNAPSHOT,will ron go to 10$ on 2022?,,0xc18178691a3d81cd588b0ea785ce8d57fc9c16d0,2022-04-06T12:54:22.000Z,0x51c4e4d32ac04f041b18f4745bfed4e8656fc92c4423490d28a018d47136da89,2022-12-27T04:00:00.000Z,ACTIVE,360,"{""yes"":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x51c4e4d32ac04f041b18f4745bfed4e8656fc92c4423490d28a018d47136da89,https://deepdao.io/user/0xc18178691a3d81cd588b0ea785ce8d57fc9c16d0/verified_dao_experience
+85,fb5864e3-b22b-4830-b151-9c8ca9e07c84,SNAPSHOT,will citydao turn off on 2022?,,0x3bd53d454aaaf139a85cda2507021afce22c0370,2022-04-07T08:16:01.000Z,0x3c1207281dce18b6c81f9e48a33b2fa996dbab6522680885f1c33eb05aeece4a,2022-12-30T04:00:00.000Z,ACTIVE,360,"{""yes "":""["",""no "":""1""}",https://deepdao.io/feed-proposal/0x3c1207281dce18b6c81f9e48a33b2fa996dbab6522680885f1c33eb05aeece4a,https://deepdao.io/user/0x3bd53d454aaaf139a85cda2507021afce22c0370/verified_dao_experience
+86,a2e87758-b8e1-493a-9bb7-c93457d126cc,SNAPSHOT,will ceek go 1$ by the end of 2022?,,0x98044b6f0322c559cc185213253f0db0bad03d0a,2022-04-06T09:58:42.000Z,0xa96a19352c3bc6dbcc21a8ff514d4f3b9a67d5065325810879d30ec1a801b792,2022-12-28T04:00:00.000Z,ACTIVE,360,"{""yes"":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0xa96a19352c3bc6dbcc21a8ff514d4f3b9a67d5065325810879d30ec1a801b792,https://deepdao.io/user/0x98044b6f0322c559cc185213253f0db0bad03d0a/verified_dao_experience
+87,1cda382d-1dba-4d1f-ac62-413d083dddce,SNAPSHOT,will chr to 10$ on 2022,,0x3c0735c3f7df719793fccedb8d285746ca3caf3b,2022-04-06T12:18:04.000Z,0x517749ded10e93829005183a268b8e3f2080f78e06e1d69d33e0e6a990a2ff5a,2022-12-27T04:00:00.000Z,ACTIVE,360,"{""yes"":""["",""no "":""1""}",https://deepdao.io/feed-proposal/0x517749ded10e93829005183a268b8e3f2080f78e06e1d69d33e0e6a990a2ff5a,https://deepdao.io/user/0x3c0735c3f7df719793fccedb8d285746ca3caf3b/verified_dao_experience
+88,e9277e4c-5676-490b-8a28-4ffcf7291a1a,SNAPSHOT,Do you think btc will to 100K$ on 2022?,,0xc18178691a3d81cd588b0ea785ce8d57fc9c16d0,2022-04-06T12:24:09.000Z,0x5a6a3332a53ca0193d4d350df27fe662350e272328c41e23184a6fde13742d8d,2022-12-27T04:00:00.000Z,ACTIVE,359,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x5a6a3332a53ca0193d4d350df27fe662350e272328c41e23184a6fde13742d8d,https://deepdao.io/user/0xc18178691a3d81cd588b0ea785ce8d57fc9c16d0/verified_dao_experience
+89,b6f619b3-61ab-4547-b28f-dbdd5d9a8092,SNAPSHOT,would rune go to 100$ this year?,,0x7c0a8968c90c9667fa761ec98c969ab4f678170c,2022-04-07T10:29:53.000Z,0x50a8b946eb32f3d98a6e8e2328722adde612769799f9d0edc2206c34ff665dab,2022-12-29T04:00:00.000Z,ACTIVE,359,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x50a8b946eb32f3d98a6e8e2328722adde612769799f9d0edc2206c34ff665dab,https://deepdao.io/user/0x7c0a8968c90c9667fa761ec98c969ab4f678170c/verified_dao_experience
+90,92fdc51f-1fc6-4c77-8a35-b1775d809427,SNAPSHOT,will chr down to 0.1$ on 2022?,,0xf6eb86dc835c80fe3c9eb46bd14bf77b94f6ec1a,2022-04-10T13:07:23.000Z,0x74dfa2b57e7676bc8b5656e4f27a618141afa1ccd272b9d32b22b5a863c020a6,2022-12-27T04:00:00.000Z,ACTIVE,359,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x74dfa2b57e7676bc8b5656e4f27a618141afa1ccd272b9d32b22b5a863c020a6,https://deepdao.io/user/0xf6eb86dc835c80fe3c9eb46bd14bf77b94f6ec1a/verified_dao_experience
+91,d7d1b1e7-2d51-487b-b4b3-228ba94792e6,SNAPSHOT,hi do you think eth will up to 10000$ on 2022?,,0xc1d92b7aa991e5b06f87a48f8d01e92454c81cd0,2022-04-10T13:34:43.000Z,0x803e341c600456614b8bf5a4c9fc18be9257283562f2b87551f2381e8c72fb60,2022-12-30T04:00:00.000Z,ACTIVE,358,"{""yes"":""["",""no "":""1""}",https://deepdao.io/feed-proposal/0x803e341c600456614b8bf5a4c9fc18be9257283562f2b87551f2381e8c72fb60,https://deepdao.io/user/0xc1d92b7aa991e5b06f87a48f8d01e92454c81cd0/verified_dao_experience
+92,92fdc51f-1fc6-4c77-8a35-b1775d809427,SNAPSHOT,will rune go to 100$ on 2022?,,0xf6eb86dc835c80fe3c9eb46bd14bf77b94f6ec1a,2022-04-10T13:05:35.000Z,0x17863d7d64a6915e786b5bb1e4406cfc534af9e245912df1d6c350eee3337dcc,2022-12-28T04:00:00.000Z,ACTIVE,358,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x17863d7d64a6915e786b5bb1e4406cfc534af9e245912df1d6c350eee3337dcc,https://deepdao.io/user/0xf6eb86dc835c80fe3c9eb46bd14bf77b94f6ec1a/verified_dao_experience
+93,da9956dc-8a87-40c0-a066-b8991d67e574,SNAPSHOT,New private AI (Artificial Intelligence) tool can predict the next price of BNB on the next 1h - 1Day - 7Day,"The tool it's called [CoinLyse.com](https://coinlyse.com)
+
+**CoinLyse** is a new generation of Artificial Intelligence (AI) software that can predict the next price based on multiple conditions, such as how the chart reacts to the current price over the life of the crypto coin, and makes a lot of comparisons based on all the times he reached the current price, also, builds its analysis on a lot of other conditions such as the strength of buyers and sellers and more...
+
+But the most important thing about **CoinLyse** is that its AI software upgrades its algorithm every day to get better prediction.
+
+And other important feature that we have our program can also predict the average price that can be reached (Currently you can see the expected price for the next 1 hour, 1 day and 7 days)
+
+what are you waiting for? Watch our simple video tutorial and start trying it out with a small budget or on the TradingView Whitepaper and after you find the best strategy you can use on your real money to make more money!
+
+And I want to point out that we will soon provide an API if you are interested in creating your own BOT and we are also planning to publish our private BOT and our other tools
+
+NOTE: We have started our project with BNB to analyze AI results after that we will upgrade it to support more coins
+
+Created with ♡ by the CoinLyse team
+cheers
+
+
+![A test image](https://coinlyse.com/img/exp.6a5a8c9b.png)
+
+***Copied From CoinLyse***",0x2cc21d87deecf317adbbd85dbd13f6a6091d6e79,2022-02-25T01:10:20.000Z,QmZCvWqN4nxRiFdLDdVHvxwovR5JJ6kxqchad2it2fYZeR,2023-06-11T00:15:00.000Z,ACTIVE,358,"{""✅ I already tried it"":""["",""🚀 I will try it now"":""1""}",https://deepdao.io/feed-proposal/QmZCvWqN4nxRiFdLDdVHvxwovR5JJ6kxqchad2it2fYZeR,https://deepdao.io/user/0x2cc21d87deecf317adbbd85dbd13f6a6091d6e79/verified_dao_experience
+94,a4e4019b-58fd-4c64-a0ee-3e700fbde4d8,SNAPSHOT,dao or not?,,0xc1083ea694c1e7bb375f40b0c2924b584c2518f5,2022-04-14T14:38:24.000Z,0x26c372268446c803c855eb347d220aec69ea2492aa56cdc907345069e8d45e56,2023-10-28T04:00:00.000Z,ACTIVE,357,"{""dao"":""["",""not"":""0""}",https://deepdao.io/feed-proposal/0x26c372268446c803c855eb347d220aec69ea2492aa56cdc907345069e8d45e56,https://deepdao.io/user/0xc1083ea694c1e7bb375f40b0c2924b584c2518f5/verified_dao_experience
+95,b6f619b3-61ab-4547-b28f-dbdd5d9a8092,SNAPSHOT,Do you think btc will go to 3000$ again?,,0x7c0a8968c90c9667fa761ec98c969ab4f678170c,2022-04-07T10:26:10.000Z,0x3f71f9de04663e9999d7720e7e145ff84ab58c61aa1eda79414a8886014c80bc,2022-12-29T04:00:00.000Z,ACTIVE,357,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0x3f71f9de04663e9999d7720e7e145ff84ab58c61aa1eda79414a8886014c80bc,https://deepdao.io/user/0x7c0a8968c90c9667fa761ec98c969ab4f678170c/verified_dao_experience
+96,1cda382d-1dba-4d1f-ac62-413d083dddce,SNAPSHOT,will  boomgala nft go to 1e on 2022?,,0x3c0735c3f7df719793fccedb8d285746ca3caf3b,2022-04-06T12:21:03.000Z,0x9e74a96765c4067fefd0a21dd9440690820b044fe5470d198c49088c44eef6b9,2022-12-27T04:00:00.000Z,ACTIVE,357,"{""yes "":""["",""no "":""1""}",https://deepdao.io/feed-proposal/0x9e74a96765c4067fefd0a21dd9440690820b044fe5470d198c49088c44eef6b9,https://deepdao.io/user/0x3c0735c3f7df719793fccedb8d285746ca3caf3b/verified_dao_experience
+97,a2e87758-b8e1-493a-9bb7-c93457d126cc,SNAPSHOT,will gmt go to 10$ this year?,,0x98044b6f0322c559cc185213253f0db0bad03d0a,2022-04-06T09:55:59.000Z,0xd41afed7cdd9aa7c055f6844197ae3b8f91cfc3f1f95eebda9dc62069c464776,2022-12-29T04:00:00.000Z,ACTIVE,357,"{""yes"":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0xd41afed7cdd9aa7c055f6844197ae3b8f91cfc3f1f95eebda9dc62069c464776,https://deepdao.io/user/0x98044b6f0322c559cc185213253f0db0bad03d0a/verified_dao_experience
+98,92fdc51f-1fc6-4c77-8a35-b1775d809427,SNAPSHOT,Do you think ETH will up to 10000$ on 2022?,,0xf6eb86dc835c80fe3c9eb46bd14bf77b94f6ec1a,2022-04-10T13:08:26.000Z,0xed5710cf4f40b729cf12165cab54e0255a465b02c6a26ac05858f4bfa6150332,2022-12-29T04:00:00.000Z,ACTIVE,356,"{""yes "":""["",""no "":""0""}",https://deepdao.io/feed-proposal/0xed5710cf4f40b729cf12165cab54e0255a465b02c6a26ac05858f4bfa6150332,https://deepdao.io/user/0xf6eb86dc835c80fe3c9eb46bd14bf77b94f6ec1a/verified_dao_experience
+99,a2e87758-b8e1-493a-9bb7-c93457d126cc,SNAPSHOT,will russia win the war ?,,0x98044b6f0322c559cc185213253f0db0bad03d0a,2022-04-06T09:47:04.000Z,0x01360fa4e0df44a864b7cfdcfa1342b98f85dfb6f842ebaad49747bddf2ff5cc,2022-12-30T04:00:00.000Z,ACTIVE,355,"{""yes"":""["",""no"":""1""}",https://deepdao.io/feed-proposal/0x01360fa4e0df44a864b7cfdcfa1342b98f85dfb6f842ebaad49747bddf2ff5cc,https://deepdao.io/user/0x98044b6f0322c559cc185213253f0db0bad03d0a/verified_dao_experience
